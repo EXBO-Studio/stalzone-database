@@ -701,7 +701,7 @@
         "key": "item.wpn.microuzi.description",
         "args": {},
         "lines": {
-          "ru": "Израильский малогабаритный автоматический пистолет, дальнейшая модернизация Uzi (после Мини-Узи).",
+          "ru": "Израильский малогабаритный автоматический пистолет-пулемет, дальнейшая модернизация Mini Uzi.\\n\\nХотя эта модель создавалась для коммерческой продажи и служб, не имеющих права на пользование автоматическим оружием, Mini Uzi заинтересовала военных, после чего было выпущено несколько версий еще более компактного варианта этого семейства пистолетов-пулеметов.",
           "en": "An Israeli compact automatic pistol, which represents a further modernization of the Uzi (following the Mini-Uzi).",
           "es": "Una pistola automática compacta israelí que representa una nueva modernización de la Uzi (tras la Mini-Uzi).",
           "fr": "Un pistolet automatique compact israélien qui représente une variante modernisée de l\u0027Uzi (suivant le Mini Uzi).",

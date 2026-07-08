@@ -772,7 +772,7 @@
         "key": "item.wpn.bizon.description",
         "args": {},
         "lines": {
-          "ru": "Пистолет-пулемет 19 модель, разработанный в 1993 году В. М. Калашниковым (сыном конструктора М. Т. Калашникова) и Алексеем Драгуновым (сыном Е. Ф. Драгунова) по заказу МВД России.",
+          "ru": "Пистолет-пулемет «Бизон-2-01» — это модификация легендарного ПП-19 «Бизон» под патрон 9×19 мм.\\n\\nСоздавался по заказу МВД России для замены устаревающего АКС-74У. Его главная особенность — шнековый подствольный магазин, совмещающий функцию цевья и вмещающий 53 патрона калибра 9 мм. Также это единственное оружие в мире, где магазин нужно взводить отдельной вращающейся рукояткой на переднем торце — как заводную пружину в игрушке.\\n\\nОтличный выбор, когда нужно стрелять очень много и не хочется часто перезаряжаться",
           "en": "A 19 model submachine gun developed in 1993 by Viktor Kalashnikov (son of Mikhail Kalashnikov) and Aleksey Dragunov (son of Yevgeny Dragunov) at the request of the Russian Ministry of Internal Affairs.",
           "es": "Un subfusil modelo 19 desarrollado en 1993 por Viktor Kalashnikov (hijo de Mikhail Kalashnikov) y Aleksey Dragunov (hijo de Yevgeny Dragunov) a petición del Ministerio del Interior ruso.",
           "fr": "Mitraillette de modèle 19 développée en 1993 par Viktor Kalashnikov (fils de Mikhail Kalashnikov) et Aleksey Dragunov (fils de Yevgeny Dragunov) à la demande du ministère russe de l\u0027Intérieur.",

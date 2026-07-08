@@ -787,7 +787,7 @@
             "key": "item.wpn.lmg.features",
             "args": {},
             "lines": {
-              "ru": "Улучшенная отдача в положении лёжа",
+              "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
               "fr": "Amélioration de la dispersion et du recul en position couchée",
@@ -816,7 +816,7 @@
         "key": "item.wpn.rpd.description",
         "args": {},
         "lines": {
-          "ru": "Советский ручной пулемет, разработанный в 1944 году под 7,62-мм патрон",
+          "ru": "РПД — советский ручной пулемет, который пришел на смену ДП в Красной Армии. Отличительными особенностями нового пулемета стали ленточное питание и новый промежуточный патрон, под который потом будет создан и автомат Калашникова.\\n\\nРПД доблестно простоял на вооружении больше двадцати лет, после чего отправился на резервные склады. Откуда и стал попадать в ЧЗО, потому что хороший пулемет тут всегда в цене.",
           "en": "A Soviet LMG developed in 1944 to use 7.62 mm rounds.",
           "es": "Una ametralladora ligera soviética desarrollada en 1944 para utilizar munición de 7,62 mm.",
           "fr": "Un fusil mitrailleur léger soviétique développé en 1944 pour utiliser des cartouches de 7.62 mm.",

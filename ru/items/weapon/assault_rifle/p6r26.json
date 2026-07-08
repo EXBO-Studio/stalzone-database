@@ -726,14 +726,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.f2000.description",
+        "key": "item.wpn.f2000-1.description",
         "args": {},
         "lines": {
-          "ru": "Бельгийский автомат, разработанный фирмой FN Herstal. Оружие предназначено для выполнения боевых задач в современных локальных военных конфликтах.",
-          "en": "A Belgian assault rifle developed by the FN Herstal company, intended for modern combat missions in regional military conflicts",
-          "es": "Un fusil de asalto belga desarrollado por la empresa FN Herstal. El arma estaba destinada a misiones de combate moderno en conflictos militares locales.",
-          "fr": "Fusil d\u0027assaut belge développé par la société FN Herstal. L\u0027arme était destinée à des missions de combat modernes dans des conflits militaires locaux.",
-          "ko": "FN 헤르스탈에서 개발한 벨기에산 돌격 소총이다. 현대전 양상에 맞춰, 지역 분쟁과 군사 충돌 상황에서 효과적인 전투 임무 수행을 목표로 제작되었다."
+          "ru": "Бельгийская штурмовая винтовка компоновки «булл-пап». F2000 стала одной из первых винтовок, спроектированных с нуля как модульная платформа: имеет встроенный съемный оптический прицел, планки Пикатинни для дополнительного оборудования и уникальную систему выброса гильз. Из-за внешнего вида оружие сразу прозвали «винтовкой для солдат будущего».\\n\\nВ Зоне FN F2000 — статусное оружие для некоторых наемников. Небольшие габариты и высокая огневая мощь сделали ее вполне востребованной в ЧЗО.",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "ko": ""
         }
       }
     }

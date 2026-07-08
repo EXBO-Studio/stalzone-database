@@ -1,0 +1,122 @@
+{
+  "id": "2o3l6",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.honeybadger_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Медоед»",
+      "en": "Ratel",
+      "es": "Ratel",
+      "fr": "Ratel",
+      "ko": "라텔"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.honeybadger_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Специальная модификация автомата Honey Badger, созданная специально под тактические задачи бойцов «Тайфуна». Дополнительная оптимизация эргономики оружия вместе с использованием инновационных технологий, позволяющих в реальном времени отслеживать количество патронов, призваны заметно повысить не только комфорт использования, но и успешность выполнения задач.",
+          "en": "A special modification of the Honey Badger assault rifle, developed specifically for the tactical needs of Typhoon operatives. Further optimization of the weapon\u0027s ergonomics, combined with innovative technology that allows the operator to track the remaining ammunition in real time, is designed to significantly improve not only handling comfort, but also mission success rates.",
+          "es": "Una modificación especial del fusil Honey Badger, desarrollada específicamente para las misiones tácticas de los operadores de Tifón. La optimización adicional de la ergonomía del arma, junto con el uso de tecnologías innovadoras que permiten supervisar en tiempo real la cantidad de munición restante, está destinada a mejorar de forma significativa no solo la comodidad de uso, sino también la eficacia en el cumplimiento de las misiones.",
+          "fr": "Une modification spéciale de l\u0027arme automatique Honey Badger, créée spécialement pour les missions tactiques des combattants de Typhon. Une optimisation supplémentaire de l\u0027ergonomie de l\u0027arme, combinée à l\u0027utilisation de technologies innovantes permettant de suivre en temps réel le nombre de munitions, vise à améliorer de manière significative non seulement le confort d\u0027utilisation, mais aussi le succès dans l\u0027accomplissement des missions.",
+          "ko": "타이푼 분대 전투원의 전술 임무 수행을 위해 특별 제작된 Honey Badger 개량형이다. 추가적인 인체공학적 최적화와 함께, 실시간으로 탄약 수를 추적할 수 있는 혁신 기술이 적용되어 사용 편의성을 높이는 동시에 임무 수행 성공률을 향상시키도록 설계되었다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

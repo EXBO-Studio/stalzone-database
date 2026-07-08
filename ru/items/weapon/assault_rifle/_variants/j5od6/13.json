@@ -844,7 +844,7 @@
         "key": "item.wpn.famas.description",
         "args": {},
         "lines": {
-          "ru": "FAMAS — французский автомат калибра 5.56 мм, имеющий компоновку булл-пап.",
+          "ru": "FAMAS — французский автомат калибра 5.56 мм в компоновке «булл-пап».\\n\\nГлавное внешнее отличие — увеличенная спусковая скоба и расширенный приемник магазина, который теперь принимает стандартные 30-зарядные STANAG-магазины. На цевье появилась планка Пикатинни. Французская армия от него отказалась, поэтому G2 остался у некоторых спецподразделений, а остальные образцы разошлись по миру.",
           "en": "The FAMAS is a French 5.56 mm caliber assault rifle with a bullpup configuration.",
           "es": "El FAMAS es un fusil de asalto francés de calibre 5,56 mm con configuración bullpup.",
           "fr": "Le FAMAS est un fusil d\u0027assaut français de calibre 5,56 mm ayant une configuration bullpup.",

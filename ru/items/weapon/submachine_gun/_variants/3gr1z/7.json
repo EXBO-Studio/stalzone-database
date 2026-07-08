@@ -772,7 +772,7 @@
         "key": "item.wpn.mpx.description",
         "args": {},
         "lines": {
-          "ru": "Пистолет-пулемет под патрон 9x19 мм Parabellum. Его конструктивные особенности, вроде газовой системы с коротким ходом поршня, позволяют уменьшить отдачу и повышают надежность оружия в целом.",
+          "ru": "Пистолет-пулемет под патрон 9x19 мм «Парабеллум». Его конструктивные особенности, вроде газовой системы с коротким ходом поршня, позволяют уменьшить отдачу и повышают надежность оружия в целом.",
           "en": "A submachine gun that takes 9x19 mm Parabellum rounds. The special features of its construction, like a gas-operated system with a short-stroke piston, reduce the recoil and increase the weapon\u0027s overall accuracy.",
           "es": "Un subfusil que utiliza munición Parabellum de 9x19 mm. Tiene diversos detalles de construcción, como su sistema accionado por gas con un pistón de recorrido corto, destinados a reducir el retroceso y aumentar la precisión general del arma.",
           "fr": "Une mitraillette qui utilise des cartouches Parabellum de 9x19 mm. Les détails de sa construction, comme un système à gaz avec un piston à course courte, réduisent le recul et augmentent la précision globale de l\u0027arme.",

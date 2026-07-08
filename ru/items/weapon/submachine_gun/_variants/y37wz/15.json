@@ -772,7 +772,7 @@
         "key": "item.wpn.mpk.description",
         "args": {},
         "lines": {
-          "ru": "Walther MPK — немецкий пистолет-пулемет, разработанный фирмой Walther. Подходит для скрытого ношения.",
+          "ru": "Немецкий пистолет-пулемет, укороченная версия их базовой модели. MPK был одним из самых компактных пистолетов-пулеметов своего времени.\\n\\nИменно эту версию выбирали спецподразделения по всему миру — включая американскую «Дельту» во время провальной операции «Орлиный коготь» в Иране и спецназ ВМС Германии.\\n\\nВ Зоне актуален благодаря надежности и широкого присутствия на черном рынке.",
           "en": "The Walther MPK is a German submachine gun developed by Walther. It is good for concealed carry.",
           "es": "El Walther MPK es un subfusil alemán desarrollado por Walther. Va bien para llevarlo oculto.",
           "fr": "Le Walther MPK est un pistolet mitrailleur allemand développé par Walther. Il est idéal pour le port dissimulé.",

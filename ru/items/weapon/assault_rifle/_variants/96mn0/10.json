@@ -816,7 +816,7 @@
         "key": "item.wpn.rhythm.description",
         "args": {},
         "lines": {
-          "ru": "Элитная винтовка, предназначенная для опытных бойцов. Стреляет только отсечками, обладает повышенной точностью и практически незаметной отдачей.",
+          "ru": "Элитная винтовка, предназначенная для опытных бойцов. Стреляет только с отсечкой по три патрона, обладает повышенной точностью и почти неощутимой отдачей.",
           "en": "An elite rifle intended only for experienced fighters. Fires in burst mode only, with enhanced accuracy and almost imperceptible recoil.",
           "es": "El rifle de élite destinado únicamente a combatientes experimentados. Dispara solo en ráfagas, tiene mayor precisión y un retroceso casi imperceptible.",
           "fr": "Le fusil d\u0027élite destiné aux combattants expérimentés. Ne tire qu\u0027en rafale, mais dispose d\u0027une précision améliorée et d\u0027un recul quasiment imperceptible.",

@@ -704,7 +704,7 @@
         "key": "item.wpn.mauser98.description",
         "args": {},
         "lines": {
-          "ru": "Немецкая магазинная винтовка, официально принятая на вооружение в 1935 году.",
+          "ru": "Немецкая магазинная винтовка с продольно-скользящим поворотным затвором, принятая на вооружение в 1935 году.\\n\\nКарабин Mauser 98k стал самым массовым штучным оружием Второй мировой войны — выпущено более 14,6 миллиона экземпляров. Конструкция затвора Mauser 98, разработанная в конце XIX века, до сих пор используется в большинстве современных снайперских винтовок.\\n\\nПоэтому ее до сих пор можно встретить и в Зоне.",
           "en": "A German magazine-fed rifle officially adopted in 1935.",
           "es": "Un fusil con cargador alemán. Comenzó a emplearse en el servicio oficial en 1935.",
           "fr": "Fusil allemand à chargeur, officiellement entré en service en 1935.",

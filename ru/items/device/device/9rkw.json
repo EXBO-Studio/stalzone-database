@@ -314,7 +314,7 @@
         "key": "item.device.dshd_sak1.description",
         "args": {},
         "lines": {
-          "ru": "Кустарный сканер аномальных сигналов",
+          "ru": "Кустарный сканер аномальных сигналов.",
           "en": "A jury-rigged anomalous signal scanner.",
           "es": "Escáner improvisado de señales anómalas",
           "fr": "Scanner de Signal Anormal de Fortune",

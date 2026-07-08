@@ -745,7 +745,7 @@
         "key": "item.wpn.m1a-1.description",
         "args": {},
         "lines": {
-          "ru": "Самозарядная винтовка M1A. Пользуется спросом у сталкеров из-за доступности, высокой точности и значительной огневой мощи.",
+          "ru": "Полуавтоматическая версия армейской винтовки M14, которая производится с 1971 года. Она сохранила механику и внешность военной версии, но предназначена исключительно для гражданского рынка.\\n\\nА оттуда попала в ЧЗО, где нашла себе применение.",
           "en": "M1A self-loading rifle, valued by stalkers for its availability, accuracy, and stopping power.",
           "es": "Un fusil semiautomático M1A. Tiene gran demanda entre los acechadores debido a su disponibilidad, alta precisión y considerable poder de parada.",
           "fr": "Fusil à chargement automatique M1A. Il est très demandé par les stalkers en raison de sa disponibilité, de sa grande précision et de son pouvoir d\u0027arrêt considérable.",

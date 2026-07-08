@@ -813,14 +813,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.abakan-05.description",
+        "key": "item.wpn.abakan.description",
         "args": {},
         "lines": {
-          "ru": "Современный автомат, разработанный на замену устаревающему АК-74. Одна из главных особенностей - возможность ведения огня очередями по 2 патрона с высокой точностью (на расстоянии ста метров обе пули ложатся в одну точку). Это существенно увеличивает шансы поразить цель благодаря совокупному останавливающему и пробивающему действию пуль.",
-          "en": "A modern assault rifle developed to replace the aging AK-74. One of its main features is the ability to fire bursts of two shots with high accuracy (at a range of 100 meters, both bullets hit the same point). This substantially increases the chances of taking down a target thanks to the combined penetrative and stopping power of the bullets.",
-          "es": "Un moderno fusil de asalto desarrollado para sustituir al entonces anticuado AK-74. Una de sus principales características es la capacidad de efectuar ráfagas de dos disparos con gran precisión (a una distancia de 100 metros, ambas balas impactan en el mismo punto). Esto aumenta sustancialmente las posibilidades de abatir a un objetivo gracias al poder combinado de penetración y parada de las balas.",
-          "fr": "Il s\u0027agit d\u0027un fusil d\u0027assaut moderne conçu pour remplacer l\u0027AK-74, alors vieillissant. L\u0027une de ses principales caractéristiques est la possibilité de tirer des rafales de deux coups avec une grande précision (à une distance de 100 mètres, les deux balles atteignent le même point). Cela augmente considérablement les chances d\u0027abattre une cible grâce à la puissance de pénétration et d\u0027arrêt combinée des balles.",
-          "ko": "오래된 AK-74를 대체하기 위해 개발된 현대적 돌격 소총으로, 주요 특징 중 하나는 100미터 거리에서 두 발의 탄환을 정확하게 같은 지점에 명중시킬 수 있는 점발 사격 기능이다(2점발 사격). 이는 탄환의 관통력과 저지력을 결합하여 표적을 제압할 확률을 크게 증가시킨다."
+          "ru": "Модификация «Абакана», созданная как попытка исправить имеющиеся проблемы, однако лишь увеличила стоимость его создания.\\n\\nТем не менее, дополнительная доработка автомата положительно сказалась на характеристиках, что лишь повысило спрос на редкую модификацию в глазах профессионалов.",
+          "en": "A modern assault rifle developed to replace the aging AK-74. One of its main features is the ability to fire bursts of two shots with high accuracy (at a range of 100 meters, both bullets hit the same point). This substantially increases the chances of taking down a target thanks to the combined penetrative and stopping power of the bullets. The modified version has an increased rate of fire.",
+          "es": "Un moderno fusil de asalto desarrollado para sustituir al entonces anticuado AK-74. Una de sus principales características es la capacidad de efectuar ráfagas de dos disparos con gran precisión (a una distancia de 100 metros, ambas balas impactan en el mismo punto). Esto aumenta sustancialmente las posibilidades de abatir a un objetivo gracias al poder combinado de penetración y parada de las balas. La versión modificada tiene una mayor cadencia.",
+          "fr": "Il s\u0027agit d\u0027un fusil d\u0027assaut moderne conçu pour remplacer l\u0027AK-74, alors vieillissant. L\u0027une de ses principales caractéristiques est la possibilité de tirer des rafales de deux coups avec une grande précision (à une distance de 100 mètres, les deux balles atteignent le même point). Cela augmente considérablement les chances d\u0027abattre une cible grâce à la puissance de pénétration et d\u0027arrêt combinée des balles. La version modifiée a une cadence de tir accrue.",
+          "ko": "오래된 AK-74를 대체하기 위해 개발된 현대적 돌격 소총으로, 주요 특징 중 하나는 100미터 거리에서 두 발의 탄환을 정확하게 같은 지점에 명중시킬 수 있는 점발 사격 기능이다(2점발 사격). 이는 탄환의 관통력과 저지력을 결합하여 표적을 제압할 확률을 크게 증가시킨다. 수정된 버전은 발사 속도가 증가되었다."
         }
       }
     }

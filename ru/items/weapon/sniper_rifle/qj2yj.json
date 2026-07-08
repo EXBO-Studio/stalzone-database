@@ -726,14 +726,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.sks.description",
+        "key": "item.wpn.skst.description",
         "args": {},
         "lines": {
-          "ru": "Советский самозарядный карабин конструкции Сергея Симонова, принят на вооружение в 1949 году.",
-          "en": "A Soviet self-loading carbine designed by Sergey Simonov, adopted in 1949.",
-          "es": "Esta carabina semiautomática soviética diseñada por Sergey Simonov entró en servicio en 1949.",
-          "fr": "Cette carabine soviétique à chargement automatique conçue par Sergueï Simonov est entrée en service en 1949.",
-          "ko": "이 자동 장전 카빈총은 소련산으로, 세르게이 시모노프가 설계했다. 1949년에 실전 배치되었다."
+          "ru": "Это не заводская модель, а глубокая модернизация культового карабина Симонова.\\n\\nВ Зоне, где ценятся надежность и доступность патрона 7,62х39, но катастрофически не хватает современных эргономических решений, умельцы взяли старый СКС и «одели» его в полимерное тело.\\n\\nОт обычного дедовского карабина здесь остался только проверенный ствол и газоотводный механизм, все остальное заменено на более практичные компоненты.",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "ko": ""
         }
       }
     }

@@ -769,14 +769,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.glock18c.description",
+        "key": "item.wpn.glock18x.description",
         "args": {},
         "lines": {
-          "ru": "Австрийский автоматический пистолет. Предназначен для вооружения спецподразделений армии и полиции. В целом пистолет Glock 18 унаследовал все достоинства базового пистолета Glock 17 и конструктивно с ним очень схож, однако отличается возможностью ведения автоматического огня.",
-          "en": "An Austrian automatic pistol. It was intended for use by special units of the army and police. On the whole, the Glock 18 inherited all the benefits of the Glock 17 pistol and was very similar to the latter in terms of its design, however it differed in that it had the ability to fire full auto.",
-          "es": "Una pistola automática austríaca. Estaba destinada a unidades especiales del ejército y la policía. En general, la Glock 18 heredó todas las ventajas de la pistola Glock 17 y era muy similar a esta última en cuanto a su diseño; sin embargo, se diferenciaba en que tenía la capacidad de disparar en modo totalmente automático.",
-          "fr": "Un pistolet automatique autrichien. Il était destiné à être utilisé par des unités spéciales de l\u0027armée et de la police. Dans l\u0027ensemble, le Glock 18 héritait de tous les avantages du pistolet Glock 17 et était très similaire à ce dernier au niveau de son design, mais il se distinguait par sa capacité de tirer en automatique.",
-          "ko": "오스트리아제 자동 권총. 군과 경찰의 특수 부대를 위해 개발되었다. 글록 18은 글록 17의 장점을 대부분 계승하였으며, 디자인도 거의 흡사하다. 다만, 전자동 사격 기능이 추가되었다는 차이가 있다."
+          "ru": "Glock 18X — это, по сути, переосмысление легендарного австрийского пистолета Glock, адаптированное под современные реалии.\\n\\nГлавное отличие от гражданских сородичей — возможность ведения полностью автоматического огня. Именно поэтому для Glock 18 были разработаны фирменные удлиненные магазины на 33 патрона, которые в народе прозвали «палочками счастья».\\n\\nКрайне популярное вторичное оружие в ЧЗО, правда, достать его могут далеко не все.",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "ko": ""
         }
       }
     }

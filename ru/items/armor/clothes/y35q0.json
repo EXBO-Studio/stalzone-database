@@ -585,7 +585,7 @@
         "key": "item.arm.palto.description",
         "args": {},
         "lines": {
-          "ru": "Презентабельный костюм для сталкеров, желающих покозырять своим солидным внешним видом.\\n\\n К сожалению, деловая наружность не дает дополнительной защиты ни от одной угрозы Зоны.",
+          "ru": "Презентабельный костюм для сталкеров, желающих покозырять своим солидным внешним видом.\\n\\nК сожалению, деловая наружность не дает дополнительной защиты ни от одной угрозы Зоны.",
           "en": "A presentable suit for stalkers who wish to flaunt their solid appearance.\\n\\n Unfortunately, the business-like appearance does not provide any additional protection against any threats of the Zone.",
           "es": "Un traje presentable para acechadores que quieren presumir de una apariencia sólida.\\n\\n Desafortunadamente, una apariencia profesional no proporciona protección adicional contra ninguna amenaza de la Zona.",
           "fr": "Un costume présentable pour les stalkers qui souhaitent frimer avec leur allure respectable. \\n\\nMalheureusement, cette apparence soignée n\u0027offre aucune protection contre les dangers de la Zone.",

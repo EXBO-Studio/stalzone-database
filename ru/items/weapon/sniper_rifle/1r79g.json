@@ -726,14 +726,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.svt40.description",
+        "key": "item.wpn.skt40.description",
         "args": {},
         "lines": {
-          "ru": "Самозарядная винтовка системы Токарева образца 1940 года была разработана в качестве замены автоматической винтовки Симонова и впоследствии принята на вооружение Красной армии. Из-за различных недостатков, в частности — низкой надежности, не была особо распространена после войны. Тем не менее достаточное количество экземпляров можно найти у торговцев — невысокая цена сделала винтовку популярной среди начинающих сталкеров.",
-          "en": "A self-loading rifle developed in 1940 using the Tokarev system, designed as a replacement for the Simonov assault rifle and subsequently adopted by the Red Army. Due to various shortcomings, particularly low reliability, it saw limited use after the war. Nonetheless, a substantial number can be found with merchants—this rifle\u0027s low price makes it popular among novice stalkers.",
-          "es": "Este ejemplo de 1940 de fusil semiautomático que utiliza el sistema Tokarev fue desarrollado como sustituto del fusil de asalto Simonov y posteriormente entró en servicio en el Ejército Rojo. Debido a sus diversos defectos, en particular su escasa fiabilidad, no se utilizó mucho después de la guerra. No obstante, se puede encontrar un número considerable de ejemplares en los mercaderes: el bajo precio de este fusil lo hizo popular entre los acechadores novatos.",
-          "fr": "Ce modèle de fusil à chargement automatique datant de 1940 utilisant le système Tokarev a été développé pour remplacer le fusil d\u0027assaut Simonov et a ensuite été mis en service dans l\u0027Armée Rouge. En raison de ses divers défauts, notamment de sa faible fiabilité, son utilisation n\u0027a pas été particulièrement répandue après la guerre. Néanmoins, un nombre important d\u0027exemplaires peuvent être trouvés chez les marchands : le faible prix de ce fusil l\u0027a rendu populaire auprès des stalkers débutants.",
-          "ko": "1940년에 개발되었으며, 토카레프 시스템을 채용했다. 시모노프 돌격 소총을 대체하기 위해 만들어졌다. 노농 적군에 도입되었지만, 낮은 신뢰도를 비롯한 여러 단점들 때문에 전쟁 이후에는 널리 사용되지 않았다. 그럼에도 불구하고 상인들이 여전히 다수의 물량을 보유하고 있으며, 가격이 저렴한 덕분에 신입 스토커들 사이에서는 꾸준한 인기를 끌고 있다."
+          "ru": "Самозарядный карабин, разработанный на базе СВТ-40 в том же году, что и винтовка.\\n\\nХотя сам по себе карабин редко встречается даже на Большой земле, за годы существования Зоны сюда стеклось куча раритетного и не очень старья, что тащили за Периметр первые сталкеры.",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "ko": ""
         }
       }
     }

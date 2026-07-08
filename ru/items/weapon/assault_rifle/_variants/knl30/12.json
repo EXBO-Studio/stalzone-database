@@ -800,7 +800,7 @@
         "key": "item.wpn.f2000.description",
         "args": {},
         "lines": {
-          "ru": "Бельгийский автомат, разработанный фирмой FN Herstal. Оружие предназначено для выполнения боевых задач в современных локальных военных конфликтах.",
+          "ru": "Модификация знаменитой бельгийской винтовки, созданная для тех, кому не нравится встроенная оптика. В отличие от стандартного F2000 с интегрированным 1,6-кратным прицелом, тактическая версия оснащена полноценной планкой Пикатинни.",
           "en": "A Belgian assault rifle developed by the FN Herstal company, intended for modern combat missions in regional military conflicts",
           "es": "Un fusil de asalto belga desarrollado por la empresa FN Herstal. El arma estaba destinada a misiones de combate moderno en conflictos militares locales.",
           "fr": "Fusil d\u0027assaut belge développé par la société FN Herstal. L\u0027arme était destinée à des missions de combat modernes dans des conflits militaires locaux.",

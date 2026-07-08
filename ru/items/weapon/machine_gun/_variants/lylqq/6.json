@@ -787,7 +787,7 @@
             "key": "item.wpn.lmg.features",
             "args": {},
             "lines": {
-              "ru": "Улучшенная отдача в положении лёжа",
+              "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
               "fr": "Amélioration de la dispersion et du recul en position couchée",
@@ -816,7 +816,7 @@
         "key": "item.wpn.mg34.description",
         "args": {},
         "lines": {
-          "ru": "Немецкий пулемет, принятый на вооружение до Второй мировой войны. Отличался высокой скорострельностью, универсальностью. Применялся как оружие пехоты, техники и расчётов.",
+          "ru": "Немецкий пулемет, принятый на вооружение до Второй мировой войны. Отличался высокой скорострельностью, универсальностью. Применялся как оружие пехоты, техники и расчетов.",
           "en": "A German machine gun adopted before World War II. It was distinguished by its high rate of fire and versatility, and was used by infantry, vehicle crews, and gun teams.",
           "es": "Ametralladora alemana adoptada antes de la Segunda Guerra Mundial. Se distinguía por su alta cadencia de fuego y su versatilidad. Se utilizó como arma de infantería, de vehículos y de dotaciones.",
           "fr": "Mitrailleuse allemande adoptée avant la Seconde Guerre mondiale. Elle se distinguait par sa haute cadence de tir et sa polyvalence. Utilisée comme arme d\u0027infanterie, de véhicules et d\u0027équipes.",

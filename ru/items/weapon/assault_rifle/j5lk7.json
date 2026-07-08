@@ -729,7 +729,7 @@
         "key": "item.wpn.m16a3.description",
         "args": {},
         "lines": {
-          "ru": "Американская автоматическая винтовка калибра 5.56 мм, разработанная и принятая на вооружение в 1960-х годах.",
+          "ru": "Автоматическая версия винтовки M16A2, выпускавшаяся ограниченной серией для американских сил специальных операций и военно-морских подразделений. A3 сохранила полноценный режим автоматического огня. При этом она унаследовала от A2 утяжеленный ствол и более эргономичное цевье.\\n\\nХорошая кучность, высокая надежность, популярный патрон позволяет найти хорошее применение в ЧЗО.",
           "en": "An American 5.56 mm assault rifle developed and put into operational service in the 1960s.",
           "es": "Un fusil de asalto estadounidense de 5,56 mm desarrollado y puesto en servicio operativo en la década de los 60.",
           "fr": "Fusil d\u0027assaut américain de 5,56 mm développé et mis en service opérationnel dans les années 1960.",

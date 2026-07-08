@@ -717,7 +717,7 @@
             "key": "item.wpn.lmg.features",
             "args": {},
             "lines": {
-              "ru": "Улучшенная отдача в положении лёжа",
+              "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
               "fr": "Amélioration de la dispersion et du recul en position couchée",
@@ -746,7 +746,7 @@
         "key": "item.wpn.rpl20.description",
         "args": {},
         "lines": {
-          "ru": "Новейший ручной пулемет с ленточным боепитанием. Этот «новичок» в семье пулеметов разработан с учетом всех тонкостей ведения современного боя. В Зоне таких пока совсем немного...",
+          "ru": "РПЛ-20 — это первый в современной российской практике ручной пулемет калибра 5,45×39 мм с ленточной системой подачи патронов. В отличие от предшественников — магазинных РПК-74 и РПК-16 — РПЛ-20 создавался не как «автомат с толстым стволом», а как полноценное оружие поддержки.\\n\\nДля Зоны, где в ходках часто не хватает пулеметной мощи, РПЛ-20 — отличный инструмент штурмовых групп. Лента на 100 патронов позволяет держать плотный заградительный огонь. Быстрая смена ствола и продуманная эргономика облегчают эксплуатацию в полевых условиях.",
           "en": "The latest belt-fed LMG. This new addition to the machine gun family is designed with all the nuances of modern combat in mind. Still a rarity in the Zone...",
           "es": "La ametralladora ligera más reciente alimentada mediante cinta de munición. Esta nueva incorporación a la familia de las ametralladoras se ha diseñado teniendo en cuenta todos los matices del combate moderno. Sigue siendo una rareza en la Zona...",
           "fr": "Le tout dernier LMG à alimentation par la ceinture. Ce nouveau venu dans la famille des mitrailleuses a été conçu en tenant compte de toutes les nuances du combat moderne. Une rareté dans la zone...",

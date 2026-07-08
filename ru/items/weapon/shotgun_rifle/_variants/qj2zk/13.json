@@ -833,7 +833,7 @@
         "key": "item.wpn.aa12.description",
         "args": {},
         "lines": {
-          "ru": "AA-12 (Auto Assault-12) - автоматическое ружье - дробовик, созданное Максвеллом Атчиссоном на базе более ранней разработки Atchisson Assault Shotgun.",
+          "ru": "AA-12 — это легендарный автоматический дробовик, разработанный для боя на коротких дистанциях.\\n\\nВ отличие от большинства дробовиков, AA-12 был спроектирован как оружие исключительно для автоматического огня. У АА-12 уникальная система отдачи. Позади массивного ствола инженеры разместили сложный комплекс мощных возвратных пружин, которые буквально «съедают» энергию отката.\\n\\nВ Зоне AA-12 — это «главный аргумент» для зачистки подземелий и борьбы с мутантами.",
           "en": "The AA-12 (Auto Assault-12) is an automatic shotgun that was created by Maxwell Atchisson, based on the prior development of the Atchisson Assault Shotgun.",
           "es": "La AA-12 (Asalto Automático-12) es una escopeta automática que fue creada por Maxwell Atchisson, basándose en el desarrollo previo de la escopeta de asalto Atchisson.",
           "fr": "L\u0027AA-12 (Auto Assault-12) est un fusil à pompe automatique créé par Maxwell Atchisson et basé sur un modèle ancien de l\u0027Atchisson Assault Shotgun.",

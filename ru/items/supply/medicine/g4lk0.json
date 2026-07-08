@@ -385,7 +385,7 @@
         "key": "item.med.apt_a.description",
         "args": {},
         "lines": {
-          "ru": "Специализированный медицинский набор для борьбы с физическими повреждениями и кровотечением. В наборе присутствует жгут для остановки кровотечений, адреналиновая инъекция, слабое антирадиационное средство и особый регенерирующий препарат.",
+          "ru": "Специализированный медицинский набор для борьбы с физическими повреждениями и кровотечением. В наборе присутствует жгут для остановки кровотечений, пара плиток активированного угля и особый регенерирующий препарат.",
           "en": "A specialized medical kit for treating physical wounds and bleeding. The kit contains a tourniquet for stopping bleeding, an adrenaline injection, a weak antirad treatment, and a special regeneration drug.",
           "es": "Un botiquín especializado para tratar heridas físicas y hemorragias. Contiene un torniquete para detener hemorragias, una inyección de adrenalina, un tratamiento antirradiación débil y un medicamento especial para la regeneración.",
           "fr": "Un kit médical spécialisé pour traiter les blessures physiques et les hémorragies. Le kit contient un garrot pour arrêter les saignements, une injection d\u0027adrénaline, un traitement anti-radiation faible et un médicament spécial de régénération.",
