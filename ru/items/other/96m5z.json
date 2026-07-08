@@ -1,0 +1,121 @@
+{
+  "id": "96m5z",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.vsk94_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Шипы»",
+      "en": "Thorns",
+      "es": "Espinas",
+      "fr": "Épines",
+      "ko": "가시"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.vsk94_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Некоторые сталкеры, слишком серьезно относящиеся к себе, стараются так же «серьезно» подходить к кастомизации своего оружия.\\nОсознание того, что их красивый покрас, залакированный в несколько слоев, все равно облезет после пары месяцев в Зоне, приходит позже.",
+          "en": "Some stalkers take themselves a little too seriously, and that same attitude carries over to how they customize their weapons.\\nIt usually takes a couple of months in the Zone before they realize that even a flawless, multi-layer clear coat won\u0027t keep the paint from wearing off.",
+          "es": "Algunos acechadores, que se toman demasiado en serio a sí mismos, intentan aplicar esa misma seriedad a la personalización de sus armas.\\nLa realidad de que su elegante acabado, protegido con varias capas de barniz, terminará desgastándose tras un par de meses en la Zona suele llegar más tarde.",
+          "fr": "Certains stalkers, qui se prennent un peu trop au sérieux, abordent la personnalisation de leurs armes avec le même sérieux.\\nIls finissent toutefois par comprendre que leur superbe peinture, protégée par plusieurs couches de vernis, s\u0027écaillera malgré tout après quelques mois passés dans la Zone.",
+          "ko": "자신을 지나치게 대단하게 여기는 일부 스토커들은 무기 커스터마이징도 그만큼 진지하게 하려 든다.\\n하지만 여러 겹으로 클리어 코팅까지 올린 멋진 도색도 구역에서 두어 달만 굴리면 결국 벗겨진다는 사실은 나중에서야 깨닫게 된다."
+        }
+      }
+    },
+    {}
+  ]
+}

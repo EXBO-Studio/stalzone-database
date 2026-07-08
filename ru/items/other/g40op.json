@@ -1,0 +1,121 @@
+{
+  "id": "g40op",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.mr155_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Охотник на уток»",
+      "en": "Goose Hunt",
+      "es": "Cazador de Patos",
+      "fr": "Chasseur de canards",
+      "ko": "오리 사냥꾼"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.mr155_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Один из механиков Зоны, занятый в деле кастомизации оружия, решил понастальгировать и покрасил целую партию «Ультим» под формат старой игры на NES.\\nВ телевизор с такого лучше не стрелять.",
+          "en": "One of the Zone\u0027s mechanics working on weapon customization got hit with a wave of nostalgia and repainted a whole batch of Ultimas to look like an old-school NES game. Better not shoot your TV with this one.",
+          "es": "Uno de los mecánicos de la Zona, dedicado a la personalización de armas, decidió dejarse llevar por la nostalgia y pintó toda una serie de Ultima con el estilo de un viejo juego de NES.\\nSerá mejor que no le dispares al televisor con esto.",
+          "fr": "L\u0027un des mécaniciens de la Zone, spécialisé dans la personnalisation d\u0027armes, a cédé à la nostalgie et a repeint toute une série d\u0027Ultima dans le style d\u0027un ancien jeu NES.\\nMieux vaut éviter de tirer sur le téléviseur avec ça.",
+          "ko": "구역의 무기 개조를 담당하는 정비공 한 명이 옛 NES 게임을 추억하며 Ultima 한 로트를 통째로 그 시절 스타일로 도색했다.\\n이걸로는 TV를 쏘지 않는 편이 좋다."
+        }
+      }
+    },
+    {}
+  ]
+}

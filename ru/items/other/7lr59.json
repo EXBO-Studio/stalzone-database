@@ -1,0 +1,122 @@
+{
+  "id": "7lr59",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.ash12_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Люди Зоны»",
+      "en": "Children of the Zone",
+      "es": "Gente de la Zona",
+      "fr": "Les Gens de la Zone",
+      "ko": "구역민"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.ash12_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "О «Шепоте» ходит множество баек. Некоторые из сталкеров верят, что «шепчущие» по-настоящему понимают Зону, из-за чего могут пользоваться ее дарами.\\nТак это или нет — «Шепот» хранит свои секреты и старается не подпускать к ним других обитателей Зоны.",
+          "en": "There are countless tales surrounding the Murmur. Some stalkers believe that the \"murmurers\" truly understand the Zone, allowing them to use its gifts.\\nWhether that is true or not, the Murmur keeps its secrets and does its best to keep them away from the other inhabitants of the Zone.",
+          "es": "Circulan muchas historias sobre Susurro. Algunos stalkers creen que los de Susurro comprenden de verdad la Zona y que, gracias a ello, pueden aprovechar sus dones. Sea cierto o no, Susurro guarda sus secretos y procura mantener alejados de ellos a los demás habitantes de la Zona.",
+          "fr": "De nombreuses histoires circulent au sujet du « Murmure ». Certains stalkers sont convaincus que les Murmureurs comprennent réellement la Zone, ce qui leur permettrait de profiter de ses dons.Que ce soit vrai ou non, le Murmure garde ses secrets et veille à les préserver des autres habitants de la Zone.",
+          "ko": "속삭임에 대해서는 수많은 소문이 떠돈다. 일부 스토커들은 «속삭임»들이 진정으로 구역을 이해하고 있으며, 그 힘으로 구역의 선물을 다룰 수 있다고 믿는다.\\n그것이 사실인지 아닌지는 알 수 없다. 속삭임은 여전히 자신들의 비밀을 간직한 채, 구역의 다른 주민들이 그 비밀에 다가오지 못하도록 하고 있다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

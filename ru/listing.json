@@ -24280,6 +24280,206 @@
     }
   },
   {
+    "data": "/items/other/7lr59.json",
+    "icon": "/icons/other/7lr59.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.ash12_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Люди Зоны»",
+        "en": "Children of the Zone",
+        "es": "Gente de la Zona",
+        "fr": "Les Gens de la Zone",
+        "ko": "구역민"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/6wrzn.json",
+    "icon": "/icons/other/6wrzn.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.scorpion_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Жало»",
+        "en": "Sting",
+        "es": "Aguijón",
+        "fr": "Dard",
+        "ko": "침"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/96m5q.json",
+    "icon": "/icons/other/96m5q.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.vyhlop_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Вепрь»",
+        "en": "Wild Boar",
+        "es": "Verraco",
+        "fr": "Sanglier",
+        "ko": "멧돼지"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/1rdqr.json",
+    "icon": "/icons/other/1rdqr.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.mk47_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Вечная война»",
+        "en": "Eternal War",
+        "es": "Guerra Eterna",
+        "fr": "Guerre éternelle",
+        "ko": "영원한 전쟁"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/g40on.json",
+    "icon": "/icons/other/g40on.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.otl03_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Винтаж»",
+        "en": "Antique",
+        "es": "Vintage",
+        "fr": "Vintage",
+        "ko": "빈티지"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/zz75k.json",
+    "icon": "/icons/other/zz75k.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.f2000_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Бес»",
+        "en": "Devil",
+        "es": "Demonio",
+        "fr": "Démon",
+        "ko": "악마"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/96m5z.json",
+    "icon": "/icons/other/96m5z.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.vsk94_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Шипы»",
+        "en": "Thorns",
+        "es": "Espinas",
+        "fr": "Épines",
+        "ko": "가시"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/1rdq1.json",
+    "icon": "/icons/other/1rdq1.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.ks1_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Хребет»",
+        "en": "Backbone",
+        "es": "Espinazo",
+        "fr": "Échine",
+        "ko": "등뼈"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/g40op.json",
+    "icon": "/icons/other/g40op.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.mr155_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Охотник на уток»",
+        "en": "Goose Hunt",
+        "es": "Cazador de Patos",
+        "fr": "Chasseur de canards",
+        "ko": "오리 사냥꾼"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/zz75n.json",
+    "icon": "/icons/other/zz75n.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.arx160_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Предупреждение»",
+        "en": "Caution",
+        "es": "Advertencia",
+        "fr": "Avertissement",
+        "ko": "경고"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/skins/knlgv.json",
     "icon": "/icons/other/skins/knlgv.png",
     "name": {

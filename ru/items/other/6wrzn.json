@@ -1,0 +1,122 @@
+{
+  "id": "6wrzn",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.scorpion_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Жало»",
+      "en": "Sting",
+      "es": "Aguijón",
+      "fr": "Dard",
+      "ko": "침"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.scorpion_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Персональная кастомизация, выполненная по заказу одного из чемпионов боев Спартака. Со слов аукциониста, сталкеру срочно потребовались деньги, чтоб выменять парочку уникальных артефактов для своего контейнера.",
+          "en": "Personal customization made by order of one of the champions of Spartak battles. According to the auctioneer, the stalker urgently needed money to trade for a couple of unique artifacts for his container.",
+          "es": "Personalización exclusiva realizada por encargo de uno de los campeones de los combates de Espartaco. Según el subastador, el acechador necesitaba dinero con urgencia para intercambiar un par de artefactos únicos para su contenedor.",
+          "fr": "Personnalisation réalisée sur commande de l\u0027un des champions des combats de Spartak. Selon le commissaire-priseur, le stalker avait un besoin urgent d\u0027argent afin d\u0027échanger contre quelques artefacts uniques pour son conteneur.",
+          "ko": "스파르타크 전투의 챔피언 중 한 명이 의뢰한 개인 커스터마이징이다. 경매상에 따르면, 이 스토커는 자신의 컨테이너에 넣을 희귀 아티팩트 몇 개를 교환하기 위해 급히 돈이 필요했다고 한다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

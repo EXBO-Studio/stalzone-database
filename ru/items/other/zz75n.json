@@ -1,0 +1,122 @@
+{
+  "id": "zz75n",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.arx160_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Предупреждение»",
+      "en": "Caution",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "ko": "경고"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.arx160_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Лучше быть вооруженным и предупрежденным, чем просто предупрежденным.",
+          "en": "Better to be armed and warned than simply warned.",
+          "es": "Más vale estar armado y prevenido que solo prevenido.",
+          "fr": "Mieux vaut être armé et averti que simplement averti.",
+          "ko": "경고만 받는 것보다 무장한 채 대비하는 편이 낫다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

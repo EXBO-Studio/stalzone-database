@@ -1,0 +1,121 @@
+{
+  "id": "96m5q",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.vyhlop_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Вепрь»",
+      "en": "Wild Boar",
+      "es": "Verraco",
+      "fr": "Sanglier",
+      "ko": "멧돼지"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.vyhlop_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Личная модификация «Выхлопа», заказанная одним охотником.\\nХотя большая часть обитателей Зоны предпочитает идти на мутантов с дробовиком, некоторых тварей лучше не подпускать к себе и на сотню метров.",
+          "en": "A personal modification of the Vykhlop ordered by a hunter.\\nWhile most inhabitants of the Zone prefer to go after mutants with a shotgun, some creatures are better kept at least a hundred meters away.",
+          "es": "Modificación personalizada de Vykhlop, encargada por un cazador.\\nAunque la mayoría de los habitantes de la Zona prefiere enfrentarse a los mutantes con una escopeta, hay criaturas a las que es mejor no dejar acercarse ni a cien metros.",
+          "fr": "Modification personnalisée du Vykhlop, réalisée à la demande d\u0027un chasseur.\\nBien que la plupart des habitants de la Zone préfèrent affronter les mutants avec un fusil à pompe, il vaut mieux ne pas laisser certaines créatures s\u0027approcher à moins de cent mètres.",
+          "ko": "사냥꾼 한 명이 주문 제작한 브이흘롭 개인 개조다.\\n구역의 대부분의 거주자는 산탄총을 들고 돌연변이를 상대하는 것을 선호하지만, 일부 괴물들은 100미터 밖에서도 접근을 허용해서는 안 된다."
+        }
+      }
+    },
+    {}
+  ]
+}
