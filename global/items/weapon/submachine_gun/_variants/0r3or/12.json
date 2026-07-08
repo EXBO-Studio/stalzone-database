@@ -6,7 +6,7 @@
     "key": "item.wpn.stg44.name",
     "args": {},
     "lines": {
-      "ru": "STG-44",
+      "ru": "StG-44",
       "en": "STG-44",
       "es": "STG-44",
       "fr": "STG-44",
@@ -788,6 +788,25 @@
       "endDamage": 32.06936,
       "damageDecreaseEnd": 80.0,
       "maxDistance": 160.0
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.wpn.stg44.description",
+        "args": {},
+        "lines": {
+          "ru": "StG 44 — легендарная немецкая штурмовая винтовка, разработанная конструктором Хуго Шмайссером в 1942 году и по праву считающаяся прародительницей всего класса штурмовых винтовок.\\n\\nИменно для нее был создан первый в мире промежуточный патрон, который занял «золотую середину» между мощным винтовочным патроном и слабым пистолетным, обеспечив отличную баллистику и управляемую отдачу в автоматическом режиме.\\n\\nВ Зону иногда попадают образцы, переделанные под современный калибр, которые вполне хорошо показывают себя.",
+          "en": "Germany\u0027s first mass-produced assault rifle of World War II, the forerunner of modern assault weapons.",
+          "es": "El primer fusil de asalto producido en serie por Alemania durante la Segunda Guerra Mundial, precursor del armamento de asalto moderno.",
+          "fr": "Le premier fusil d\u0027assaut en série de l\u0027Allemagne pendant la Seconde Guerre mondiale, précurseur des armes d\u0027assaut modernes.",
+          "ko": "제2차 세계대전 당시 독일에서 양산된 최초의 자동소총으로, 현대 돌격화기의 선구자로 평가된다."
+        }
+      }
     }
   ]
 }

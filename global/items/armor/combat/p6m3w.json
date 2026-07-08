@@ -585,7 +585,7 @@
         "key": "item.arm.berill.description",
         "args": {},
         "lines": {
-          "ru": "Бронекостюм армейского производства, модифицированный под условия Зоны.\\n\\n Пускай аномальной защиты костюма не хватит, чтобы спокойно разгуливать по ЧЗО, однако для рядовых бойцов, несущих службу на Периметре, большего и не надо.",
+          "ru": "Бронекостюм армейского производства, модифицированный под условия Зоны.\\n\\nПускай аномальной защиты костюма не хватит, чтобы спокойно разгуливать по ЧЗО, однако для рядовых бойцов, несущих службу на Периметре, большего и не надо.",
           "en": "Army-produced armored suit, modified for Zone conditions.\\n\\n Even though the anomalous protection of the suit is not enough to roam freely around the CEZ, it is more than sufficient for the ordinary soldiers serving at the Perimeter.",
           "es": "Traje blindado de producción militar, modificado para las condiciones de la Zona.\\n\\n Aunque la protección anómala del traje no es suficiente para pasear tranquilamente por la ZEC, para los soldados comunes que prestan servicio en el Perímetro, no se necesita más.",
           "fr": "Un exocombinaison militaire modifiée pour les conditions de la Zone.\\n\\n Certes, sa protection contre les anomalies est insuffisante pour se balader sereinement dans la ZET, mais pour les simples soldats servant sur le Périmètre, c\u0027est largement suffisant.",

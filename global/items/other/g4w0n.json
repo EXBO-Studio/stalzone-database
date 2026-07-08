@@ -142,6 +142,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.bag.murmur.name",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзак «Хитин»",
+              "en": "Chitin Backpack",
+              "es": "Mochila Quitina",
+              "fr": "Sac à Dos Chitine",
+              "ko": "키틴질 배낭"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.arm.albatros_heavy.name",
             "args": {},
             "lines": {
@@ -165,6 +180,141 @@
               "es": "Exoarmadura ZIVCAS M2-C",
               "fr": "Exoarmure ZIVCAS M2-C",
               "ko": "지브카스 M2-C 강화전투복"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.ksm.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «КСМ»",
+              "en": "SMC Container",
+              "es": "Contenedor EMP",
+              "fr": "Conteneur SMC",
+              "ko": "SMC 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.hive.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Улей»",
+              "en": "Hive Container",
+              "es": "Contenedor Colmena",
+              "fr": "Conteneur Ruche",
+              "ko": "벌집 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.bear6.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Берлога-6»",
+              "en": "Berloga-6 Container",
+              "es": "Contenedor Berloga-6",
+              "fr": "Conteneur Berloga-6",
+              "ko": "베를로가-6 보관함"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.zivcas.name",
+            "args": {},
+            "lines": {
+              "ru": "ZIVCAS ArcticSafe-6",
+              "en": "ZIVCAS ArcticSafe-6",
+              "es": "ZIVCAS ArcticSafe-6",
+              "fr": "ArcticSafe-6 ZIVCAS",
+              "ko": "지브카스 북극함-6"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.overtone.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Овертон»",
+              "en": "Overton Container",
+              "es": "Contenedor Overton",
+              "fr": "Conteneur Overton",
+              "ko": "오버톤 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.dubak.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Дубак»",
+              "en": "Freezer Container",
+              "es": "Contenedor Congelador",
+              "fr": "Conteneur Congélateur",
+              "ko": "냉동 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.krab6.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «КРАБ-6»",
+              "en": "CRAW-6 Container",
+              "es": "Contenedor CRAB-6",
+              "fr": " Conteneur CRABE-6",
+              "ko": "CRAW-6 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.barrel.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Бочонок»",
+              "en": "Barrel Container",
+              "es": "Contenedor Barrica",
+              "fr": "Conteneur Tonneau",
+              "ko": "배럴 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.pathfinder.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Вязанка»",
+              "en": "Sheaf Container",
+              "es": "Contenedor Haz",
+              "fr": "Conteneur Fagot",
+              "ko": "층 컨테이너"
             }
           }
         },
@@ -675,6 +825,66 @@
               "es": "Traje Peresvet",
               "fr": "Combinaison Peresvet",
               "ko": "페레스베트 점프슈트"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.pouch.name",
+            "args": {},
+            "lines": {
+              "ru": "Марафонская сумка",
+              "en": "Marathon Bag",
+              "es": "Bolsa de maratón",
+              "fr": "Sac de Marathon",
+              "ko": "마라톤 가방"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.pouch_hunter.name",
+            "args": {},
+            "lines": {
+              "ru": "«Вьюк»",
+              "en": "Saddlebag",
+              "es": "Bagaje",
+              "fr": "Ballot",
+              "ko": "팩 가방"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.bag.tasche.name",
+            "args": {},
+            "lines": {
+              "ru": "Ягдташ",
+              "en": "Jagdtasche",
+              "es": "Jagdtasche",
+              "fr": "Sac de chasse",
+              "ko": "사냥 가방"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.bag.march.name",
+            "args": {},
+            "lines": {
+              "ru": "Советский походный рюкзак",
+              "en": "Soviet Travel Backpack",
+              "es": "Mochila de viaje soviética",
+              "fr": "Sac à dos de voyage Soviétique",
+              "ko": "소련 여행용 배낭"
             }
           }
         },
@@ -1200,6 +1410,21 @@
               "es": "Exoarmadura Albatros de infiltración",
               "fr": "Exoarmure Albatros Infiltrateur",
               "ko": "알바트로스 침투자 강화전투복"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.cont.cold.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Холодок»",
+              "en": "Cool Container",
+              "es": "Contenedor Frescor",
+              "fr": "Conteneur Chill",
+              "ko": "냉각 컨테이너"
             }
           }
         },

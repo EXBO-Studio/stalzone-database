@@ -742,14 +742,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.m16a2.description",
+        "key": "item.wpn.m16a1.description",
         "args": {},
         "lines": {
-          "ru": "Американская автоматическая винтовка калибра 5.56 мм, разработанная и принятая на вооружение в 1960-х годах. Отсутствует режим непрерывной стрельбы, а цевье и магазин для уменьшения цены оружия заменены на соответствующие от M16A1.",
-          "en": "An American 5.56 mm assault rifle developed and put into operational service in the 1960s. It lacks a fully automatic firing mode.",
-          "es": "Un fusil de asalto estadounidense de 5,56 mm desarrollado y puesto en servicio operativo en la década de los 60. Carece de modo de disparo totalmente automático, pero el guardamanos y el cargador se han sustituido por los del M16A1 para reducir el coste.",
-          "fr": "Fusil d\u0027assaut américain de 5,56 mm développé et mis en service opérationnel dans les années 1960. Il ne dispose pas d\u0027un mode de tir entièrement automatique, mais le garde-main et le chargeur ont été remplacés par ceux du M16A1 afin d\u0027en réduire le coût.",
-          "ko": "1960년대에 개발되어 운용된 미국제 5.56 mm 돌격 소총이다. 완전 자동 사격 모드는 없지만, 비용 절감을 위해 손잡이와 탄창을 M16A1의 것으로 교체했다."
+          "ru": "Первая модификация М16, оснащенная хромированным стволом и патронником, усиленной возвратной пружиной с системой ручного досылания патрона. Все это позволило избавиться от большинства недостатков М16 и сделать винтовку пригодной для эксплуатации.\\n\\nИногда все еще можно встретить в Зоне, но больше как коллекционный образец, чем реальное оружие.",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "ko": ""
         }
       }
     }

@@ -716,7 +716,7 @@
             "key": "item.wpn.lmg.features",
             "args": {},
             "lines": {
-              "ru": "Улучшенная отдача в положении лёжа",
+              "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
               "fr": "Amélioration de la dispersion et du recul en position couchée",

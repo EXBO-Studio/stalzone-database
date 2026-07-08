@@ -729,7 +729,7 @@
         "key": "item.wpn.akm.description",
         "args": {},
         "lines": {
-          "ru": "Автомат, принятый на вооружение в 1959 году взамен автомата АК и являющийся его дальнейшим развитием. Выделяется использованием мощного патрона и отличной надежностью. Оснащен планкой типа «ласточкин хвост».",
+          "ru": "Созданный в 1959 году на базе легендарного АК-47, АКМ стал одним из самых массовых и узнаваемых автоматов  в истории. Штампованная ствольная коробка, скошенный компенсатор, уменьшающий подброс при стрельбе, облегченный затвор и возвратный механизм сделали АКМ легче, немного точнее и намного дешевле.\\n\\nЛегендарная надежность никуда не ушла, поэтому автомат часто встречается в ЧЗО.",
           "en": "An assault rifle adopted in 1959 as an improvement upon the AK. It is distinguished by its powerful rounds and excellent reliability, and is equipped with a \"dovetail\" rail.",
           "es": "Un fusil de asalto utilizado por primera vez en 1959 que sustituyó al AK y fue una evolución de este. Destaca por su uso de munición de gran calibre y su excelente fiabilidad. Trae un raíl de \"cola de milano\".",
           "fr": "Fusil d\u0027assaut utilisé pour la première fois en 1959, qui a remplacé l\u0027AK et en a été perfectionné. Il se distingue par l\u0027utilisation de munitions de gros calibre et par son excellente fiabilité. Il est équipé d\u0027un rail en « queue d\u0027aronde ».",

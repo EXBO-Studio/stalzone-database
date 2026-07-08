@@ -299,7 +299,7 @@
         "key": "item.stash_placer.additional_stats_tip",
         "args": {},
         "lines": {
-          "ru": "§#EEEEEEСхрон — ваш лучший помощник в выносе выпадаемого ценного лута из самых опасных закоулков Зоны. Его можно установить в любом месте открытого мира и спокойно складывать туда всё найденное — главное не прозевать таймер.",
+          "ru": "§#EEEEEEСхрон — ваш лучший помощник в выносе выпадаемого ценного лута из самых опасных закоулков Зоны. Его можно установить в любом месте открытого мира и спокойно складывать туда все найденное — главное не прозевать таймер.",
           "en": "§#EEEEEEStash is your best helper for extracting valuable loot from the most dangerous corners of the Zone. You can place it anywhere in the open world and safely store all the items you find there—just make sure not to miss the timer!",
           "es": "§#EEEEEEAlijo es tu mejor ayudante para sacar valiosos botines de los rincones más peligrosos de la Zona. Puedes instalarla en cualquier lugar del mundo abierto y poner a buen recaudo todo lo que encuentres allí... ¡lo principal es que no se te pase el temporizador!",
           "fr": "§#EEEEEELa cachette est votre meilleure amie pour extraire des objets précieux jusque dans les recoins les plus dangereux de la Zone. Vous pouvez la placer n\u0027importe où dans le monde ouvert et les y ranger... mais faites attention au minuteur !",

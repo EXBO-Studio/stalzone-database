@@ -706,14 +706,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.m1014.description",
+        "key": "item.wpn.m1014_breacher.description",
         "args": {},
         "lines": {
-          "ru": "Benelli M4 Super 90, более известное как M1014 — гладкоствольное полуавтоматическое магазинное самозарядное ружье, разработанное в Италии фирмой Benelli Armi S.p.A.",
-          "en": "The Benelli M4 Super 90, better known as the M1014, is a smoothbore, self-loading, magazine-fed shotgun that was developed by the Italian firm Benelli Armi S. p. A.",
-          "es": "La Benelli M4 Super 90, más conocida como M1014, es una escopeta de ánima lisa, semiautomática y con cargador desarrollada por la empresa italiana Benelli Armi S. p. A.",
-          "fr": "Le Benelli M4 Super 90, plus connu sous le nom de M1014, est un fusil à pompe à chargeur avec un canon lisse et à chargement automatique, développé par la société italienne Benelli Armi SpA.",
-          "ko": "이탈리아의 무기 제조사 베넬리 아르미 S.p.A.에서 개발한 M1014는 자동 장전이 가능한 탄창식 산탄총, 총신에 강선이 없다. 보통 베넬리 M4 슈퍼 90이라는 이름으로 더 잘 알려져 있다."
+          "ru": "M1014 Breacher — это специализированная версия легендарного итальянского полуавтоматического дробовика Benelli. Это не отдельная модель, а тактическая комплектация для бойцов, чья задача — силовое проникновение в помещения.\\n\\nУкороченный дробовик — идеальный инструмент для вскрытия заклинивших дверей и сталкерских схронов. И как средство против мутантов.",
+          "en": "The MAC 1014 has been used by troops across the world for almost twenty years. It was popularized in the Zone by the Dead Man\u0027s Marathon: many contestants found it handy for blasting hordes of zombies.",
+          "es": "El MAC 1014 lo han usado tropas de todo el mundo durante casi. Se popularizó en la Zona con el Maratón del Hombre Muerto. A muchos maratonianos les resultó útil para reventar hordas de zombis.",
+          "fr": "Le MAC 1014 a été utilisé par des troupes à travers le monde depuis près de vingt ans. Il a été popularisé dans la Zone par le Marathon de l\u0027homme mort : beaucoup de participants l\u0027ont trouvé utile pour faire exploser des hordes de zombies.",
+          "ko": "MAC 1014는 20년간 전 세계 군대에서 사용된 무기이다. 죽은 자의 마라톤을 계기로 구역에도 널리 알려졌다. 당시 많은 참가자들을 통해, MAC 1014가 좀비 떼를 처리하는 데 아주 요긴하다는 것이 알려졌기 때문이다."
         }
       }
     }

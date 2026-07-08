@@ -717,7 +717,7 @@
             "key": "item.wpn.lmg.features",
             "args": {},
             "lines": {
-              "ru": "Улучшенная отдача в положении лёжа",
+              "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
               "fr": "Amélioration de la dispersion et du recul en position couchée",
@@ -743,14 +743,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.wpn.rpd.description",
+        "key": "item.wpn.rpd_dsa.description",
         "args": {},
         "lines": {
-          "ru": "Советский ручной пулемет, разработанный в 1944 году под 7,62-мм патрон",
-          "en": "A Soviet LMG developed in 1944 to use 7.62 mm rounds.",
-          "es": "Una ametralladora ligera soviética desarrollada en 1944 para utilizar munición de 7,62 mm.",
-          "fr": "Un fusil mitrailleur léger soviétique développé en 1944 pour utiliser des cartouches de 7.62 mm.",
-          "ko": "1944년에 개발된 소련 연방제 경기관총으로, 7.62mm 탄환을 사용한다."
+          "ru": "DSA RPD — это реинкарнация знаменитого советского ручного пулемета Дегтярева, выпускаемая одноименной американской компанией. Внешне это тот же узнаваемый пулемет: характерный сошник, «рожки» прицела и коробка, но с современными улучшениями вроде облегченного флейтированного ствола, эргономичного пластикового цевья и телескопического приклада от М4.\\n\\nРедкий, но очень востребованный образец в условиях ЧЗО.",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "ko": ""
         }
       }
     }

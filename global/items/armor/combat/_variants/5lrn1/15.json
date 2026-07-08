@@ -629,7 +629,7 @@
         "key": "item.arm.voshod.description",
         "args": {},
         "lines": {
-          "ru": "Военный комплект снаряжения, предназначенный для бойцов ССОП.\\n\\n Хорошее бронирование значительно повышает шанс пережить пулю от обнаглевшей «братвы» или загнанного в угол сталкера.",
+          "ru": "Военный комплект снаряжения, предназначенный для бойцов ССОП.\\n\\nХорошее бронирование значительно повышает шанс пережить пулю от обнаглевшей «братвы» или загнанного в угол сталкера.",
           "en": "Military gear set, designed for SSPP.\\n\\n Good armor greatly improves your odds of surviving a bullet from a brazen bandit or a cornered stalker.",
           "es": "Conjunto de equipamiento militar destinado a los combatientes de SSPE.\\n\\n El buen blindaje aumenta significativamente las posibilidades de sobrevivir a una bala de la banda descarada o de un acechador acorralado.",
           "fr": "Équipement militaire conçu pour les forces spéciales du SSPP.\\n\\n \\nUn blindage solide augmente considérablement les chances de survivre à une balle tirée par un bandit trop audacieux ou un stalker acculé.",

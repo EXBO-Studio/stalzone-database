@@ -6,7 +6,7 @@
     "key": "item.att.barrel_arsenal_boar.name",
     "args": {},
     "lines": {
-      "ru": "ДТК «Окоём»",
+      "ru": "ДТК «Окоем»",
       "en": "Skyline MBC",
       "es": "CFB Confín",
       "fr": "MBC Horizon",
@@ -1491,7 +1491,7 @@
             "key": "item.wpn.stg44.name",
             "args": {},
             "lines": {
-              "ru": "STG-44",
+              "ru": "StG-44",
               "en": "STG-44",
               "es": "STG-44",
               "fr": "STG-44",

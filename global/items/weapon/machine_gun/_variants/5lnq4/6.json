@@ -787,7 +787,7 @@
             "key": "item.wpn.lmg.features",
             "args": {},
             "lines": {
-              "ru": "Улучшенная отдача в положении лёжа",
+              "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
               "fr": "Amélioration de la dispersion et du recul en position couchée",
@@ -816,7 +816,7 @@
         "key": "item.wpn.mg3.description",
         "args": {},
         "lines": {
-          "ru": "Немецкий единый пулемёт. Является усовершенствованным вариантом пулемёта MG 42.",
+          "ru": "Немецкий единый пулемет. Является усовершенствованным вариантом пулемета MG 42.",
           "en": "German general-purpose machine gun. It is an improved version of the MG 42 machine gun.",
           "es": "Una ametralladora alemana de uso general. Una versión mejorada de la ametralladora MG 42.",
           "fr": "Une mitrailleuse allemande polyvalente. C\u0027est une version améliorée de la mitrailleuse MG 42.",

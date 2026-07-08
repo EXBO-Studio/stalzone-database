@@ -729,7 +729,7 @@
         "key": "item.wpn.amb17.description",
         "args": {},
         "lines": {
-          "ru": "Российский малогабаритный бесшумный автомат, разработанный концерном Калашников.",
+          "ru": "АМБ-17 — российская «бесшумная» штурмовая винтовка, созданная на базе малогабаритного автомата АМ-17 под патрон 9×39 мм. Главная особенность АМБ-17 — встроенный интегрированный глушитель. В отличие от накручиваемых приборов, он является частью конструкции, что снижает общую длину и исключает риск откручивания в бою. При этом АМБ-17 питается от стандартных магазинов, совместимых с АС «Вал», ВСС «Винторез».\\n\\nВ Зоне АМБ-17 — редкая экзотика, доступная разве что элитным наемникам или сталкерам с очень хорошими связями.",
           "en": "A small integrally suppressed Russian assault rifle developed by the Kalshnikov Concern",
           "es": "Fusil de asalto ruso de tamaño pequeño con silenciador integral desarrollado por el consorcio Kalashnikov.",
           "fr": "Fusil d\u0027assaut russe de petite taille à suppression intégrale développé par la société Kalachnikov.",

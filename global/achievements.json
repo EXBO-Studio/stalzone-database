@@ -12942,7 +12942,7 @@
       "key": "general.achievement.id.ny25_recap_top250_cameraman.title",
       "args": {},
       "lines": {
-        "ru": "Камера мен не придёт",
+        "ru": "Камера мен не придет",
         "en": "Cameraman Won\u0027t Come",
         "es": "Cameraman no vendrá",
         "fr": "Camera Man ne viendra pas",
@@ -13766,7 +13766,7 @@
       "key": "general.achievement.id.leviathan_disk.desc",
       "args": {},
       "lines": {
-        "ru": "У тебя была задача забрать жёсткие диски, но похоже ты и до этого не допер.",
+        "ru": "У тебя была задача забрать жесткие диски, но похоже ты и до этого не допер.",
         "en": "You were supposed to pick up the hard drives, but apparently you couldn\u0027t even manage that.",
         "es": "Tenías la tarea de recoger los discos duros, pero parece que ni siquiera te diste cuenta.",
         "fr": "T\u0027avais la mission de récupérer les disques durs, mais on dirait que t\u0027as même pas capté avant.",
@@ -14510,7 +14510,7 @@
       "key": "general.achievement.id.reichstag_faust.title",
       "args": {},
       "lines": {
-        "ru": "Гётте",
+        "ru": "Гетте",
         "en": "Goethe",
         "es": "Goethe",
         "fr": "Goethe",
@@ -14894,5 +14894,33 @@
       }
     },
     "points": 0
+  },
+  {
+    "id": "triumph_2026_challenges_30",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.triumph_2026_challenges_30.title",
+      "args": {},
+      "lines": {
+        "ru": "Стоп, а чего я добился?",
+        "en": "Bro... what have I become?",
+        "es": "Bro... ¿en qué me he convertido?",
+        "fr": "Au final... ça m\u0027a apporté quoi ?",
+        "ko": "그럼 나는 뭘 얻은 거지?"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.triumph_2026_challenges_30.desc",
+      "args": {},
+      "lines": {
+        "ru": "Выполнить 30 триумфов",
+        "en": "Complete 30 triumphs.",
+        "es": "Completar 30 triunfos",
+        "fr": "Accomplir 30 triomphes",
+        "ko": "승리 30개 완료했다."
+      }
+    },
+    "points": 20
   }
 ]

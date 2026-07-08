@@ -385,7 +385,7 @@
         "key": "item.art.jarka_solnce.description",
         "args": {},
         "lines": {
-          "ru": "Артефакт представляет собой расплавленный материал неизвестного происхождения, который окружает заметно более холодное ядро.\\n\\n Сфера покрыта тончайшим гравитационным полем, которое удерживает форму и не дает содержимому растечься, а ученым — пробраться внутрь.",
+          "ru": "Артефакт представляет собой расплавленный материал неизвестного происхождения, который окружает заметно более холодное ядро.\\n\\nСфера покрыта тончайшим гравитационным полем, которое удерживает форму и не дает содержимому растечься, а ученым — пробраться внутрь.",
           "en": "The artifact is a molten material of unknown origin that surrounds a noticeably colder core.\\n\\n The sphere is covered with a very thin gravitational field that maintains its shape and prevents its contents from spilling out, while also stopping scientists from getting inside.",
           "es": "El artefacto es un material fundido de origen desconocido que rodea un núcleo notablemente más frío.\\n\\n La esfera está cubierta por un fino campo gravitatorio que mantiene la forma e impide que el contenido se extienda y que los científicos accedan al interior.",
           "fr": "Artefact composé d\u0027une matière en fusion d\u0027origine inconnue, entourant un noyau nettement plus froid.\\n\\n La sphère est enveloppée d\u0027un champ gravitationnel extrêmement fin qui maintient sa forme, empêche son contenu de s\u0027échapper et rend toute analyse interne impossible.",

@@ -744,7 +744,7 @@
             "key": "item.wpn.ptrd.features",
             "args": {},
             "lines": {
-              "ru": "Игнорирует защиту пластин @Ломает пластины @Смертельный выстрел @Улучшенный контроль лёжа и в приседе",
+              "ru": "Игнорирует защиту пластин @Ломает пластины @Смертельный выстрел @Улучшенный контроль лежа и в приседе",
               "en": "Ignores Plate Defense @Breaks plates @Lethal shot @Enhanced control while prone and crouching",
               "es": "Ignora la protección de placas @ Rompe placas @ Disparo mortal @ Control mejorado al agacharse y en posición decúbito",
               "fr": "Effets en jeu : @Ignore la protection des plaques @Brise les plaques @Tir mortel @Contrôle accru en position couchée et accroupie",

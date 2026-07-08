@@ -7887,7 +7887,7 @@
       "key": "item.plate.ops.combined.name",
       "args": {},
       "lines": {
-        "ru": "Укреплённая разгрузка",
+        "ru": "Укрепленная разгрузка",
         "en": "Reinforced Utility Vest",
         "es": "Chaleco multibolsillos reforzado",
         "fr": "Gilet renforcé",
@@ -14280,46 +14280,6 @@
     }
   },
   {
-    "data": "/items/other/okz04.json",
-    "icon": "/icons/other/okz04.png",
-    "name": {
-      "type": "translation",
-      "key": "item.style.arm.zarya_na.name",
-      "args": {},
-      "lines": {
-        "ru": "«Рейнджер Зоны»",
-        "en": "Zone Ranger",
-        "es": "Ranger de la Zona",
-        "fr": "Ranger de la Zone",
-        "ko": "구역의 레인저"
-      }
-    },
-    "color": "RANK_MASTER",
-    "status": {
-      "state": "PERSONAL_ON_USE"
-    }
-  },
-  {
-    "data": "/items/other/n4grw.json",
-    "icon": "/icons/other/n4grw.png",
-    "name": {
-      "type": "translation",
-      "key": "item.style.arm.saturn_na.name",
-      "args": {},
-      "lines": {
-        "ru": "«Охотник за головами»",
-        "en": "Bounty Hunter",
-        "es": "Cazarrecompensas",
-        "fr": "Chasseur de primes",
-        "ko": "현상금 사냥꾼"
-      }
-    },
-    "color": "RANK_MASTER",
-    "status": {
-      "state": "PERSONAL_ON_USE"
-    }
-  },
-  {
     "data": "/items/other/g4956.json",
     "icon": "/icons/other/g4956.png",
     "name": {
@@ -15972,6 +15932,26 @@
         "es": "GLK-1",
         "fr": "GLK-1",
         "ko": "GLK-1"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/2o3l6.json",
+    "icon": "/icons/other/2o3l6.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.honeybadger_summer26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Медоед»",
+        "en": "Ratel",
+        "es": "Ratel",
+        "fr": "Ratel",
+        "ko": "라텔"
       }
     },
     "color": "RANK_MASTER",
@@ -22820,6 +22800,26 @@
     }
   },
   {
+    "data": "/items/other/m020y.json",
+    "icon": "/icons/other/m020y.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.armor_triumph26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Триумфатор»",
+        "en": "Triumphator",
+        "es": "Триумфатор",
+        "fr": "Veni Vidi Vici",
+        "ko": "승리자"
+      }
+    },
+    "color": "RANK_LEGEND",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/96m2q.json",
     "icon": "/icons/other/96m2q.png",
     "name": {
@@ -24527,7 +24527,7 @@
       "key": "item.wpn.ots14a1.name",
       "args": {},
       "lines": {
-        "ru": "ОЦ-14-А1 «Тор»",
+        "ru": "ОЦ-14-1А «Тор»",
         "en": "OTs-14-A1 Thor",
         "es": "OTs-14-A1 Thor",
         "fr": "OTs-14-A1 Thor",
@@ -25787,7 +25787,7 @@
       "key": "item.wpn.stg44.name",
       "args": {},
       "lines": {
-        "ru": "STG-44",
+        "ru": "StG-44",
         "en": "STG-44",
         "es": "STG-44",
         "fr": "STG-44",
@@ -26947,7 +26947,7 @@
       "key": "item.wpn.mr133.name",
       "args": {},
       "lines": {
-        "ru": "МР-133",
+        "ru": "MP-133",
         "en": "MP-133",
         "es": "MP-133",
         "fr": "MP-133",
@@ -27087,7 +27087,7 @@
       "key": "item.wpn.mr153.name",
       "args": {},
       "lines": {
-        "ru": "МР-153",
+        "ru": "MP-153",
         "en": "MP-153",
         "es": "MP-153",
         "fr": "MP-153",
@@ -27327,7 +27327,7 @@
       "key": "item.wpn.mr155_ultima.name",
       "args": {},
       "lines": {
-        "ru": "МР-155 Ultima",
+        "ru": "MP-155 Ultima",
         "en": "MP-155 Ultima",
         "es": "MP-155 Ultima",
         "fr": "MP-155 Ultima",
@@ -28427,7 +28427,7 @@
       "key": "item.wpn.mr412.name",
       "args": {},
       "lines": {
-        "ru": "МР-412",
+        "ru": "MP-412",
         "en": "MP-412",
         "es": "MP-412",
         "fr": "MP-412",
@@ -30467,7 +30467,7 @@
       "key": "item.melee.katran.name",
       "args": {},
       "lines": {
-        "ru": "Боевой нож «Катран-1»",
+        "ru": "«Катран-1»",
         "en": "Katran-1 Combat Knife",
         "es": "Cuchillo de combate Katran-1",
         "fr": "Couteau de Combat Katran-1",
@@ -33727,7 +33727,7 @@
       "key": "item.att.barrel_arsenal_boar.name",
       "args": {},
       "lines": {
-        "ru": "ДТК «Окоём»",
+        "ru": "ДТК «Окоем»",
         "en": "Skyline MBC",
         "es": "CFB Confín",
         "fr": "MBC Horizon",
@@ -35027,7 +35027,7 @@
       "key": "item.att.mag_mr133.name",
       "args": {},
       "lines": {
-        "ru": "Удлинитель магазина МР-133/МР-153",
+        "ru": "Удлинитель магазина MP-133/MP-153",
         "en": "MP-133/MP-153 Magazine Extender",
         "es": "Extensor de cargador MP-133/MP-153",
         "fr": "Chargeur étendu MP-133/MP-153",
@@ -39687,7 +39687,7 @@
       "key": "item.med.schizoyorsh.name",
       "args": {},
       "lines": {
-        "ru": "«ШизоЁрш»",
+        "ru": "«Шизоерш»",
         "en": "SchizoYorsh",
         "es": "SchizoYorsh",
         "fr": "SchizoYorsh",

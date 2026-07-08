@@ -6,7 +6,7 @@
     "key": "item.att.mag_mr133.name",
     "args": {},
     "lines": {
-      "ru": "Удлинитель магазина МР-133/МР-153",
+      "ru": "Удлинитель магазина MP-133/MP-153",
       "en": "MP-133/MP-153 Magazine Extender",
       "es": "Extensor de cargador MP-133/MP-153",
       "fr": "Chargeur étendu MP-133/MP-153",
@@ -244,7 +244,7 @@
             "key": "item.wpn.mr133.name",
             "args": {},
             "lines": {
-              "ru": "МР-133",
+              "ru": "MP-133",
               "en": "MP-133",
               "es": "MP-133",
               "fr": "MP-133",
@@ -259,7 +259,7 @@
             "key": "item.wpn.mr153.name",
             "args": {},
             "lines": {
-              "ru": "МР-153",
+              "ru": "MP-153",
               "en": "MP-153",
               "es": "MP-153",
               "fr": "MP-153",

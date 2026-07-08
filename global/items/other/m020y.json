@@ -1,0 +1,121 @@
+{
+  "id": "m020y",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.armor_triumph26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Триумфатор»",
+      "en": "Triumphator",
+      "es": "Триумфатор",
+      "fr": "Veni Vidi Vici",
+      "ko": "승리자"
+    }
+  },
+  "color": "RANK_LEGEND",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.legend",
+            "args": {},
+            "lines": {
+              "ru": "Легенда",
+              "en": "Legend",
+              "es": "Leyenda",
+              "fr": "Légende",
+              "ko": "전설"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.armor_triumph26.description",
+        "args": {},
+        "lines": {
+          "ru": "Награда за победу в Гонке фракций 2026.",
+          "en": "Reward for winning the 2026 Faction Race.",
+          "es": "Recompensa por la victoria en la Carrera de Facciones de 2026.",
+          "fr": "Récompense pour avoir remporté la Course des Factions 2026.",
+          "ko": "2026년 세력 경쟁 우승 보상."
+        }
+      }
+    },
+    {}
+  ]
+}

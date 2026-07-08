@@ -136,7 +136,7 @@
         "key": "item.art.mod_reroll.additional_stats_tip",
         "args": {},
         "lines": {
-          "ru": "Позволяет сбросить свойства артефакта и сделать его передаваемым",
+          "ru": "Позволяет сбросить свойства артефакта и сделать его передаваемым.",
           "en": "Lets you reset an artifact\u0027s attributes and makes it transferable.",
           "es": "Permite restablecer los atributos de un artefacto y hacerlo transferible",
           "fr": "Vous permet de réinitialiser les attributs d\u0027un artéfact et de le rendre transférable",

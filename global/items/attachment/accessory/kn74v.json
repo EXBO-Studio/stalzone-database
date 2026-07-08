@@ -851,7 +851,7 @@
             "key": "item.wpn.mr155_ultima.name",
             "args": {},
             "lines": {
-              "ru": "МР-155 Ultima",
+              "ru": "MP-155 Ultima",
               "en": "MP-155 Ultima",
               "es": "MP-155 Ultima",
               "fr": "MP-155 Ultima",
@@ -1631,7 +1631,7 @@
             "key": "item.wpn.ots14a1.name",
             "args": {},
             "lines": {
-              "ru": "ОЦ-14-А1 «Тор»",
+              "ru": "ОЦ-14-1А «Тор»",
               "en": "OTs-14-A1 Thor",
               "es": "OTs-14-A1 Thor",
               "fr": "OTs-14-A1 Thor",
@@ -2066,7 +2066,7 @@
             "key": "item.wpn.stg44.name",
             "args": {},
             "lines": {
-              "ru": "STG-44",
+              "ru": "StG-44",
               "en": "STG-44",
               "es": "STG-44",
               "fr": "STG-44",
@@ -2381,7 +2381,7 @@
             "key": "item.wpn.mr133.name",
             "args": {},
             "lines": {
-              "ru": "МР-133",
+              "ru": "MP-133",
               "en": "MP-133",
               "es": "MP-133",
               "fr": "MP-133",
@@ -2486,7 +2486,7 @@
             "key": "item.wpn.mr153.name",
             "args": {},
             "lines": {
-              "ru": "МР-153",
+              "ru": "MP-153",
               "en": "MP-153",
               "es": "MP-153",
               "fr": "MP-153",

@@ -199,7 +199,7 @@
         "key": "item.att.scope_murmur_azimut.description",
         "args": {},
         "lines": {
-          "ru": "Снайперский прицел с переменным увеличением 6-8x, используемый стрелками \"Шепота\". Предназначен для точной стрельбы на больших дистанциях. Конструкция прицела — моноблочная, герметичный корпус из цельной алюминиевой трубки заполнен азотом для защиты оптики от запотевания. Также оснащён системой защиты барабанов поправок от произвольного сбивания.",
+          "ru": "Снайперский прицел с переменным увеличением 6-8x, используемый стрелками \"Шепота\". Предназначен для точной стрельбы на больших дистанциях. Конструкция прицела — моноблочная, герметичный корпус из цельной алюминиевой трубки заполнен азотом для защиты оптики от запотевания. Также оснащен системой защиты барабанов поправок от произвольного сбивания.",
           "en": "A sniper scope with variable magnification of 6-8x, used by Murmur shooters. It is designed for precise shooting at long distances. The sight\u0027s construction is monoblock, with a sealed tube body filled with nitrogen to prevent fogging of the optics. It is also equipped with a system to protect adjustment drums from accidental shifts.",
           "es": "Mira de francotirador con aumento variable de 6-8x, utilizado por los tiradores de Susurro. Diseñado para disparos precisos a largas distancias. El diseño de la mira es monobloque, con una carcasa hermética de tubo de aluminio macizo rellena de nitrógeno para proteger la óptica del empañamiento. También está equipada con un sistema de protección de los tambores de corrección contra golpes accidentales.",
           "fr": "Viseur de précision à grossissement variable 6x-8x, utilisé par les tireurs du Murmure. Conçu pour le tir de précision à longue distance. Sa construction est monobloc ; un boîtier étanche en tube d\u0027aluminium massif est rempli d\u0027azote pour protéger l\u0027optique de la buée. Également équipé d\u0027un système de protection des tambours de réglage contre tout dérèglement accidentel.",
@@ -829,7 +829,7 @@
             "key": "item.wpn.mr155_ultima.name",
             "args": {},
             "lines": {
-              "ru": "МР-155 Ultima",
+              "ru": "MP-155 Ultima",
               "en": "MP-155 Ultima",
               "es": "MP-155 Ultima",
               "fr": "MP-155 Ultima",
