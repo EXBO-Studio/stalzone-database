@@ -1,0 +1,121 @@
+{
+  "id": "1rdqr",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.mk47_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Вечная война»",
+      "en": "Eternal War",
+      "es": "Guerra Eterna",
+      "fr": "Guerre éternelle",
+      "ko": "영원한 전쟁"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.mk47_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Один из экземпляров партии «Мутантов», кастомизированный известным механиком в Баре, обыгрывающий тему непрекращающейся грызни между сталкерами и бандитами.",
+          "en": "One of the Mutant batch variants, customized by a well-known mechanic at the Bar, playing on the theme of the never-ending feud between stalkers and bandits.",
+          "es": "Uno de los ejemplares de la serie Mutantes, personalizado por un conocido mecánico del Bar, que hace referencia a la interminable rivalidad entre los acechadores y los bandidos.",
+          "fr": "L\u0027un des exemplaires de la série « Mutants », personnalisé par un mécanicien renommé du Bar, évoquant l\u0027interminable rivalité entre les stalkers et les bandits.",
+          "ko": "술집에서 유명한 정비공이 커스터마이징한 «Mutant» 생산품 중 하나. 스토커와 밴디트 사이에서 끝없이 이어지는 다툼을 표현한 디자인이다."
+        }
+      }
+    },
+    {}
+  ]
+}

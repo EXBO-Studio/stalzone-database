@@ -1,0 +1,121 @@
+{
+  "id": "zz75k",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.f2000_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Бес»",
+      "en": "Devil",
+      "es": "Demonio",
+      "fr": "Démon",
+      "ko": "악마"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.f2000_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Персональная кастомизация, выполненная по заказу известного в «Пьяном Гейгере».\\nПо словам бывшего владельца, набросок рисунка он выполнил сам по воспоминаниям от первой встречи с бестией.",
+          "en": "Personal customization made by request of a well-known regular at the Drunken Geiger.\\nAccording to the former owner, he drew the original sketch himself, based on his memories of the first encounter with the fiend.",
+          "es": "Personalización exclusiva realizada por encargo de un conocido del Geiger Borracho.\\nSegún su antiguo propietario, él mismo hizo el boceto del diseño, inspirado en los recuerdos de su primer encuentro con la fiera.",
+          "fr": "Personnalisation réalisée sur commande d\u0027un habitué bien connu du « Geiger Ivre ».\\nSelon son ancien propriétaire, il a lui-même esquissé le motif en s\u0027inspirant de ses souvenirs de sa première rencontre avec la bête.",
+          "ko": "술 취한 가이거에서 유명한 의뢰인이 주문한 개인 커스터마이징.\\n전 소유자의 말에 따르면, 도안은 자신이 직접 그렸으며, 처음 그 악마와 마주쳤던 순간의 기억을 바탕으로 했다고 한다."
+        }
+      }
+    },
+    {}
+  ]
+}

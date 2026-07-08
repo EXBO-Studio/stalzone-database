@@ -1,0 +1,121 @@
+{
+  "id": "g40on",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.otl03_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Винтаж»",
+      "en": "Antique",
+      "es": "Vintage",
+      "fr": "Vintage",
+      "ko": "빈티지"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.otl03_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Экземпляр из модернизированной партии «Карбачей», переделанных мастером под винтажный стиль.\\nВ Зоне, конечно, нет Дикого Запада, но сталкерам хватает и Дикого Севера.",
+          "en": "A specimen from the upgraded Karbach batch, reworked by a master into a vintage style.\\nThe Zone may not have the Wild West, but stalkers have more than enough of the Wild North.",
+          "es": "Ejemplar de la serie modernizada de Karbach, modificado por un maestro con un estilo vintage.\\nPuede que en la Zona no exista el Lejano Oeste, pero a los acechadores les basta con el Norte Salvaje.",
+          "fr": "Exemplaire issu d\u0027une série modernisée de Karbach, retravaillé par un maître dans un style vintage.\\nIl n\u0027y a peut-être pas de Far West dans la Zone, mais le Grand Nord sauvage suffit largement aux stalkers.",
+          "ko": "마스터가 빈티지 스타일로 개조한 카르바흐 개량품 중 하나.\\n물론 구역에는 와일드 웨스트는 없지만, 스토커들에게는 야생의 북부만으로도 충분하다."
+        }
+      }
+    },
+    {}
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "1rdq1",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.ks1_summer26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Хребет»",
+      "en": "Backbone",
+      "es": "Espinazo",
+      "fr": "Échine",
+      "ko": "등뼈"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.ks1_summer26.description",
+        "args": {},
+        "lines": {
+          "ru": "Незамысловатая модернизация винтовки, выполненная одним сталкером для личного пользования.\\nКак признается сам автор, вынужденный продать автомат, не то чтобы у него была какая-то концепция. Было просто желание порисовать.",
+          "en": "A simple rifle modification made by a stalker for personal use.\\nAs the creator himself admits, after being forced to sell the weapon, there wasn\u0027t really any concept behind it. He just felt like drawing.",
+          "es": "Modificación sencilla de un fusil, realizada por un acechador para uso personal.\\nComo admite el propio autor, quien más tarde se vio obligado a vender el arma, no tenía ningún concepto en mente. Simplemente le apetecía pintar.",
+          "fr": "Simple modification d\u0027un fusil, réalisée par un stalker pour son usage personnel.\\nComme l\u0027admet son auteur, contraint de vendre son arme par la suite, il n\u0027avait pas vraiment de concept en tête. Il avait simplement envie de peindre.",
+          "ko": "한 스토커가 개인적으로 쓰려고 손수 손본 소박한 소총 개조품이다.\\n훗날 총을 팔게 된 제작자 본인의 말에 따르면, 거창한 콘셉트가 있었던 건 아니라고 한다. 그냥 한번 그리고 싶었을 뿐이다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}
