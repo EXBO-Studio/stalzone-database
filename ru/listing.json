@@ -8920,6 +8920,26 @@
     }
   },
   {
+    "data": "/items/backpacks/vyjd.json",
+    "icon": "/icons/backpacks/vyjd.png",
+    "name": {
+      "type": "translation",
+      "key": "item.bag.zivcas.name",
+      "args": {},
+      "lines": {
+        "ru": "ZIVCAS Sisyphus-6",
+        "en": "ZIVCAS Sisyphus-6",
+        "es": "ZIVCAS Sisyphus-6",
+        "fr": "ZIVCAS:Sisyphe-6",
+        "ko": "지브카스 Sisyphus-6"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/backpacks/glnp.json",
     "icon": "/icons/backpacks/glnp.png",
     "name": {
@@ -11155,6 +11175,26 @@
       }
     },
     "color": "DEFAULT",
+    "status": {
+      "state": "NONE"
+    }
+  },
+  {
+    "data": "/items/misc/7966.json",
+    "icon": "/icons/misc/7966.png",
+    "name": {
+      "type": "translation",
+      "key": "item.coupon.k2.name",
+      "args": {},
+      "lines": {
+        "ru": "Талон на получение штурмовой винтовки K2",
+        "en": "K2 Assault Rifle Ticket",
+        "es": "Cupón para obtener el fusil de asalto K2",
+        "fr": "Coupon pour obtenir un fusil d\u0027assaut K2",
+        "ko": "K2 돌격소총 교환 티켓"
+      }
+    },
+    "color": "RANK_VETERAN",
     "status": {
       "state": "NONE"
     }
@@ -24750,7 +24790,7 @@
         "ru": "ОЦ-14-1А «Тор»",
         "en": "OTs-14-A1 Thor",
         "es": "OTs-14-A1 Thor",
-        "fr": "OTs-14-A1 Thor",
+        "fr": "OTs-14-1A Thor",
         "ko": "OTs-14-A1 토르"
       }
     },
@@ -24792,6 +24832,46 @@
         "es": "AKS-9 Armiño",
         "fr": "AKS-9 Hermine",
         "ko": "AKS-9 호젓"
+      }
+    },
+    "color": "RANK_VETERAN",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/assault_rifle/6wrqj.json",
+    "icon": "/icons/weapon/assault_rifle/6wrqj.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.k2_damaged.name",
+      "args": {},
+      "lines": {
+        "ru": "Потертый K2",
+        "en": "Worn K2",
+        "es": "K2 Desgastado",
+        "fr": "K2 usé",
+        "ko": "닳은 K2"
+      }
+    },
+    "color": "RANK_NEWBIE",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/assault_rifle/96mr0.json",
+    "icon": "/icons/weapon/assault_rifle/96mr0.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.k2.name",
+      "args": {},
+      "lines": {
+        "ru": "K2",
+        "en": "K2",
+        "es": "K2",
+        "fr": "K2",
+        "ko": "K2"
       }
     },
     "color": "RANK_VETERAN",
@@ -26010,7 +26090,7 @@
         "ru": "StG-44",
         "en": "STG-44",
         "es": "STG-44",
-        "fr": "STG-44",
+        "fr": "StG-44",
         "ko": "STG-44"
       }
     },
@@ -26032,6 +26112,26 @@
         "es": "Honey Badger",
         "fr": "AAC Honey Badger",
         "ko": "AAC Honey Badger"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/assault_rifle/okvr4.json",
+    "icon": "/icons/weapon/assault_rifle/okvr4.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.k2c1.name",
+      "args": {},
+      "lines": {
+        "ru": "K2C1",
+        "en": "K2C1",
+        "es": "K2C1",
+        "fr": "K2C1",
+        "ko": "K2C1"
       }
     },
     "color": "RANK_MASTER",
@@ -26312,6 +26412,26 @@
         "es": "M60E4",
         "fr": "M60E4",
         "ko": "M60E4"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/machine_gun/j5op4.json",
+    "icon": "/icons/weapon/machine_gun/j5op4.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.k15.name",
+      "args": {},
+      "lines": {
+        "ru": "K15",
+        "en": "K15",
+        "es": "K15",
+        "fr": "K15",
+        "ko": "K15"
       }
     },
     "color": "RANK_MASTER",
@@ -27551,7 +27671,7 @@
         "en": "MP-155 Ultima",
         "es": "MP-155 Ultima",
         "fr": "MP-155 Ultima",
-        "ko": "МР-155 Ultima"
+        "ko": "MP-155 Ultima"
       }
     },
     "color": "RANK_MASTER",
@@ -28135,6 +28255,26 @@
       }
     },
     "color": "RANK_LEGEND",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/pistol/7lng9.json",
+    "icon": "/icons/weapon/pistol/7lng9.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.fiveseven.name",
+      "args": {},
+      "lines": {
+        "ru": "FN Five-seveN",
+        "en": "FN Five-seveN",
+        "es": "FN Five-seveN",
+        "fr": "FN Five-seveN",
+        "ko": "FN Five-seveN"
+      }
+    },
+    "color": "RANK_MASTER",
     "status": {
       "state": "PERSONAL_ON_USE"
     }
@@ -30970,8 +31110,8 @@
         "ru": "«Катран-1»",
         "en": "Katran-1 Combat Knife",
         "es": "Cuchillo de combate Katran-1",
-        "fr": "Couteau de Combat Katran-1",
-        "ko": "카트란-1 군용 칼"
+        "fr": "Katran-1",
+        "ko": "카트란-1"
       }
     },
     "color": "RANK_MASTER",
@@ -40230,8 +40370,8 @@
         "ru": "«Шизоерш»",
         "en": "SchizoYorsh",
         "es": "SchizoYorsh",
-        "fr": "SchizoYorsh",
-        "ko": "스키조요르쉬"
+        "fr": "L\u0027Épineux",
+        "ko": "시조러프"
       }
     },
     "color": "RANK_MASTER",
@@ -45990,6 +46130,46 @@
         "es": "OTL-03 Karbach Pieza",
         "fr": "Partie de OTL-03 Karbach",
         "ko": "OTL-03 카르바흐 부품"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_GET"
+    }
+  },
+  {
+    "data": "/items/misc/gnzpn.json",
+    "icon": "/icons/misc/gnzpn.png",
+    "name": {
+      "type": "translation",
+      "key": "item.part.famas_ny.name",
+      "args": {},
+      "lines": {
+        "ru": "Часть новогоднего FAMAS",
+        "en": "New Year FAMAS Part",
+        "es": "FAMAS de Año Nuevo Pieza",
+        "fr": "Pièce de FAMAS du Nouvel An",
+        "ko": "새해 FAMAS 부품"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_GET"
+    }
+  },
+  {
+    "data": "/items/misc/z3nok.json",
+    "icon": "/icons/misc/z3nok.png",
+    "name": {
+      "type": "translation",
+      "key": "item.part.glock_ny.name",
+      "args": {},
+      "lines": {
+        "ru": "Часть новогоднего Glock",
+        "en": "New Year Glock 18C Part",
+        "es": "Glock de Año Nuevo Pieza",
+        "fr": "Partie du Glock du Nouvel An",
+        "ko": "새해 글록 18C 부품"
       }
     },
     "color": "RANK_MASTER",

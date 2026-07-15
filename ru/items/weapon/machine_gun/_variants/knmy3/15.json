@@ -791,7 +791,7 @@
               "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
-              "fr": "Amélioration de la dispersion et du recul en position couchée",
+              "fr": "Amélioration du recul en position couchée",
               "ko": "포복 자세 시 반동 감소"
             }
           }
@@ -818,10 +818,10 @@
         "args": {},
         "lines": {
           "ru": "DSA RPD — это реинкарнация знаменитого советского ручного пулемета Дегтярева, выпускаемая одноименной американской компанией. Внешне это тот же узнаваемый пулемет: характерный сошник, «рожки» прицела и коробка, но с современными улучшениями вроде облегченного флейтированного ствола, эргономичного пластикового цевья и телескопического приклада от М4.\\n\\nРедкий, но очень востребованный образец в условиях ЧЗО.",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "ko": ""
+          "en": "The DSA RPD is a modern reincarnation of the legendary Soviet Degtyaryov light machine gun, manufactured by the American company of the same name. Externally, it retains the unmistakable appearance of the original, with its distinctive bipod, protective front sight ears, and ammunition box, but incorporates modern upgrades such as a lightweight fluted barrel, an ergonomic polymer handguard, and an M4 telescoping stock.\\n\\nA rare but highly sought-after weapon within the CEZ.",
+          "es": "La DSA RPD es una reinterpretación de la legendaria ametralladora ligera Degtiárev soviética, fabricada por la empresa estadounidense del mismo nombre. A simple vista conserva el aspecto inconfundible del arma original: el característico bípode, las orejetas del alza y la caja del cargador de cinta, pero incorpora mejoras modernas como un cañón aligerado y estriado (fluted), un guardamanos ergonómico de polímero y una culata telescópica compatible con la M4.\\n\\nEs un ejemplar poco común, pero muy codiciado en las condiciones de la ZEС.",
+          "fr": "Le DSA RPD est la réincarnation du célèbre mitrailleuse légère soviétique Degtyarev, produite par une entreprise américaine du même nom. Extérieurement, c\u0027est la même mitrailleuse reconnaissable : bipied caractéristique, viseur en forme de cornes et boîte, mais avec des améliorations modernes telles qu\u0027un canon allégé et flûté, une poignée ergonomique en plastique et une crosse télescopique de type M4.\\n\\n\\n\\nUn modèle rare mais très recherché dans la ZET.",
+          "ko": "DSA RPD는 데그탸료프 경기관총의 현대적 부활형으로, 동명의 미국 회사에서 생산된다. 외형은 전통적인 RPD의 특징을 그대로 유지하고 있다. 독특한 양각대, 귀처럼 보이는 가늠자 구조, 그리고 박스형 리시버 등 익숙한 실루엣을 갖추고 있다. 그러나 경량 플루트 총열, 인체공학적 폴리머 핸드가드, M4 계열의 텔레스코픽 개머리판 등 현대적인 개선 요소가 추가되었다.\\n\\n체르노빌 금지 구역에서는 보기 드문 대신, 매우 높은 수요를 가진 희귀한 모델이다."
         }
       }
     }

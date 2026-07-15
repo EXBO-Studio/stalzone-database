@@ -408,6 +408,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.k2c1.name",
+            "args": {},
+            "lines": {
+              "ru": "K2C1",
+              "en": "K2C1",
+              "es": "K2C1",
+              "fr": "K2C1",
+              "ko": "K2C1"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.lr300.name",
             "args": {},
             "lines": {
@@ -603,6 +618,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.k15.name",
+            "args": {},
+            "lines": {
+              "ru": "K15",
+              "en": "K15",
+              "es": "K15",
+              "fr": "K15",
+              "ko": "K15"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.fal_a.name",
             "args": {},
             "lines": {
@@ -776,6 +806,21 @@
               "es": "PSA PA 10 Compás",
               "fr": "PSA PA 10 Battement",
               "ko": "PSA PA 10 비트"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.k2.name",
+            "args": {},
+            "lines": {
+              "ru": "K2",
+              "en": "K2",
+              "es": "K2",
+              "fr": "K2",
+              "ko": "K2"
             }
           }
         },

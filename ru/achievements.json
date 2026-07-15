@@ -22,7 +22,7 @@
         "en": "Survive being caught in a Trampoline",
         "es": "Sobrevive atrapado en un trampolín",
         "fr": "Survivre à un trampoline",
-        "ko": "트램펄린에 휘말려서 살아남기"
+        "ko": "트램펄린에 휘말려서 살아남았다"
       }
     },
     "points": 10
@@ -498,7 +498,7 @@
         "en": "Visit Polesskoye",
         "es": "Visite Poliske",
         "fr": "Visiter Polesskoye",
-        "ko": "폴레스코예 방문"
+        "ko": "폴레스코예 방문했다"
       }
     },
     "points": 15
@@ -1170,7 +1170,7 @@
         "en": "Win in the Rat Races",
         "es": "Gana en las carreras de ratas",
         "fr": "Gagner dans la course aux rats",
-        "ko": "쥐 경주에서 승리하기"
+        "ko": "쥐 경주에서 승리했다"
       }
     },
     "points": 20
@@ -1394,7 +1394,7 @@
         "en": "Be burned by a Lighter",
         "es": "Haz que te queme un Abrasador",
         "fr": "Se faire brûler par un Briquet",
-        "ko": "라이터에 의해 화상을 입기"
+        "ko": "라이터에 의해 화상을 입었다"
       }
     },
     "points": 0
@@ -1702,7 +1702,7 @@
         "en": "Enter Chernobyl-4 (before 2020)",
         "es": "Entrar en Chernóbil-4 (antes de 2020)",
         "fr": "Entrer dans Tchernobyl-4 (avant 2020)",
-        "ko": "체르노빌-4에 방문하였습니다 (2020 이전)"
+        "ko": "체르노빌-4에 방문했다 (2020 이전)"
       }
     },
     "points": 20
@@ -4418,7 +4418,7 @@
         "en": "Upgrade Artillery branch to level 10",
         "es": "Alcanza el área de artillería hasta el nivel 10.",
         "fr": "Améliorer le secteur Artillerie au niveau 10.",
-        "ko": "포병 분야를 레벨 10까지 업그레이드하기."
+        "ko": "포병 분야를 레벨 10까지 업그레이드했다."
       }
     },
     "points": 10
@@ -4446,7 +4446,7 @@
         "en": "Upgrade Artillery branch to level 20",
         "es": "Alcanza el área de artillería hasta el nivel 20.",
         "fr": "Améliorer le secteur Artillerie au niveau 20.",
-        "ko": "포병 분야를 레벨 20까지 업그레이드하기."
+        "ko": "포병 분야를 레벨 20까지 업그레이드했다."
       }
     },
     "points": 15
@@ -4474,7 +4474,7 @@
         "en": "Upgrade Artillery branch to level 30",
         "es": "Alcanza el área de artillería hasta el nivel 30.",
         "fr": "Améliorer le secteur Artillerie au niveau 30.",
-        "ko": "포병 분야를 레벨 30까지 업그레이드하기."
+        "ko": "포병 분야를 레벨 30까지 업그레이드했다."
       }
     },
     "points": 20
@@ -4502,7 +4502,7 @@
         "en": "Upgrade Aviation branch to level 10",
         "es": "Alcanza el área de aviación hasta el nivel 10.",
         "fr": "Améliorer le secteur Aviation au niveau 10.",
-        "ko": "항공 분야를 레벨 10까지 업그레이드하기."
+        "ko": "항공 분야를 레벨 10까지 업그레이드했다."
       }
     },
     "points": 10
@@ -4530,7 +4530,7 @@
         "en": "Upgrade Aviation branch to level 20",
         "es": "Alcanza el área de aviación hasta el nivel 20.",
         "fr": "Améliorer le secteur Aviation au niveau 20.",
-        "ko": "항공 분야를 레벨 20까지 업그레이드하기."
+        "ko": "항공 분야를 레벨 20까지 업그레이드했다."
       }
     },
     "points": 15
@@ -4558,7 +4558,7 @@
         "en": "Upgrade Aviation branch to level 30",
         "es": "Alcanza el área de aviación hasta el nivel 30.",
         "fr": "Améliorer le secteur Aviation au niveau 30.",
-        "ko": "항공 분야를 레벨 30까지 업그레이드하기."
+        "ko": "항공 분야를 레벨 30까지 업그레이드했다."
       }
     },
     "points": 20
@@ -4586,7 +4586,7 @@
         "en": "Upgrade logistics branch to level 10",
         "es": "Alcanza el área de logística hasta el nivel 10.",
         "fr": "Améliorer le secteur Logistique au niveau 10.",
-        "ko": "물류 분야를 레벨 10까지 업그레이드하기."
+        "ko": "물류 분야를 레벨 10까지 업그레이드했다."
       }
     },
     "points": 10
@@ -4614,7 +4614,7 @@
         "en": "Upgrade logistics branch to level 20",
         "es": "Alcanza el área de logística hasta el nivel 20.",
         "fr": "Améliorer le secteur Logistique au niveau 20.",
-        "ko": "물류 분야를 레벨 20까지 업그레이드하기."
+        "ko": "물류 분야를 레벨 20까지 업그레이드했다."
       }
     },
     "points": 15
@@ -4642,7 +4642,7 @@
         "en": "Upgrade logistics branch to level 30",
         "es": "Alcanza el área de logística hasta el nivel 30.",
         "fr": "Améliorer le secteur Logistique au niveau 30.",
-        "ko": "물류 분야를 레벨 30까지 업그레이드하기."
+        "ko": "물류 분야를 레벨 30까지 업그레이드했다."
       }
     },
     "points": 20
@@ -4670,7 +4670,7 @@
         "en": "Upgrade Scouting branch to level 10",
         "es": "Alcanza el área de reconocimiento hasta el nivel 10.",
         "fr": "Améliorer le secteur Reconnaissance au niveau 10.",
-        "ko": "정찰 분야를 레벨 10까지 업그레이드하기."
+        "ko": "정찰 분야를 레벨 10까지 업그레이드했다."
       }
     },
     "points": 10
@@ -4698,7 +4698,7 @@
         "en": "Upgrade Scouting branch to level 20",
         "es": "Alcanza el área de reconocimiento hasta el nivel 20.",
         "fr": "Améliorer le secteur Reconnaissance au niveau 20.",
-        "ko": "정찰 분야를 레벨 20까지 업그레이드하기."
+        "ko": "정찰 분야를 레벨 20까지 업그레이드했다."
       }
     },
     "points": 15
@@ -4726,7 +4726,7 @@
         "en": "Upgrade Scouting branch to level 30",
         "es": "Alcanza el área de reconocimiento hasta el nivel 30.",
         "fr": "Améliorer le secteur Reconnaissance au niveau 30.",
-        "ko": "정찰 분야를 레벨 30까지 업그레이드하기."
+        "ko": "정찰 분야를 레벨 30까지 업그레이드했다."
       }
     },
     "points": 20
@@ -4810,7 +4810,7 @@
         "en": "Complete Bourbon\u0027s story",
         "es": "Completa la historia de Bourbon",
         "fr": "Terminer l\u0027histoire de Bourbon",
-        "ko": "버번의 이야기를 완료했다."
+        "ko": "버번의 이야기를 완료했다"
       }
     },
     "points": 20
@@ -4866,7 +4866,7 @@
         "en": "Find out the fate of the Specter group.",
         "es": "Averigua el destino del grupo Espectro.",
         "fr": "Découvrez le sort du groupe Specter.",
-        "ko": "스펙터 그룹의 운명을 확인했다."
+        "ko": "스펙터 그룹의 운명을 확인했다"
       }
     },
     "points": 20
@@ -4922,7 +4922,7 @@
         "en": "Find 1,000 signals",
         "es": "Encuentra 1000 señales",
         "fr": "Trouver 1000 signaux",
-        "ko": "1,000개의 신호 찾기"
+        "ko": "1,000개의 신호 찾았다"
       }
     },
     "points": 20
@@ -5006,7 +5006,7 @@
         "en": "Kill 25,000 entities in mode using Akatsiyas and Gvozdikas",
         "es": "Matar a 25.000 criaturas en el modo con Akátsiya y Gvozdika.",
         "fr": "Tuer 25 000 entités en mode avec Acacia et Gvozdika.",
-        "ko": "아카시아와 카네이션을 사용하는 모드에서 25,000개체를 처치하세요."
+        "ko": "아카시아와 카네이션을 사용하는 모드에서 25,000개체를 처치했다."
       }
     },
     "points": 20
@@ -5034,7 +5034,7 @@
         "en": "Kill 100,000 entities in mode with tactical support",
         "es": "Matar a 100.000 criaturas en el modo con apoyo táctico",
         "fr": "Tuer 100 000 entités en mode avec le soutien tactique",
-        "ko": "전술 지원을 받아 모드에서 100,000개체를 처치하세요"
+        "ko": "전술 지원을 받아 모드에서 100,000개체를 처치했다"
       }
     },
     "points": 20
@@ -5062,7 +5062,7 @@
         "en": "Kill 25,000 entities in mode using RBK-250",
         "es": "Matar a 25.000 criaturas en el modo con RBK-250",
         "fr": "Tuer 25 000 entités en mode à l\u0027aide d\u0027un RBK-250",
-        "ko": "RBK-250를 사용하여 25 000개체를 처치하세요"
+        "ko": "RBK-250를 사용하여 25 000개체를 처치했다"
       }
     },
     "points": 20
@@ -5090,7 +5090,7 @@
         "en": "Kill 50,000 entities in mode using Grad",
         "es": "Matar a 50.000 criaturas en el modo con Grad",
         "fr": "Tuer 50 000 entités en mode à l\u0027aide du Grad",
-        "ko": "모드에서 수류탄을 사용하여 50,000개체를 처치하세요"
+        "ko": "모드에서 수류탄을 사용하여 50,000개체를 처치했다"
       }
     },
     "points": 20
@@ -5118,7 +5118,7 @@
         "en": "Kill 50,000 entities with S-24, S-5, S-8 rockets",
         "es": "Matar a 50.000 criaturas con misiles S-24, S-5, S-8.",
         "fr": "Tuer 50 000 entités avec des roquettes S-24, S-5 ou S-8",
-        "ko": "S-24, S-5, S-8 로켓을 사용하여 50,000개체를 처치하세요"
+        "ko": "S-24, S-5, S-8 로켓을 사용하여 50,000개체를 처치했다"
       }
     },
     "points": 20
@@ -5146,7 +5146,7 @@
         "en": "Kill 10,000 entities in mode using mines",
         "es": "Matar a 10.000 criaturas en el modo con minas.",
         "fr": "Tuer 10 000 entités en mode avec des mines.",
-        "ko": "지뢰를 사용하여 10,000개체를 처치하세요."
+        "ko": "지뢰를 사용하여 10,000개체를 처치했다."
       }
     },
     "points": 20
@@ -5174,7 +5174,7 @@
         "en": "Kill 25,000 entities in mode using ZAB-100",
         "es": "Matar a 25.000 criaturas en el modo con ZAB-100",
         "fr": "Tuer 25 000 entités en mode à l\u0027aide d\u0027une ZAB-100",
-        "ko": "ZAB-100을 사용하여 25 000개체를 처치하세요"
+        "ko": "ZAB-100을 사용하여 25 000개체를 처치했다"
       }
     },
     "points": 20
@@ -5846,7 +5846,7 @@
         "en": "Visit Lyubech-3",
         "es": "Visita Lyubech-3",
         "fr": "Visiter Lyubech-3",
-        "ko": "류베치-3에 방문하였습니다"
+        "ko": "류베치-3에 방문했다"
       }
     },
     "points": 15
@@ -6770,7 +6770,7 @@
         "en": "Review your personal survival highlights in the Zone for the year 2024",
         "es": "Revisa tus logros personales de supervivencia en la Zona del año 2024",
         "fr": "Regardez le récapitulatif de vos meilleurs moments de survie de 2024 dans la Zone",
-        "ko": "2024년 개인 구역 생존 하이라이트를 돌아봤습니다"
+        "ko": "2024년 개인 구역 생존 하이라이트를 돌아봤다"
       }
     },
     "points": 15
@@ -7022,7 +7022,7 @@
         "en": "Visit the Path of Fools",
         "es": "Visita el Camino de los Necios",
         "fr": "Visiter le chemin des fous",
-        "ko": "어리석은 자들의 길 방문"
+        "ko": "어리석은 자들의 길 방문했다"
       }
     },
     "points": 15
@@ -7638,7 +7638,7 @@
         "en": "Complete the Halloween 2021 questline",
         "es": "Completa las misiones de Halloween 2021",
         "fr": "Terminer la quête d\u0027Halloween 2021",
-        "ko": "2021년 할로윈 퀘스트 라인을 완료하기"
+        "ko": "2021년 할로윈 퀘스트 라인을 완료했다"
       }
     },
     "points": 20
@@ -10970,7 +10970,7 @@
         "en": "Survive being caught in a Blender",
         "es": "Sobrevive atrapado en un Remolino",
         "fr": "Survivre à une Toupie",
-        "ko": "블렌더에 휘말려서 살아남기"
+        "ko": "블렌더에 휘말려서 살아남았다"
       }
     },
     "points": 10
@@ -11306,7 +11306,7 @@
         "en": "Visit Uranus Mill",
         "es": "Visitar el complejo Urano",
         "fr": "Découvrir l\u0027Usine Uranus",
-        "ko": "우라누스 단지 방문하기"
+        "ko": "우라누스 단지 방문했다"
       }
     },
     "points": 20
@@ -11446,7 +11446,7 @@
         "en": "Visit the Stillwaters",
         "es": "Visita Aguas Serenas",
         "fr": "Visiter les Eaux Stagnantes",
-        "ko": "스틸워터 방문"
+        "ko": "스틸워터 방문했다"
       }
     },
     "points": 15
@@ -11558,7 +11558,7 @@
         "en": "Complete any Operation",
         "es": "Completar cualquier Operación",
         "fr": "Terminer n\u0027importe quelle Opération.",
-        "ko": "어떤 작전이든 완료하기"
+        "ko": "어떤 작전이든 완료했다"
       }
     },
     "points": 0
@@ -11586,7 +11586,7 @@
         "en": "Complete 50 Operations",
         "es": "Completar 50 Operaciones",
         "fr": "Terminer 50 Opérations.",
-        "ko": "작전 50회 완료하기"
+        "ko": "작전 50회 완료했다"
       }
     },
     "points": 10
@@ -11614,7 +11614,7 @@
         "en": "Complete 100 Operations",
         "es": "Completar 100 Operaciones",
         "fr": "Terminer 100 Opérations.",
-        "ko": "작전 100회 완료하기"
+        "ko": "작전 100회 완료했다"
       }
     },
     "points": 15
@@ -11642,7 +11642,7 @@
         "en": "Complete 1000 Operations",
         "es": "Completar 1000 Operaciones",
         "fr": "Terminer 1000 Opérations.",
-        "ko": "작전 1000회 완료하기"
+        "ko": "작전 1000회 완료했다"
       }
     },
     "points": 20
@@ -11670,7 +11670,7 @@
         "en": "Complete the introductory Operations Quest",
         "es": "Completar la misión introductoria de Operaciones.",
         "fr": "Terminer la quête d\u0027introduction des Opérations.",
-        "ko": "입문 작전 퀘스트 완료하기"
+        "ko": "입문 작전 퀘스트 완료했다"
       }
     },
     "points": 10
@@ -11698,7 +11698,7 @@
         "en": "Kill Ratcatcher at Clearance 15 or higher and complete the The Big Clean Up Operation",
         "es": "Matar al Cazador de ratas en el nivel 15 del acceso o superior y completar la Operación Gran limpieza",
         "fr": "Tuer l\u0027Attrape-Rats avec un niveau d\u0027Accès 15 ou plus et terminer l\u0027Opération Grand Nettoyage.",
-        "ko": "소탕도 15 이상에서 쥐잡이꾼을 처치하고 대규모 소탕 작전 완료하기"
+        "ko": "소탕도 15 이상에서 쥐잡이꾼을 처치하고 대규모 소탕 작전 완료했다"
       }
     },
     "points": 15
@@ -11726,7 +11726,7 @@
         "en": "Kill Storm at Clearance 15 or higher and complete the Focus Operation",
         "es": "Matar a Tormenta en el nivel 15 del acceso o superior y completar la Operación Enfoque",
         "fr": "Tuer la Tempête avec un niveau d\u0027Accès 15 ou plus et terminer l\u0027Opération Focalisation.",
-        "ko": "소탕 등급 15 이상에서 폭풍을 처치하고 집중 작전 완료하기"
+        "ko": "소탕 등급 15 이상에서 폭풍을 처치하고 집중 작전 완료했다"
       }
     },
     "points": 15
@@ -11754,7 +11754,7 @@
         "en": "Successfully complete any Operation at Clearance 5 or higher where no squad member had a class",
         "es": "Completar con éxito cualquier Operación con un nivel 5 del acceso o superior sin que ningún miembro del escuadrón tenga clase",
         "fr": "Terminer avec succès n\u0027importe quelle Opération à un niveau d\u0027Accès 5 ou plus, sans qu\u0027aucun membre de l\u0027escouade n\u0027ait de classe.",
-        "ko": "소탕도 5 이상에서 어떤 분대원도 클래스가 없는 상태로 임의 작전을 완료하기"
+        "ko": "소탕도 5 이상에서 어떤 분대원도 클래스가 없는 상태로 임의 작전을 완료했다"
       }
     },
     "points": 20
@@ -11782,7 +11782,7 @@
         "en": "Review your personal survival highlights in the Zone for the year 2025",
         "es": "Ver los resultados personales de supervivencia en la Zona durante el año 2025",
         "fr": "Découvrez votre bilan personnel de survie dans la Zone pour l’année 2025",
-        "ko": "2025년 한 해 동안 구역에서의 개인 생존 하이라이트를 돌아보세요"
+        "ko": "2025년 한 해 동안 구역에서의 개인 생존 하이라이트를 돌아봤다"
       }
     },
     "points": 15
@@ -12945,8 +12945,8 @@
         "ru": "Камера мен не придет",
         "en": "Cameraman Won\u0027t Come",
         "es": "Cameraman no vendrá",
-        "fr": "Camera Man ne viendra pas",
-        "ko": "카메라맨이 오지 않는다"
+        "fr": "Le caméraman ne viendra pas",
+        "ko": "카메라맨은 오지 않는다"
       }
     },
     "description": {
@@ -13014,7 +13014,7 @@
         "en": "Give 100 Mysterious Gifts",
         "es": "Hacer 100 Regalos misteriosos",
         "fr": "Envoyer 100 cadeaux mystérieux",
-        "ko": "수수께끼의 선물 100개 보내기"
+        "ko": "수수께끼의 선물 100개 보냈다"
       }
     },
     "points": 20
@@ -13042,7 +13042,7 @@
         "en": "Give 10 Mysterious Gifts",
         "es": "Hacer 10 Regalos misteriosos",
         "fr": "Envoyer 10 cadeaux mystérieux",
-        "ko": "수수께끼의 선물 10개 보내기"
+        "ko": "수수께끼의 선물 10개 보냈다"
       }
     },
     "points": 15
@@ -13070,7 +13070,7 @@
         "en": "Receive 100 Mysterious Gifts",
         "es": "Recibir 100 Regalos misteriosos",
         "fr": "Recevoir 100 cadeaux mystérieux",
-        "ko": "수수께끼의 선물 100개 받기"
+        "ko": "수수께끼의 선물 100개 받았다"
       }
     },
     "points": 20
@@ -13098,7 +13098,7 @@
         "en": "Receive 10 Mysterious Gifts",
         "es": "Recibir 10 Regalos misteriosos",
         "fr": "Recevoir 10 cadeaux mystérieux",
-        "ko": "수수께끼의 선물 10개 받기"
+        "ko": "수수께끼의 선물 10개 받았다"
       }
     },
     "points": 15
@@ -13126,7 +13126,7 @@
         "en": "Participate in 25 games within the Frost Troopers event",
         "es": "Participar en 25 partidas dentro del evento Paracaidistas helados",
         "fr": "Participer à 25 matchs lors de l\u0027événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 25회 게임 참여하기"
+        "ko": "이벤트 혹한의 공수에서 25회 게임 참여했다"
       }
     },
     "points": 0
@@ -13154,7 +13154,7 @@
         "en": "Upgrade the grappling hook to the maximum level within the Frost Troopers event",
         "es": "Mejorar el gancho al máximo nivel en el evento Paracaidistas helados",
         "fr": "Graisser le grappin jusqu\u0027au niveau max lors de l\u0027événement Paras du froid",
-        "ko": "혹한의 공수 이벤트에서 갈고리-갈퀴를 최대 레벨까지 강화하기"
+        "ko": "혹한의 공수 이벤트에서 갈고리-갈퀴를 최대 레벨까지 강화했다"
       }
     },
     "points": 0
@@ -13182,7 +13182,7 @@
         "en": "Upgrade gear to the maximum level within the Frost Troopers event",
         "es": "Mejorar tu equipamiento al máximo nivel en el evento Paracaidistas helados",
         "fr": "Pousser l\u0027équipement au niveau max lors de l’événement Paras du froid",
-        "ko": "혹한의 공수 이벤트에서 장비를 최대 레벨까지 강화하기"
+        "ko": "혹한의 공수 이벤트에서 장비를 최대 레벨까지 강화했다"
       }
     },
     "points": 0
@@ -13210,7 +13210,7 @@
         "en": "Upgrade fame to the maximum level within the Frost Troopers event",
         "es": "Aumentar la popularidad al máximo nivel en el evento Paracaidistas helados",
         "fr": "Améliorer la notoriété au niveau maximum lors de l’événement Paras du froid",
-        "ko": "혹한의 공수 이벤트에서 명성을 최대 레벨까지 강화하기"
+        "ko": "혹한의 공수 이벤트에서 명성을 최대 레벨까지 강화했다"
       }
     },
     "points": 0
@@ -13238,7 +13238,7 @@
         "en": "Upgrade adaptation to the maximum level within the Frost Troopers event",
         "es": "Aumentar la adaptación al máximo nivel en el evento Paracaidistas helados",
         "fr": "Pousser l\u0027adaptation au niveau max lors de l’événement Paras du froid",
-        "ko": "혹한의 공수 이벤트에서 적응력을 최대 레벨까지 강화하기"
+        "ko": "혹한의 공수 이벤트에서 적응력을 최대 레벨까지 강화했다"
       }
     },
     "points": 0
@@ -13266,7 +13266,7 @@
         "en": "Survive without dying once in a session and evacuate within the Frost Troopers event",
         "es": "No morir ni una sola vez durante la sesión y evacuar en el evento Paracaidistas helados",
         "fr": "Terminer une session sans mourir et évacuer lors de l\u0027événement Paras du froid",
-        "ko": "세션에서 한 번도 죽지 않고, 이벤트  혹한의 공수 동안 안전하게 탈출하기"
+        "ko": "세션에서 한 번도 죽지 않고, 이벤트  혹한의 공수 동안 안전하게 탈출했다"
       }
     },
     "points": 10
@@ -13294,7 +13294,7 @@
         "en": "Successfully evacuate with a squad where no squad members die in a game within the Frost Troopers event",
         "es": "Evacuar con éxito al escuadrón sin que muera ningún miembro durante la partida en el evento Paracaidistas helados",
         "fr": "Évacuer en équipe sans un seul mort lors de l\u0027événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 팀원 중 누구도 죽지 않고 부대 전체를 성공적으로 탈출하기"
+        "ko": "이벤트 혹한의 공수에서 팀원 중 누구도 죽지 않고 부대 전체를 성공적으로 탈출했다"
       }
     },
     "points": 10
@@ -13322,7 +13322,7 @@
         "en": "Kill 100 players with one of tactical supports within the Frost Troopers event",
         "es": "Matar a 100 jugadores con apoyo tactico en el evento Paracaidistas helados",
         "fr": "Éliminer 100 joueurs à l\u0027aide d\u0027un soutien tactique lors de l\u0027événement Paras du froid",
-        "ko": "혹한의 공수 이벤트에서 전술 지원을 사용하여 플레이어 100명을 처치하기"
+        "ko": "혹한의 공수 이벤트에서 전술 지원을 사용하여 플레이어 100명을 처치했다"
       }
     },
     "points": 10
@@ -13350,7 +13350,7 @@
         "en": "Revive 10 times in a game within the Frost Troopers event",
         "es": "Reaparecer 10 veces durante el evento Paracaidistas helados",
         "fr": "Ressusciter 10 fois lors de l\u0027événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 한 게임 동안 10회 부활하기"
+        "ko": "이벤트 혹한의 공수에서 한 게임 동안 10회 부활했다"
       }
     },
     "points": 15
@@ -13378,7 +13378,7 @@
         "en": "Win 7 consecutive games without a single defeat within the Frost Troopers event",
         "es": "Ganar 7 partidas consecutivas sin una sola derrota en el evento Paracaidistas Helados",
         "fr": "Gagner 7 parties d\u0027affilée sans une seule défaite lors de l\u0027événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 단 한 번도 패배 없이 7연승 달성하기"
+        "ko": "이벤트 혹한의 공수에서 단 한 번도 패배 없이 7연승 달성했다"
       }
     },
     "points": 15
@@ -13406,7 +13406,7 @@
         "en": "Score 10,000 points in one game within the Frost Troopers event",
         "es": "Acumular 10000 puntos en una partida en el evento Paracaidistas helados",
         "fr": "Amasser 10 000 points en une seule partie lors de l’événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 한 게임 동안 1000 점 획득하기"
+        "ko": "이벤트 혹한의 공수에서 한 게임 동안 1000 점 획득했다"
       }
     },
     "points": 15
@@ -13434,7 +13434,7 @@
         "en": "Fail the main task and be the only successfully evacuated squad within the Frost Troopers event",
         "es": "No cumplir la tarea principal y ser el único escuadrón que logró evacuar con éxito en el evento Paracaidistas helados",
         "fr": "Ne pas remplir l\u0027objectif principal et être la seule équipe à évacuer avec succès lors de l’événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 주 임무를 실패했지만 팀에서 유일하게 안전하게 탈출하기"
+        "ko": "이벤트 혹한의 공수에서 주 임무를 실패했지만 팀에서 유일하게 안전하게 탈출했다"
       }
     },
     "points": 20
@@ -13462,7 +13462,7 @@
         "en": "Evacuate in the last 3 seconds of the game within the Frost Troopers event",
         "es": "Evacuar en los últimos 3 segundos del juego como parte del evento Paracaidistas helados",
         "fr": "Évacuer dans les 3 dernières secondes de la partie lors de l’événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 게임 종료 3초 전 탈출하기"
+        "ko": "이벤트 혹한의 공수에서 게임 종료 3초 전 탈출했다"
       }
     },
     "points": 20
@@ -13490,7 +13490,7 @@
         "en": "Your squad must eliminate all other squads in a game within the Frost Troopers event",
         "es": "Tu escuadrón debe eliminar a otros escuadrones durante el juego en el evento Paracaidistas helados",
         "fr": "Votre équipe doit éliminer toutes les autres équipes pendant la partie lors de l’événement Paras du froid",
-        "ko": "이벤트 혹한의 공수에서 한 게임 동안 다른 부대들을 섬멸하기"
+        "ko": "이벤트 혹한의 공수에서 한 게임 동안 다른 부대들을 섬멸했다"
       }
     },
     "points": 20
@@ -13546,7 +13546,7 @@
         "en": "Find all tanks on Boral",
         "es": "Encontrar todos los tanques en Boral",
         "fr": "Trouver tous les chars sur Boral",
-        "ko": "보랄에서 모든 전차를 찾기"
+        "ko": "보랄에서 모든 전차를 찾았다"
       }
     },
     "points": 10
@@ -13686,7 +13686,7 @@
         "en": "Give Mouse a fist bump",
         "es": "Golpear con el puño de Maus",
         "fr": "Faire un check du poing avec Maus",
-        "ko": "마우스를 주먹으로 치기"
+        "ko": "마우스를 주먹으로 쳤다"
       }
     },
     "points": 10
@@ -13714,7 +13714,7 @@
         "en": "Ignore Mouse\u0027s desire to fist bump",
         "es": "Ignorar el deseo de Maus de golpear con los puños",
         "fr": "Ignorer l\u0027envie de Maus de se taper le poing",
-        "ko": "마우스의 주먹질 욕망을 무시하기"
+        "ko": "마우스의 주먹질 욕망을 무시했다"
       }
     },
     "points": 10
@@ -13938,7 +13938,7 @@
         "en": "Reach the Absolute Unity league by the end of the ranked Operations season",
         "es": "Conseguir la liga Unidad absoluta al finalizar la temporada de clasificación de Operaciones",
         "fr": "Prendre la ligue Unité Absolue à la fin de la saison de classement des Opérations",
-        "ko": "리그 절대적 일체에 랭킹 시즌 종료 시 진입할 것"
+        "ko": "리그 절대적 일체에 랭킹 시즌 종료 시 진입했다"
       }
     },
     "points": 20
@@ -13966,7 +13966,7 @@
         "en": "Reach class level 10 with the Assaulter class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 10 de progreso de la clase Asaltante en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 10 de progression de la classe Assaillant en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 돌격 병사 클래스 숙련도 10레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 돌격 병사 클래스 숙련도 10레벨 달성했다"
       }
     },
     "points": 10
@@ -13994,7 +13994,7 @@
         "en": "Reach class level 20 with the Assaulter class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 20 de progreso de la clase Asaltante en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 20 de progression de la classe Assaillant en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 돌격 병사 클래스 숙련도 20레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 돌격 병사 클래스 숙련도 20레벨 달성했다"
       }
     },
     "points": 10
@@ -14022,7 +14022,7 @@
         "en": "Reach class level 10 with the Scout class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 10 de progreso de la clase Explorador en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 10 de progression de la classe Éclaireur en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 정찰병 클래스 숙련도 10레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 정찰병 클래스 숙련도 10레벨 달성했다"
       }
     },
     "points": 10
@@ -14050,7 +14050,7 @@
         "en": "Reach class level 20 with the Scout class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 20 de progreso de la clase Explorador en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 20 de progression de la classe Éclaireur en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 정찰병 클래스 숙련도 20레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 정찰병 클래스 숙련도 20레벨 달성했다"
       }
     },
     "points": 10
@@ -14078,7 +14078,7 @@
         "en": "Reach class level 10 with the Engineer class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 10 de progreso de la clase Ingeniero en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 10 de progression de la classe Ingénieur en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 공병 클래스 숙련도 10레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 공병 클래스 숙련도 10레벨 달성했다"
       }
     },
     "points": 10
@@ -14106,7 +14106,7 @@
         "en": "Reach class level 20 with the Engineer class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 20 de progreso de la clase Ingeniero en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 20 de progression de la classe Ingénieur en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 공병 클래스 숙련도 20레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 공병 클래스 숙련도 20레벨 달성했다"
       }
     },
     "points": 10
@@ -14134,7 +14134,7 @@
         "en": "Reach class level 10 with the Machine Gunner class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 10 de progreso de la clase Ametrallador en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 10 de progression de la classe Canonnier mitrailleur en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 기관총 사수 클래스 숙련도 10레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 기관총 사수 클래스 숙련도 10레벨 달성했다"
       }
     },
     "points": 10
@@ -14162,7 +14162,7 @@
         "en": "Reach class level 20 with the Machine Gunner class in the Assault on the Reichstag mode",
         "es": "Alcanza el nivel 20 de progreso de la clase Ametrallador en el modo Asalto al Reichstag",
         "fr": "Atteindre le niveau 20 de progression de la classe Canonnier mitrailleur en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 기관총 사수 클래스 숙련도 20레벨 달성하기"
+        "ko": "라이히슈타크 습격 모드에서 기관총 사수 클래스 숙련도 20레벨 달성했다"
       }
     },
     "points": 10
@@ -14190,7 +14190,7 @@
         "en": "Play 10 matches in the Assault on the Reichstag mode.",
         "es": "Juega 10 partidas en el modo Asalto al Reichstag",
         "fr": "Jouer 10 parties en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 10판 플레이하기"
+        "ko": "라이히슈타크 습격 모드에서 10판 플레이했다"
       }
     },
     "points": 10
@@ -14218,7 +14218,7 @@
         "en": "Play 25 matches in the Assault on the Reichstag mode",
         "es": "Juega 25 partidas en el modo Asalto al Reichstag",
         "fr": "Jouer 25 parties en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 25판 플레이하기"
+        "ko": "라이히슈타크 습격 모드에서 25판 플레이했다"
       }
     },
     "points": 10
@@ -14246,7 +14246,7 @@
         "en": "Play 100 matches in the Assault on the Reichstag mode",
         "es": "Juega 100 partidas en el modo Asalto al Reichstag",
         "fr": "Jouer 100 parties en mode Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 100판 플레이하기"
+        "ko": "라이히슈타크 습격 모드에서 100판 플레이했다"
       }
     },
     "points": 10
@@ -14274,7 +14274,7 @@
         "en": "Kill 5 enemies with a single use of tactical support.",
         "es": "Matar a 5 enemigos con un solo uso de apoyo táctico",
         "fr": "Tuer 5 ennemis en une seule utilisation du soutien tactique",
-        "ko": "전술 지원을 사용해 5명 제거하기"
+        "ko": "전술 지원을 사용해 5명 제거했다"
       }
     },
     "points": 10
@@ -14302,7 +14302,7 @@
         "en": "Kill 10 enemies with a single use of tactical support.",
         "es": "Matar a 10 enemigos con un solo uso de apoyo táctico",
         "fr": "Tuer 10 ennemis en une seule utilisation du soutien tactique",
-        "ko": "전술 지원을 사용해 10명 제거하기"
+        "ko": "전술 지원을 사용해 10명 제거했다"
       }
     },
     "points": 10
@@ -14330,7 +14330,7 @@
         "en": "Capture the Reichstag as the Red Army during Last Chance",
         "es": "Captura el Reichstag por el Ejército Rojo durante Última Oportunidad",
         "fr": "Prendre le Reichstag pendant le Dernier Chance en jouant pour l\u0027Armée rouge",
-        "ko": "마지막 기회 동안 소련군 군대로 라이히슈타크를 점령하기"
+        "ko": "마지막 기회 동안 소련군 군대로 라이히슈타크를 점령했다"
       }
     },
     "points": 10
@@ -14358,7 +14358,7 @@
         "en": "As the Wehrmacht, prevent the bridge from being captured",
         "es": "Como la Wehrmacht, no dejes que el Ejército Rojo capture el puente",
         "fr": "Ne pas laisser l\u0027Armée rouge prendre le pont en jouant pour la Wehrmacht",
-        "ko": "독일군으로 플레이하여 소련군 군대가 다리를 점령하지 못하도록 저지하기"
+        "ko": "독일군으로 플레이하여 소련군 군대가 다리를 점령하지 못하도록 저지했다"
       }
     },
     "points": 10
@@ -14386,7 +14386,7 @@
         "en": "Kill 3 enemies with a single grenade while playing the Assaulter class",
         "es": "Completación de la Operación jugando como clase Soldado de asalto",
         "fr": "Tuer 3 ennemis avec une seule grenade en jouant la classe d\u0027Assaut",
-        "ko": "돌격 병사 클래스로 플레이하여 수류탄 한 발로 3명의 적을 처치하기"
+        "ko": "돌격 병사 클래스로 플레이하여 수류탄 한 발로 3명의 적을 처치했다"
       }
     },
     "points": 10
@@ -14414,7 +14414,7 @@
         "en": "Reach a killstreak of 7 with any class",
         "es": "Conseguir una racha de 7 bajas con cualquier clase",
         "fr": "Obtenez une série de 7 éliminations en jouant avec n\u0027importe quelle classe",
-        "ko": "어떤 클래스든 사용하여 연속 제거 수를 7까지 달성하기"
+        "ko": "어떤 클래스든 사용하여 연속 제거 수를 7까지 달성했다"
       }
     },
     "points": 10
@@ -14442,7 +14442,7 @@
         "en": "Reach a killstreak of 10 with any class",
         "es": "Conseguir una racha de 10 bajas con cualquier clase",
         "fr": "Terminer une série de 10 éliminations en jouant avec n\u0027importe quelle classe",
-        "ko": "어떤 클래스든 사용하여 연속 제거 수를 10까지 달성하기"
+        "ko": "어떤 클래스든 사용하여 연속 제거 수를 10까지 달성했다"
       }
     },
     "points": 10
@@ -14470,7 +14470,7 @@
         "en": "Kill 5 enemies without dying while playing as the Scout class",
         "es": "Mata a 5 personas sin morir jugando con la clase Explorador",
         "fr": "Tuer 5 ennemis sans mourir en jouant la classe Éclaireur",
-        "ko": "정찰병 클래스로 사망 없이 5명 제거하기"
+        "ko": "정찰병 클래스로 사망 없이 5명 제거했다"
       }
     },
     "points": 10
@@ -14498,7 +14498,7 @@
         "en": "Kill 5 enemies without dying while playing as the Machine Gunner class",
         "es": "Mata a 5 personas sin morir jugando con la clase Ametrallador",
         "fr": "Tuer 5 ennemis sans mourir en jouant la classe Canonnier mitrailleur",
-        "ko": "기관총 사수 클래스로 사망 없이 5명 제거하기"
+        "ko": "기관총 사수 클래스로 사망 없이 5명 제거했다"
       }
     },
     "points": 10
@@ -14526,7 +14526,7 @@
         "en": "Kill 3 enemies with a single Panzerfaust shot",
         "es": "Matar a 3 enemigos de un solo disparo con un Panzerfaust",
         "fr": "Tuer 3 ennemis d\u0027un seul tir avec un Panzerfaust",
-        "ko": "Panzerfaust 한 발로 3명의 적을 제거하기"
+        "ko": "Panzerfaust 한 발로 3명의 적을 제거했다"
       }
     },
     "points": 10
@@ -14554,7 +14554,7 @@
         "en": "Kill 100 enemies with PTRD-M in the Assault on the Reichstag mode",
         "es": "Mata a 100 personas con el PTRD-M en el modo Asalto al Reichstag",
         "fr": "Tuer 100 personnes avec le PTRD-M en mode d\u0027Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 PTRD-M으로 100명 제거하기"
+        "ko": "라이히슈타크 습격 모드에서 PTRD-M으로 100명 제거했다"
       }
     },
     "points": 10
@@ -14582,7 +14582,7 @@
         "en": "Kill 100 enemies with Pzb-38 in the Assault on the Reichstag mode",
         "es": "Mata a 100 personas con el Pzb-38 en el modo Asalto al Reichstag",
         "fr": "Tuer 100 personnes avec le Pzb-38 en mode d\u0027Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 Pzb-38으로 100명 제거하기"
+        "ko": "라이히슈타크 습격 모드에서 Pzb-38으로 100명 제거했다"
       }
     },
     "points": 10
@@ -14610,7 +14610,7 @@
         "en": "Destroy a Tank",
         "es": "Destruye un tanque",
         "fr": "Détruire le char",
-        "ko": "전차 제거하기"
+        "ko": "전차 제거했다"
       }
     },
     "points": 10
@@ -14638,7 +14638,7 @@
         "en": "Kill 5 enemies for one life with flamethrowner",
         "es": "Mata a 5 personas en una sola vida jugando como Lanzallamador",
         "fr": "Tuer 5 personnes en une seule vie en utilisant un lance-flammes",
-        "ko": "화염방사기를 사용하여 한 생존 동안 5명의 적을 제거하기"
+        "ko": "화염방사기를 사용하여 한 생존 동안 5명의 적을 제거했다"
       }
     },
     "points": 10
@@ -14666,7 +14666,7 @@
         "en": "Capture 30 points for the Red Army side in the Assault on the Reichstag mode",
         "es": "Captura 30 puntos con el bando del Ejército Rojo en el modo Asalto al Reichstag",
         "fr": "Capturer 30 points en jouant pour l\u0027Armée rouge dans le mode de l\u0027Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 소련군 진영으로 30개 거점을 점령하기"
+        "ko": "라이히슈타크 습격 모드에서 소련군 진영으로 30개 거점을 점령했다"
       }
     },
     "points": 10
@@ -14694,7 +14694,7 @@
         "en": "Win 10 matches in the Assault on the Reichstag mode",
         "es": "Consigue 10 victorias en el modo Asalto al Reichstag",
         "fr": "Remporter la victoire 10 fois en mode d\u0027Assaut sur le Reichstag",
-        "ko": "라이히슈타크 습격 모드에서 10회 승리하기"
+        "ko": "라이히슈타크 습격 모드에서 10회 승리했다"
       }
     },
     "points": 10
@@ -14722,7 +14722,7 @@
         "en": "Kill 50 enemies with anti-tank rifles or a Panzerfaust",
         "es": "Mata a 50 enemigos con fusiles antitanque o faustpatrone",
         "fr": "Tuer 50 ennemis avec des fusils antichars ou un Panzerfaust",
-        "ko": "대전차 소총 또는 Panzerfaust를 사용하여 50명의 적을 제거하기"
+        "ko": "대전차 소총 또는 Panzerfaust를 사용하여 50명의 적을 제거했다"
       }
     },
     "points": 10
@@ -14750,7 +14750,7 @@
         "en": "Kill 25 enemies using grenades, trip wires, and tactical support",
         "es": "Matar a 25 enemigos usando granadas, minas trampa y apoyo táctico",
         "fr": "Tuer 25 ennemis en utilisant des grenades, des pièges et un soutien tactique",
-        "ko": "수류탄, 와이어 트립, 전술 지원을 사용하여 25명의 적을 제거하기"
+        "ko": "수류탄, 와이어 트립, 전술 지원을 사용하여 25명의 적을 제거했다"
       }
     },
     "points": 10
@@ -14778,7 +14778,7 @@
         "en": "Kill 150 enemies in Assault on the Reichstag mode",
         "es": "Matar a 150 enemigos en el modo Asalto al Reichstag",
         "fr": "Tuer 150 ennemis en mode d\u0027Assaut sur le Reichstag",
-        "ko": "라이히슈타크 돌격 모드에서 적 150명을 제거하기"
+        "ko": "라이히슈타크 돌격 모드에서 적 150명을 제거했다"
       }
     },
     "points": 10

@@ -790,7 +790,7 @@
               "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
-              "fr": "Amélioration de la dispersion et du recul en position couchée",
+              "fr": "Amélioration du recul en position couchée",
               "ko": "포복 자세 시 반동 감소"
             }
           }
@@ -819,8 +819,8 @@
           "ru": "РПД — советский ручной пулемет, который пришел на смену ДП в Красной Армии. Отличительными особенностями нового пулемета стали ленточное питание и новый промежуточный патрон, под который потом будет создан и автомат Калашникова.\\n\\nРПД доблестно простоял на вооружении больше двадцати лет, после чего отправился на резервные склады. Откуда и стал попадать в ЧЗО, потому что хороший пулемет тут всегда в цене.",
           "en": "A Soviet LMG developed in 1944 to use 7.62 mm rounds.",
           "es": "Una ametralladora ligera soviética desarrollada en 1944 para utilizar munición de 7,62 mm.",
-          "fr": "Un fusil mitrailleur léger soviétique développé en 1944 pour utiliser des cartouches de 7.62 mm.",
-          "ko": "1944년에 개발된 소련 연방제 경기관총으로, 7.62mm 탄환을 사용한다."
+          "fr": "Le RPD est une mitrailleuse légère soviétique qui a remplacé la DP dans l\u0027Armée rouge. Les caractéristiques distinctives de cette nouvelle mitrailleuse étaient l\u0027alimentation par bande et une nouvelle cartouche intermédiaire, pour laquelle sera ensuite créé le fusil d\u0027assaut Kalachnikov.\\n\\n\\n\\nLe RPD est resté vaillamment en service pendant plus de vingt ans, avant d\u0027être envoyé dans les dépôts de réserve. C\u0027est de là qu\u0027il a commencé à apparaître dans la ZET, car une bonne mitrailleuse y est toujours appréciée.",
+          "ko": "RPD는 붉은 군대에서 DP 기관총을 대체하기 위해 도입된 소련제 경기관총이다. 이 새로운 기관총의 특징은 탄띠 급탄 방식과 이후 AK 계열 돌격소총 개발로 이어지는 중간탄을 사용한다는 점이다.\\n\\nRPD는 20년 이상 군에서 성실히 운용된 뒤 예비 창고로 이동했고, 그곳에서 체르노빌 금지 구역으로 흘러들어오기 시작했다. 이곳에서는 언제나 그렇듯, 좋은 기관총은 늘 값어치를 하기 때문이다."
         }
       }
     }

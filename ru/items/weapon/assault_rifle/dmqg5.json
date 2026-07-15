@@ -909,10 +909,10 @@
         "args": {},
         "lines": {
           "ru": "Модификация АКМ, оснащенная пластиковой фурнитурой, а также прибором для бесшумной и беспламенной стрельбы. Отлично подходит для засад и работы в ночное время.",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "ko": ""
+          "en": "A modified AKM equipped with polymer furniture and a sound and flash suppressor. Perfectly suited for ambushes and nighttime operations.",
+          "es": "Una modificación del AKM equipada con mobiliario de polímero y un supresor integrado para disparos silenciosos y sin fogonazo.\\n\\nEs una excelente opción para emboscadas y operaciones nocturnas.",
+          "fr": "Modification de l\u0027AKM équipée de garnitures en plastique, ainsi que d\u0027un dispositif pour tir silencieux et sans flamme. Parfait pour les embuscades et le travail de nuit.",
+          "ko": "플라스틱 가구와 소음·화염 억제 장치를 장착한 AKM 개량형이다. 매복이나 야간 작전에 특히 뛰어난 성능을 발휘한다."
         }
       }
     }

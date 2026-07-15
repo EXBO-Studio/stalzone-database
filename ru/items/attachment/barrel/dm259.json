@@ -365,6 +365,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.fiveseven.name",
+            "args": {},
+            "lines": {
+              "ru": "FN Five-seveN",
+              "en": "FN Five-seveN",
+              "es": "FN Five-seveN",
+              "fr": "FN Five-seveN",
+              "ko": "FN Five-seveN"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.glock18x.name",
             "args": {},
             "lines": {
