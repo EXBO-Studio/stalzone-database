@@ -322,6 +322,36 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.bag.zivcas.name",
+            "args": {},
+            "lines": {
+              "ru": "ZIVCAS Sisyphus-6",
+              "en": "ZIVCAS Sisyphus-6",
+              "es": "ZIVCAS Sisyphus-6",
+              "fr": "ZIVCAS:Sisyphe-6",
+              "ko": "지브카스 Sisyphus-6"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.bag.medium1.name",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзак Secret Valley 35",
+              "en": "Secret Valley 35 Backpack",
+              "es": "Mochila Secret Valley 35",
+              "fr": "Sac à dos Secret Valley 35",
+              "ko": "비밀 계곡 35 배낭"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.arm.atlas.name",
             "args": {},
             "lines": {

@@ -748,8 +748,8 @@
           "ru": "Элитная винтовка, предназначенная для опытных бойцов. Стреляет только с отсечкой по три патрона, обладает повышенной точностью и почти неощутимой отдачей.",
           "en": "An elite rifle intended only for experienced fighters. Fires in burst mode only, with enhanced accuracy and almost imperceptible recoil.",
           "es": "El rifle de élite destinado únicamente a combatientes experimentados. Dispara solo en ráfagas, tiene mayor precisión y un retroceso casi imperceptible.",
-          "fr": "Le fusil d\u0027élite destiné aux combattants expérimentés. Ne tire qu\u0027en rafale, mais dispose d\u0027une précision améliorée et d\u0027un recul quasiment imperceptible.",
-          "ko": "경험 많은 전사들만을 위한 최고급 소총. 점발 사격만 가능해서 명중률이 높고, 반동은 거의 없다."
+          "fr": "Le fusil d\u0027élite destiné aux combattants expérimentés. Tire uniquement en rafales de trois coups, avec une précision accrue et un recul presque imperceptible.",
+          "ko": "숙련된 전투원을 위해 설계된 엘리트급 소총이다. 3점사로만 사격되며, 향상된 명중률과 거의 느껴지지 않는 반동이 특징이다."
         }
       }
     }

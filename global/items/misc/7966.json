@@ -1,0 +1,120 @@
+{
+  "id": "7966",
+  "category": "misc",
+  "name": {
+    "type": "translation",
+    "key": "item.coupon.k2.name",
+    "args": {},
+    "lines": {
+      "ru": "Талон на получение штурмовой винтовки K2",
+      "en": "K2 Assault Rifle Ticket",
+      "es": "Cupón para obtener el fusil de asalto K2",
+      "fr": "Coupon pour obtenir un fusil d\u0027assaut K2",
+      "ko": "K2 돌격소총 교환 티켓"
+    }
+  },
+  "color": "RANK_VETERAN",
+  "status": {
+    "state": "NONE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran",
+              "ko": "베테랑"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.undefined",
+            "args": {},
+            "lines": {
+              "ru": "Прочее",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre",
+              "ko": "분류 없음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.coupon.k2.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Специальный талон, дающий возможность получить штурмовую винтовку K2. Используйте его, чтобы обменять потертый K2 на новенькую штурмовую винтовку!",
+          "en": "A special ticket that lets you redeem a brand-new K2 assault rifle. Use it to trade in your worn K2 for a factory-fresh one!",
+          "es": "Un cupón especial que te permite obtener un fusil de asalto K2. ¡Úsalo para cambiar tu K2 desgastado por un fusil de asalto K2 completamente nuevo!",
+          "fr": "Coupon spécial permettant d\u0027obtenir le fusil d\u0027assaut K2. Utilisez-le pour échanger un K2 usé contre un tout nouveau fusil d\u0027assaut !",
+          "ko": "K2 돌격소총을 획득할 수 있는 특별한 티켓이다. 사용하면 낡은 K2를 새 K2 돌격소총으로 교환할 수 있다!"
+        }
+      }
+    }
+  ]
+}

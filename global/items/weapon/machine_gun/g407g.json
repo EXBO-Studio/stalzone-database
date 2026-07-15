@@ -719,7 +719,7 @@
               "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
-              "fr": "Amélioration de la dispersion et du recul en position couchée",
+              "fr": "Amélioration du recul en position couchée",
               "ko": "포복 자세 시 반동 감소"
             }
           }
@@ -748,8 +748,8 @@
           "ru": "L86A1 — британский ручной пулемет, созданный в рамках программы SA80 как оружие поддержки пехотного отделения. Разработанный на базе винтовки L85A1, он сохранил компоновку «булл-пап» и максимальную унификацию с базовым автоматом. Несмотря на статус пулемета, L86A1 оказался почти бесполезным в роли оружия поддержки. Отсутствие быстросменного ствола и магазинное питание не позволяли вести длительный подавляющий огонь.\\n\\nБританские военные закупили другие пулеметы, а L86A1 ушли туда, где покупали любое оружие. Например, ЧЗО.",
           "en": "The SA80 (SA-80—Small Arms for the 1980s) is a British family of firearms developed in the mid-1980s. It comprises the L85 assault rifle, the L86 LMG, the L22 carbine and the L98 cadet rifle. The set is used as the service weapons of the British Army.",
           "es": "La SA80 (SA-80 \u003d armas cortas para los 80) es una familia británica de armas de fuego desarrollada a mediados de la década de los 80. Comprende el fusil de asalto L85, la ametralladora ligera L86, la carabina L22 y el fusil de cadete L98. El conjunto lo utiliza como armas de servicio el Ejército británico.",
-          "fr": "Le SA80 (SA80 : Small Arms pour les années 1980) est une famille d\u0027armes à feu britanniques développée dans la moitié des années 1980. Elle comprend le fusil d\u0027assaut L85, le fusil mitrailleur léger L86, la carabine L22 et le fusil de cadet L98. L\u0027ensemble est utilisé comme armes de service de l\u0027Armée Britannique.",
-          "ko": "SA80(SA-80—1980년대용 소형 무기)은 영국군의 주무기로 사용되는 L85 돌격 소총, L86 경기관총, L22 카빈총, L98 교육용 소총을 포함하는 1980년대 중반에 개발된 영국산 무기다."
+          "fr": "Le L86A1 est un fusil-mitrailleur britannique, développé dans le cadre du programme SA80 comme arme de soutien pour les sections d\u0027infanterie. Conçu à partir du fusil L85A1, il en conserve la configuration bullpup et un haut degré d\u0027interchangeabilité des pièces. Malgré son statut de fusil-mitrailleur, le L86A1 s\u0027est révélé pratiquement inutile dans ce rôle. L\u0027absence de canon interchangeable rapidement et son alimentation par chargeur ne permettaient pas de maintenir un tir de suppression prolongé.\\n\\ Les forces armées britanniques se sont donc tournées vers d\u0027autres modèles, et les L86A1 ont fini là où l\u0027on achète n\u0027importe quelle arme — par exemple, dans la ZET.",
+          "ko": "L86A1은 보병 분대 지원 화기로 설계된 영국제 경기관총으로, SA80 프로그램의 일환으로 개발되었다. L85A1 소총을 기반으로 제작되어 불펍 구조를 유지하며 기본 모델과의 높은 부품 호환성을 갖추고 있다.\\n\\n경기관총이라는 분류에도 불구하고, 실제 분대 지원 화기로서는 거의 무용지물에 가까웠다. 빠르게 교체 가능한 총열이 없고 탄창 급탄 방식이라는 한계 때문에 지속적인 억제 사격이 불가능했기 때문이다.\\n\\n결국 영국군은 다른 기관총을 도입했고, L86A1은 어떤 무기든 받아들이는 곳으로 흘러들어갔다. 예를 들면 체르노빌 금지 구역처럼 말이다."
         }
       }
     }

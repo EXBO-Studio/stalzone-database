@@ -791,7 +791,7 @@
               "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
-              "fr": "Amélioration de la dispersion et du recul en position couchée",
+              "fr": "Amélioration du recul en position couchée",
               "ko": "포복 자세 시 반동 감소"
             }
           }
@@ -820,8 +820,8 @@
           "ru": "РПЛ-20 — это первый в современной российской практике ручной пулемет калибра 5,45×39 мм с ленточной системой подачи патронов. В отличие от предшественников — магазинных РПК-74 и РПК-16 — РПЛ-20 создавался не как «автомат с толстым стволом», а как полноценное оружие поддержки.\\n\\nДля Зоны, где в ходках часто не хватает пулеметной мощи, РПЛ-20 — отличный инструмент штурмовых групп. Лента на 100 патронов позволяет держать плотный заградительный огонь. Быстрая смена ствола и продуманная эргономика облегчают эксплуатацию в полевых условиях.",
           "en": "The latest belt-fed LMG. This new addition to the machine gun family is designed with all the nuances of modern combat in mind. Still a rarity in the Zone...",
           "es": "La ametralladora ligera más reciente alimentada mediante cinta de munición. Esta nueva incorporación a la familia de las ametralladoras se ha diseñado teniendo en cuenta todos los matices del combate moderno. Sigue siendo una rareza en la Zona...",
-          "fr": "Le tout dernier LMG à alimentation par la ceinture. Ce nouveau venu dans la famille des mitrailleuses a été conçu en tenant compte de toutes les nuances du combat moderne. Une rareté dans la zone...",
-          "ko": "최신형 벨트 급탄식 경기관총. 현대전의 다양한 상황을 고려해 설계된 새로운 타입의 무기로, 아직 구역에서는 좀처럼 보기 힘들다."
+          "fr": "Le RPL-20 est le premier fusil-mitrailleur de calibre 5,45×39 mm à système d\u0027alimentation par bande développé dans la Russie moderne. Contrairement à ses prédécesseurs — les RPK-74 et RPK-16, qui n\u0027étaient que des fusils d\u0027assaut à canon lourd — le RPL-20 a été conçu comme une véritable arme de soutien.\\n\\nPour la Zone, où les raids manquent souvent de puissance de feu en suppression, le RPL-20 est un atout de choix pour les groupes d\u0027assaut. Sa bande de 100 cartouches permet de maintenir un tir de couverture soutenu. Son changement de canon rapide et son ergonomie soignée facilitent son utilisation sur le terrain.",
+          "ko": "RPL-20은 현대 러시아에서 처음으로 개발된 5.45×39mm 탄약 사용, 벨트 급탄식 경기관총이다. 탄창을 사용하는 기존의 RPK-74와 RPK-16과는 달리, RPL-20은 단순히 \u0027총열이 두꺼운 돌격소총\u0027이 아닌 본격적인 분대지원화기로 설계되었다.\\n\\n화력 지원이 부족한 경우가 많은 구역에서 RPL-20은 돌격조에게 매우 유용한 무기다. 100발 탄띠는 강력한 제압 사격을 오래 유지할 수 있게 해주며, 신속한 총열 교환과 뛰어난 인체공학 설계는 야전 운용을 한층 수월하게 만든다."
         }
       }
     }

@@ -518,6 +518,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.k2c1.name",
+            "args": {},
+            "lines": {
+              "ru": "K2C1",
+              "en": "K2C1",
+              "es": "K2C1",
+              "fr": "K2C1",
+              "ko": "K2C1"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.lr300.name",
             "args": {},
             "lines": {
@@ -855,7 +870,7 @@
               "en": "MP-155 Ultima",
               "es": "MP-155 Ultima",
               "fr": "MP-155 Ultima",
-              "ko": "МР-155 Ultima"
+              "ko": "MP-155 Ultima"
             }
           }
         },
@@ -991,6 +1006,21 @@
               "es": "M60E4",
               "fr": "M60E4",
               "ko": "M60E4"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.k15.name",
+            "args": {},
+            "lines": {
+              "ru": "K15",
+              "en": "K15",
+              "es": "K15",
+              "fr": "K15",
+              "ko": "K15"
             }
           }
         },
@@ -1358,6 +1388,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.fiveseven.name",
+            "args": {},
+            "lines": {
+              "ru": "FN Five-seveN",
+              "en": "FN Five-seveN",
+              "es": "FN Five-seveN",
+              "fr": "FN Five-seveN",
+              "ko": "FN Five-seveN"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.glock18x.name",
             "args": {},
             "lines": {
@@ -1634,7 +1679,7 @@
               "ru": "ОЦ-14-1А «Тор»",
               "en": "OTs-14-A1 Thor",
               "es": "OTs-14-A1 Thor",
-              "fr": "OTs-14-A1 Thor",
+              "fr": "OTs-14-1A Thor",
               "ko": "OTs-14-A1 토르"
             }
           }
@@ -1666,6 +1711,21 @@
               "es": "AKS-9 Armiño",
               "fr": "AKS-9 Hermine",
               "ko": "AKS-9 호젓"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.k2.name",
+            "args": {},
+            "lines": {
+              "ru": "K2",
+              "en": "K2",
+              "es": "K2",
+              "fr": "K2",
+              "ko": "K2"
             }
           }
         },
@@ -2069,7 +2129,7 @@
               "ru": "StG-44",
               "en": "STG-44",
               "es": "STG-44",
-              "fr": "STG-44",
+              "fr": "StG-44",
               "ko": "STG-44"
             }
           }

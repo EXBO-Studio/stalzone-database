@@ -719,7 +719,7 @@
               "ru": "Улучшенная отдача в положении лежа",
               "en": "Improved recoil in prone position",
               "es": "Retroceso mejorado en posición decúbito",
-              "fr": "Amélioration de la dispersion et du recul en position couchée",
+              "fr": "Amélioration du recul en position couchée",
               "ko": "포복 자세 시 반동 감소"
             }
           }
@@ -746,7 +746,7 @@
         "args": {},
         "lines": {
           "ru": "Российский единый пулемет, разработанный на основе ПКМ. Предназначен для поражения живой силы противника, огневых и транспортных средств, воздушных целей.",
-          "en": "A Russian general-purpose machine gun, based on the RMB. It was intended for attacking enemy personnel, gun batteries, transport, and airborne targets.",
+          "en": "A Russian general-purpose machine gun, based on the PKM. It was intended for attacking enemy personnel, gun batteries, transport, and airborne targets.",
           "es": "Una ametralladora rusa de uso general basada en la RMB. Estaba destinada a atacar al personal enemigo, baterías de cañones, transportes y objetivos aéreos.",
           "fr": "Une mitrailleuse à utilisation générale russe, basée sur le RMB. elle était conçue pour attaquer le personnel ennemi, les batteries de canons, les transports et les cibles aériennes.",
           "ko": "RMB를 기반으로 한 러시아제 범용 기관총이다. 적의 병력이나 포병대, 수송대, 또는 공중 목표물을 공격하기 위해 개발되었다."
