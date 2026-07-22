@@ -7236,7 +7236,7 @@
     },
     "color": "DEFAULT",
     "status": {
-      "state": "NON_DROP"
+      "state": "PERSONAL_ON_USE"
     }
   },
   {
@@ -7920,8 +7920,8 @@
     }
   },
   {
-    "data": "/items/containers/9yyq.json",
-    "icon": "/icons/containers/9yyq.png",
+    "data": "/items/backpacks_and_containers/9yyq.json",
+    "icon": "/icons/backpacks_and_containers/9yyq.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kzs1.name",
@@ -7940,8 +7940,8 @@
     }
   },
   {
-    "data": "/items/containers/yqq0.json",
-    "icon": "/icons/containers/yqq0.png",
+    "data": "/items/backpacks_and_containers/yqq0.json",
+    "icon": "/icons/backpacks_and_containers/yqq0.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kzs1u.name",
@@ -7960,8 +7960,8 @@
     }
   },
   {
-    "data": "/items/containers/j33l.json",
-    "icon": "/icons/containers/j33l.png",
+    "data": "/items/backpacks_and_containers/j33l.json",
+    "icon": "/icons/backpacks_and_containers/j33l.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kzs2.name",
@@ -7980,8 +7980,8 @@
     }
   },
   {
-    "data": "/items/backpacks/l332.json",
-    "icon": "/icons/backpacks/l332.png",
+    "data": "/items/backpacks_and_containers/l332.json",
+    "icon": "/icons/backpacks_and_containers/l332.png",
     "name": {
       "type": "translation",
       "key": "item.bag.hellboy.name",
@@ -8000,8 +8000,8 @@
     }
   },
   {
-    "data": "/items/containers/o335.json",
-    "icon": "/icons/containers/o335.png",
+    "data": "/items/backpacks_and_containers/o335.json",
+    "icon": "/icons/backpacks_and_containers/o335.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kzs2u.name",
@@ -8020,8 +8020,8 @@
     }
   },
   {
-    "data": "/items/backpacks/n339.json",
-    "icon": "/icons/backpacks/n339.png",
+    "data": "/items/backpacks_and_containers/n339.json",
+    "icon": "/icons/backpacks_and_containers/n339.png",
     "name": {
       "type": "translation",
       "key": "item.bag.hellboyu.name",
@@ -8040,8 +8040,8 @@
     }
   },
   {
-    "data": "/items/containers/p99d.json",
-    "icon": "/icons/containers/p99d.png",
+    "data": "/items/backpacks_and_containers/p99d.json",
+    "icon": "/icons/backpacks_and_containers/p99d.png",
     "name": {
       "type": "translation",
       "key": "item.cont.iu2.name",
@@ -8060,8 +8060,8 @@
     }
   },
   {
-    "data": "/items/containers/2vvv.json",
-    "icon": "/icons/containers/2vvv.png",
+    "data": "/items/backpacks_and_containers/2vvv.json",
+    "icon": "/icons/backpacks_and_containers/2vvv.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kzs3.name",
@@ -8080,8 +8080,8 @@
     }
   },
   {
-    "data": "/items/containers/9y4q.json",
-    "icon": "/icons/containers/9y4q.png",
+    "data": "/items/backpacks_and_containers/9y4q.json",
+    "icon": "/icons/backpacks_and_containers/9y4q.png",
     "name": {
       "type": "translation",
       "key": "item.cont.cocoon.name",
@@ -8100,8 +8100,8 @@
     }
   },
   {
-    "data": "/items/containers/1p2r.json",
-    "icon": "/icons/containers/1p2r.png",
+    "data": "/items/backpacks_and_containers/1p2r.json",
+    "icon": "/icons/backpacks_and_containers/1p2r.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kzs3u.name",
@@ -8120,8 +8120,8 @@
     }
   },
   {
-    "data": "/items/containers/g3ln.json",
-    "icon": "/icons/containers/g3ln.png",
+    "data": "/items/backpacks_and_containers/g3ln.json",
+    "icon": "/icons/backpacks_and_containers/g3ln.png",
     "name": {
       "type": "translation",
       "key": "item.cont.fridge.name",
@@ -8140,8 +8140,8 @@
     }
   },
   {
-    "data": "/items/backpacks/zjqk.json",
-    "icon": "/icons/backpacks/zjqk.png",
+    "data": "/items/backpacks_and_containers/zjqk.json",
+    "icon": "/icons/backpacks_and_containers/zjqk.png",
     "name": {
       "type": "translation",
       "key": "item.cont.pouch.name",
@@ -8160,8 +8160,8 @@
     }
   },
   {
-    "data": "/items/backpacks/51zo.json",
-    "icon": "/icons/backpacks/51zo.png",
+    "data": "/items/backpacks_and_containers/51zo.json",
+    "icon": "/icons/backpacks_and_containers/51zo.png",
     "name": {
       "type": "translation",
       "key": "item.cont.pouch_hunter.name",
@@ -8180,8 +8180,8 @@
     }
   },
   {
-    "data": "/items/containers/yqk0.json",
-    "icon": "/icons/containers/yqk0.png",
+    "data": "/items/backpacks_and_containers/yqk0.json",
+    "icon": "/icons/backpacks_and_containers/yqk0.png",
     "name": {
       "type": "translation",
       "key": "item.cont.cocoonu.name",
@@ -8200,8 +8200,8 @@
     }
   },
   {
-    "data": "/items/containers/w4wz.json",
-    "icon": "/icons/containers/w4wz.png",
+    "data": "/items/backpacks_and_containers/w4wz.json",
+    "icon": "/icons/backpacks_and_containers/w4wz.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bear4.name",
@@ -8220,8 +8220,8 @@
     }
   },
   {
-    "data": "/items/containers/k3oj.json",
-    "icon": "/icons/containers/k3oj.png",
+    "data": "/items/backpacks_and_containers/k3oj.json",
+    "icon": "/icons/backpacks_and_containers/k3oj.png",
     "name": {
       "type": "translation",
       "key": "item.cont.honeycomb.name",
@@ -8240,8 +8240,8 @@
     }
   },
   {
-    "data": "/items/containers/q194.json",
-    "icon": "/icons/containers/q194.png",
+    "data": "/items/backpacks_and_containers/q194.json",
+    "icon": "/icons/backpacks_and_containers/q194.png",
     "name": {
       "type": "translation",
       "key": "item.cont.getter.name",
@@ -8260,8 +8260,8 @@
     }
   },
   {
-    "data": "/items/containers/j3ml.json",
-    "icon": "/icons/containers/j3ml.png",
+    "data": "/items/backpacks_and_containers/j3ml.json",
+    "icon": "/icons/backpacks_and_containers/j3ml.png",
     "name": {
       "type": "translation",
       "key": "item.cont.ksm.name",
@@ -8280,8 +8280,8 @@
     }
   },
   {
-    "data": "/items/containers/l3n2.json",
-    "icon": "/icons/containers/l3n2.png",
+    "data": "/items/backpacks_and_containers/l3n2.json",
+    "icon": "/icons/backpacks_and_containers/l3n2.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bear4u.name",
@@ -8300,8 +8300,8 @@
     }
   },
   {
-    "data": "/items/backpacks/0ndk.json",
-    "icon": "/icons/backpacks/0ndk.png",
+    "data": "/items/backpacks_and_containers/0ndk.json",
+    "icon": "/icons/backpacks_and_containers/0ndk.png",
     "name": {
       "type": "translation",
       "key": "item.bag.tasche.name",
@@ -8320,8 +8320,8 @@
     }
   },
   {
-    "data": "/items/containers/o3d5.json",
-    "icon": "/icons/containers/o3d5.png",
+    "data": "/items/backpacks_and_containers/o3d5.json",
+    "icon": "/icons/backpacks_and_containers/o3d5.png",
     "name": {
       "type": "translation",
       "key": "item.cont.honeycombu.name",
@@ -8340,8 +8340,8 @@
     }
   },
   {
-    "data": "/items/containers/p92d.json",
-    "icon": "/icons/containers/p92d.png",
+    "data": "/items/backpacks_and_containers/p92d.json",
+    "icon": "/icons/backpacks_and_containers/p92d.png",
     "name": {
       "type": "translation",
       "key": "item.cont.hive.name",
@@ -8360,8 +8360,8 @@
     }
   },
   {
-    "data": "/items/containers/v6y7.json",
-    "icon": "/icons/containers/v6y7.png",
+    "data": "/items/backpacks_and_containers/v6y7.json",
+    "icon": "/icons/backpacks_and_containers/v6y7.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bidon.name",
@@ -8380,8 +8380,8 @@
     }
   },
   {
-    "data": "/items/containers/d3kg.json",
-    "icon": "/icons/containers/d3kg.png",
+    "data": "/items/backpacks_and_containers/d3kg.json",
+    "icon": "/icons/backpacks_and_containers/d3kg.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bear5.name",
@@ -8400,8 +8400,8 @@
     }
   },
   {
-    "data": "/items/containers/2v9v.json",
-    "icon": "/icons/containers/2v9v.png",
+    "data": "/items/backpacks_and_containers/2v9v.json",
+    "icon": "/icons/backpacks_and_containers/2v9v.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kolotun.name",
@@ -8420,8 +8420,8 @@
     }
   },
   {
-    "data": "/items/containers/3d11.json",
-    "icon": "/icons/containers/3d11.png",
+    "data": "/items/backpacks_and_containers/3d11.json",
+    "icon": "/icons/backpacks_and_containers/3d11.png",
     "name": {
       "type": "translation",
       "key": "item.cont.cold.name",
@@ -8440,8 +8440,8 @@
     }
   },
   {
-    "data": "/items/containers/6g5n.json",
-    "icon": "/icons/containers/6g5n.png",
+    "data": "/items/backpacks_and_containers/6g5n.json",
+    "icon": "/icons/backpacks_and_containers/6g5n.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bidonu.name",
@@ -8460,8 +8460,8 @@
     }
   },
   {
-    "data": "/items/containers/9ygq.json",
-    "icon": "/icons/containers/9ygq.png",
+    "data": "/items/backpacks_and_containers/9ygq.json",
+    "icon": "/icons/backpacks_and_containers/9ygq.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bear5u.name",
@@ -8480,8 +8480,8 @@
     }
   },
   {
-    "data": "/items/containers/g35n.json",
-    "icon": "/icons/containers/g35n.png",
+    "data": "/items/backpacks_and_containers/g35n.json",
+    "icon": "/icons/backpacks_and_containers/g35n.png",
     "name": {
       "type": "translation",
       "key": "item.cont.bear6.name",
@@ -8500,8 +8500,8 @@
     }
   },
   {
-    "data": "/items/containers/zj1k.json",
-    "icon": "/icons/containers/zj1k.png",
+    "data": "/items/backpacks_and_containers/zj1k.json",
+    "icon": "/icons/backpacks_and_containers/zj1k.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kega.name",
@@ -8520,8 +8520,8 @@
     }
   },
   {
-    "data": "/items/containers/512o.json",
-    "icon": "/icons/containers/512o.png",
+    "data": "/items/backpacks_and_containers/512o.json",
+    "icon": "/icons/backpacks_and_containers/512o.png",
     "name": {
       "type": "translation",
       "key": "item.cont.zivcas.name",
@@ -8540,8 +8540,8 @@
     }
   },
   {
-    "data": "/items/backpacks/yq90.json",
-    "icon": "/icons/backpacks/yq90.png",
+    "data": "/items/backpacks_and_containers/yq90.json",
+    "icon": "/icons/backpacks_and_containers/yq90.png",
     "name": {
       "type": "translation",
       "key": "item.bag.murmur.name",
@@ -8560,8 +8560,8 @@
     }
   },
   {
-    "data": "/items/containers/w42z.json",
-    "icon": "/icons/containers/w42z.png",
+    "data": "/items/backpacks_and_containers/w42z.json",
+    "icon": "/icons/backpacks_and_containers/w42z.png",
     "name": {
       "type": "translation",
       "key": "item.cont.overtone.name",
@@ -8580,8 +8580,8 @@
     }
   },
   {
-    "data": "/items/containers/k3kj.json",
-    "icon": "/icons/containers/k3kj.png",
+    "data": "/items/backpacks_and_containers/k3kj.json",
+    "icon": "/icons/backpacks_and_containers/k3kj.png",
     "name": {
       "type": "translation",
       "key": "item.cont.kegaue.name",
@@ -8600,8 +8600,8 @@
     }
   },
   {
-    "data": "/items/containers/j34l.json",
-    "icon": "/icons/containers/j34l.png",
+    "data": "/items/backpacks_and_containers/j34l.json",
+    "icon": "/icons/backpacks_and_containers/j34l.png",
     "name": {
       "type": "translation",
       "key": "item.cont.dubak.name",
@@ -8620,8 +8620,8 @@
     }
   },
   {
-    "data": "/items/containers/l362.json",
-    "icon": "/icons/containers/l362.png",
+    "data": "/items/backpacks_and_containers/l362.json",
+    "icon": "/icons/backpacks_and_containers/l362.png",
     "name": {
       "type": "translation",
       "key": "item.cont.krab6.name",
@@ -8640,8 +8640,8 @@
     }
   },
   {
-    "data": "/items/containers/rgoz.json",
-    "icon": "/icons/containers/rgoz.png",
+    "data": "/items/backpacks_and_containers/rgoz.json",
+    "icon": "/icons/backpacks_and_containers/rgoz.png",
     "name": {
       "type": "translation",
       "key": "item.cont.barrel.name",
@@ -8660,8 +8660,8 @@
     }
   },
   {
-    "data": "/items/containers/0nok.json",
-    "icon": "/icons/containers/0nok.png",
+    "data": "/items/backpacks_and_containers/0nok.json",
+    "icon": "/icons/backpacks_and_containers/0nok.png",
     "name": {
       "type": "translation",
       "key": "item.cont.pathfinder.name",
@@ -8680,8 +8680,8 @@
     }
   },
   {
-    "data": "/items/backpacks/jmp6.json",
-    "icon": "/icons/backpacks/jmp6.png",
+    "data": "/items/backpacks_and_containers/jmp6.json",
+    "icon": "/icons/backpacks_and_containers/jmp6.png",
     "name": {
       "type": "translation",
       "key": "item.bag.transformer.name",
@@ -8700,8 +8700,8 @@
     }
   },
   {
-    "data": "/items/backpacks/odq0.json",
-    "icon": "/icons/backpacks/odq0.png",
+    "data": "/items/backpacks_and_containers/odq0.json",
+    "icon": "/icons/backpacks_and_containers/odq0.png",
     "name": {
       "type": "translation",
       "key": "item.bag.sports.name",
@@ -8720,8 +8720,8 @@
     }
   },
   {
-    "data": "/items/backpacks/nv63.json",
-    "icon": "/icons/backpacks/nv63.png",
+    "data": "/items/backpacks_and_containers/nv63.json",
+    "icon": "/icons/backpacks_and_containers/nv63.png",
     "name": {
       "type": "translation",
       "key": "item.bag.light1.name",
@@ -8740,8 +8740,8 @@
     }
   },
   {
-    "data": "/items/backpacks/p2k2.json",
-    "icon": "/icons/backpacks/p2k2.png",
+    "data": "/items/backpacks_and_containers/p2k2.json",
+    "icon": "/icons/backpacks_and_containers/p2k2.png",
     "name": {
       "type": "translation",
       "key": "item.bag.light2.name",
@@ -8760,8 +8760,8 @@
     }
   },
   {
-    "data": "/items/backpacks/vyqd.json",
-    "icon": "/icons/backpacks/vyqd.png",
+    "data": "/items/backpacks_and_containers/vyqd.json",
+    "icon": "/icons/backpacks_and_containers/vyqd.png",
     "name": {
       "type": "translation",
       "key": "item.bag.light3.name",
@@ -8780,8 +8780,8 @@
     }
   },
   {
-    "data": "/items/backpacks/dkln.json",
-    "icon": "/icons/backpacks/dkln.png",
+    "data": "/items/backpacks_and_containers/dkln.json",
+    "icon": "/icons/backpacks_and_containers/dkln.png",
     "name": {
       "type": "translation",
       "key": "item.bag.light4.name",
@@ -8800,8 +8800,8 @@
     }
   },
   {
-    "data": "/items/backpacks/29o6.json",
-    "icon": "/icons/backpacks/29o6.png",
+    "data": "/items/backpacks_and_containers/29o6.json",
+    "icon": "/icons/backpacks_and_containers/29o6.png",
     "name": {
       "type": "translation",
       "key": "item.bag.sack.name",
@@ -8820,8 +8820,8 @@
     }
   },
   {
-    "data": "/items/backpacks/12r1.json",
-    "icon": "/icons/backpacks/12r1.png",
+    "data": "/items/backpacks_and_containers/12r1.json",
+    "icon": "/icons/backpacks_and_containers/12r1.png",
     "name": {
       "type": "translation",
       "key": "item.bag.errand.name",
@@ -8840,8 +8840,8 @@
     }
   },
   {
-    "data": "/items/backpacks/wwjo.json",
-    "icon": "/icons/backpacks/wwjo.png",
+    "data": "/items/backpacks_and_containers/wwjo.json",
+    "icon": "/icons/backpacks_and_containers/wwjo.png",
     "name": {
       "type": "translation",
       "key": "item.bag.mbss.name",
@@ -8860,8 +8860,8 @@
     }
   },
   {
-    "data": "/items/backpacks/lny1.json",
-    "icon": "/icons/backpacks/lny1.png",
+    "data": "/items/backpacks_and_containers/lny1.json",
+    "icon": "/icons/backpacks_and_containers/lny1.png",
     "name": {
       "type": "translation",
       "key": "item.bag.trizip.name",
@@ -8880,8 +8880,8 @@
     }
   },
   {
-    "data": "/items/backpacks/nv43.json",
-    "icon": "/icons/backpacks/nv43.png",
+    "data": "/items/backpacks_and_containers/nv43.json",
+    "icon": "/icons/backpacks_and_containers/nv43.png",
     "name": {
       "type": "translation",
       "key": "item.bag.npa.name",
@@ -8900,8 +8900,8 @@
     }
   },
   {
-    "data": "/items/backpacks/p262.json",
-    "icon": "/icons/backpacks/p262.png",
+    "data": "/items/backpacks_and_containers/p262.json",
+    "icon": "/icons/backpacks_and_containers/p262.png",
     "name": {
       "type": "translation",
       "key": "item.bag.heavy1.name",
@@ -8920,8 +8920,8 @@
     }
   },
   {
-    "data": "/items/backpacks/vyjd.json",
-    "icon": "/icons/backpacks/vyjd.png",
+    "data": "/items/backpacks_and_containers/vyjd.json",
+    "icon": "/icons/backpacks_and_containers/vyjd.png",
     "name": {
       "type": "translation",
       "key": "item.bag.zivcas.name",
@@ -8940,8 +8940,8 @@
     }
   },
   {
-    "data": "/items/backpacks/glnp.json",
-    "icon": "/icons/backpacks/glnp.png",
+    "data": "/items/backpacks_and_containers/glnp.json",
+    "icon": "/icons/backpacks_and_containers/glnp.png",
     "name": {
       "type": "translation",
       "key": "item.bag.march.name",
@@ -8960,8 +8960,8 @@
     }
   },
   {
-    "data": "/items/backpacks/zq3n.json",
-    "icon": "/icons/backpacks/zq3n.png",
+    "data": "/items/backpacks_and_containers/zq3n.json",
+    "icon": "/icons/backpacks_and_containers/zq3n.png",
     "name": {
       "type": "translation",
       "key": "item.bag.medium1.name",
@@ -14340,6 +14340,26 @@
     }
   },
   {
+    "data": "/items/other/skins/dm6g9.json",
+    "icon": "/icons/other/skins/dm6g9.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.arm.albatros_heavy_prestige.name",
+      "args": {},
+      "lines": {
+        "ru": "«Арбитр»",
+        "en": "Referee",
+        "es": "Árbitro",
+        "fr": "Arbitre",
+        "ko": "중재자"
+      }
+    },
+    "color": "RANK_LEGEND",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/g4956.json",
     "icon": "/icons/other/g4956.png",
     "name": {
@@ -16012,6 +16032,66 @@
         "es": "Ratel",
         "fr": "Ratel",
         "ko": "라텔"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/3g39g.json",
+    "icon": "/icons/other/3g39g.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.sa58_prestige.name",
+      "args": {},
+      "lines": {
+        "ru": "«Директива 10»",
+        "en": "Directive 10",
+        "es": "Directiva 10",
+        "fr": "Directive 10",
+        "ko": "디렉티브 10"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/skins/7l357.json",
+    "icon": "/icons/other/skins/7l357.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.gauss_prestige.name",
+      "args": {},
+      "lines": {
+        "ru": "«Око Бури»",
+        "en": "Eye of Tempest",
+        "es": "El Ojo de la Tormenta",
+        "fr": "Œil de la Tempête",
+        "ko": "폭풍의 눈"
+      }
+    },
+    "color": "RANK_LEGEND",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/6w7zy.json",
+    "icon": "/icons/other/6w7zy.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.ak15_prestige.name",
+      "args": {},
+      "lines": {
+        "ru": "«Протокол 0»",
+        "en": "Protocol 0",
+        "es": "Protocolo 0",
+        "fr": "Protocole 0",
+        "ko": "프로토콜 0"
       }
     },
     "color": "RANK_MASTER",
@@ -29120,6 +29200,26 @@
     }
   },
   {
+    "data": "/items/weapon/assault_rifle/ly2d1.json",
+    "icon": "/icons/weapon/assault_rifle/ly2d1.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.famas_sopmod.name",
+      "args": {},
+      "lines": {
+        "ru": "FAMAS G2 SG",
+        "en": "FAMAS G2 SG",
+        "es": "FAMAS G2 SG",
+        "fr": "FAMAS G2 SG",
+        "ko": "FAMAS G2 SG"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/weapon/sniper_rifle/rw2d5.json",
     "icon": "/icons/weapon/sniper_rifle/rw2d5.png",
     "name": {
@@ -39271,7 +39371,7 @@
         "en": "Longevity",
         "es": "Longevidad",
         "fr": "Longévité",
-        "ko": "질긴 목숨"
+        "ko": "롱제비티"
       }
     },
     "color": "RANK_MASTER",
@@ -45346,9 +45446,9 @@
       "args": {},
       "lines": {
         "ru": "Часть винтовки Гаусса",
-        "en": "Gauss Rifle part",
+        "en": "Gauss Rifle Part",
         "es": "Pieza de fusil Gauss",
-        "fr": "Pièce de Fusil Gauss",
+        "fr": "Partie de Fusil Gauss",
         "ko": "가우스 소총 부품"
       }
     },
@@ -45626,9 +45726,9 @@
       "args": {},
       "lines": {
         "ru": "Часть рюкзака «Хитин»",
-        "en": "Chitin Backpack Blueprint",
+        "en": "Chitin Backpack Part",
         "es": "Plano de mochila \"Quitina\"",
-        "fr": "Plan du sac à dos Chitine",
+        "fr": "Partie du sac à dos Chitine",
         "ko": "키틴 배낭 설계도"
       }
     },
@@ -45646,9 +45746,9 @@
       "args": {},
       "lines": {
         "ru": "Часть бронекостюма ZIVCAS M2-C",
-        "en": "ZIVCAS M2-C Armored Suit Blueprint",
+        "en": "ZIVCAS M2-C Armored Suit Part",
         "es": "Plano de traje blindado ZIVCAS M2-C",
-        "fr": "Plan de la combinaison blindée ZIVCAS M2-C",
+        "fr": "Partie de la combinaison blindée ZIVCAS M2-C",
         "ko": "ZIVCAS M2-C 장갑 슈트 설계도"
       }
     },
@@ -45826,9 +45926,9 @@
       "args": {},
       "lines": {
         "ru": "Часть экзоброни «Антарес» #1",
-        "en": "Antares Exoarmor Blueprint #1",
+        "en": "Antares Exoarmor Part #1",
         "es": "Plano de exoarmadura Antares n.° 1",
-        "fr": "Plan de l\u0027Exo-Armure Antarès #1",
+        "fr": "Partie de l\u0027Exo-Armure Antarès #1",
         "ko": "안타레스 외골격 설계도 1번"
       }
     },
@@ -45846,9 +45946,9 @@
       "args": {},
       "lines": {
         "ru": "Часть экзоброни «Антарес» #2",
-        "en": "Antares Exoarmor Blueprint #2",
+        "en": "Antares Exoarmor Part #2",
         "es": "Plano de exoarmadura Antares n.° 2",
-        "fr": "Plan de l\u0027Exo-Armure Antarès #2",
+        "fr": "Partie de l\u0027Exo-Armure Antarès #2",
         "ko": "안타레스 외골격 설계도 2번"
       }
     },

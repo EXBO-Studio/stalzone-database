@@ -1,0 +1,264 @@
+{
+  "id": "zj1k",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.kega.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «Кега»",
+      "en": "Kega Container",
+      "es": "Contenedor Barril",
+      "fr": "Conteneur Kega",
+      "ko": "케가 컨테이너"
+    }
+  },
+  "color": "RANK_STALKER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.stalker",
+            "args": {},
+            "lines": {
+              "ru": "Сталкер",
+              "en": "Stalker",
+              "es": "Acechador",
+              "fr": "Stalker",
+              "ko": "스토커"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 10.85,
+          "formatted": {
+            "value": {
+              "ru": "10,85 кг",
+              "en": "10.85 kg",
+              "es": "10,85 kg",
+              "fr": "10,85 kg",
+              "ko": "10.85 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.bulky",
+        "args": {},
+        "lines": {
+          "ru": "Громоздкий контейнер",
+          "en": "Bulky Container",
+          "es": "Contenedor voluminoso",
+          "fr": "Conteneur encombrant",
+          "ko": "대형 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 60.000004,
+          "formatted": {
+            "value": {
+              "ru": "60%",
+              "en": "60%",
+              "es": "60 %",
+              "fr": "60%",
+              "ko": "60%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 78.5,
+          "formatted": {
+            "value": {
+              "ru": "78,5%",
+              "en": "78.5%",
+              "es": "78,5 %",
+              "fr": "78,5%",
+              "ko": "78.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 6.0,
+          "formatted": {
+            "value": {
+              "ru": "0/6",
+              "en": "0/6",
+              "es": "0/6",
+              "fr": "0/6",
+              "ko": "0/6"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.kega.description",
+        "args": {},
+        "lines": {
+          "ru": "Многочисленные попытки инженеров НИИ-7 увеличить вместимость за счет расширения внутреннего объема путем более компактной сборки не дали результатов, из-за чего пришлось увеличить не только сам контейнер, но и слой защитного покрытия. \\n\\nРезультатом стал габаритный, но зато вместительный контейнер, прозванный сталкерами «Кегой» за внешнее сходство.",
+          "en": "Numerous attempts by the engineers at Research Institute 7 to increase capacity by expanding the internal volume through more compact assembly yielded no results, necessitating not only the enlargement of the container itself but also the layer of protective coating. \\n\\nThe result was a bulky yet spacious container, nicknamed Kega by stalkers due to its external resemblance.",
+          "es": "Los numerosos intentos de los ingenieros del Instituto de Investigación 7 por aumentar la capacidad mediante la ampliación del volumen interior con un montaje más compacto no dieron resultado, por lo que hubo que aumentar no solo el contenedor en sí, sino también la capa de revestimiento protector. \\n\\nEl resultado fue un contenedor voluminoso, pero espacioso, apodado Barril por los acechadores debido a su parecido externo.",
+          "fr": "Les nombreuses tentatives des ingénieurs de l’Institut de Recherche 7 pour augmenter la capacité en élargissant le volume interne via un assemblage plus compact ont échoué, ce qui a obligé à augmenter non seulement le conteneur lui-même, mais aussi la couche de protection.\\n\\nLe résultat fut un conteneur volumineux mais spacieux, surnommé par les stalkers « Fût » en raison de sa ressemblance extérieure.",
+          "ko": "제 7 연구소 엔지니어들은 더 촘촘한 조립 방식으로 내부 용적을 넓혀 용량을 늘리려 수많은 시도를 했지만 실패했고, 결국 컨테이너 자체와 보호 코팅층을 모두 키울 수밖에 없었다. \\n\\n그 결과 크기는 커졌지만 매우 넉넉한 수납 기능을 가진 컨테이너가 되었고, 외형적 유사성 때문에 스토커들은 이를 \"케가\"라고 부르게 되었다."
+        }
+      }
+    }
+  ]
+}

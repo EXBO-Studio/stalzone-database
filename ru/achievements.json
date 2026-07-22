@@ -14802,9 +14802,9 @@
       "key": "general.achievement.id.before_oft_old.desc",
       "args": {},
       "lines": {
-        "ru": "Когда-то именно ты держал Проходную.Теперь об этом напоминают лишь старые байки у костра и это достижение.",
-        "en": "There was a time when you were the one manning the Gate. Now, all that remains are the old stories told around the campfire and this achievement.",
-        "es": "Hubo un tiempo en el que eras tú quien custodiaba del Puesto de control. Ahora, lo único que lo recuerda son las viejas historias que se cuentan alrededor de la hoguera y este logro.",
+        "ru": "Когда-то именно ты держал Проходную. Теперь об этом напоминают лишь старые байки у костра и это достижение.",
+        "en": "There was a time when you were the one holding the Passageway. Now, only old campfire stories and this achievement remain as reminders.",
+        "es": "Hubo un tiempo en el que eras tú quien custodiaba el Paso de control. Ahora, lo único que lo recuerda son las viejas historias que se cuentan alrededor de la hoguera y este logro.",
         "fr": "Le Passage t\u0027a connu comme son gardien. Il n\u0027en reste plus que les récits des anciens… et ce succès.",
         "ko": "한때 검문소는 네가 지켜냈다. 이제 그 시절을 떠올리게 하는 건 모닥불가의 낡은 이야기와 이 업적뿐이다."
       }
@@ -14858,8 +14858,8 @@
       "key": "general.achievement.id.perestroechny.desc",
       "args": {},
       "lines": {
-        "ru": "Ты пережил большую перестройку.Зона изменилась, но ты остался.",
-        "en": "You lived through a major perestroika. The area has changed, but you\u0027ve stayed.",
+        "ru": "Ты пережил большую перестройку. Зона изменилась, но ты остался.",
+        "en": "You lived through the great overhaul. The Zone changed, but you remained.",
         "es": "Has vivido una gran Perestroika. La Zona ha cambiado, pero tú te has quedado.",
         "fr": "Tu as survécu à la grande Perestroïka. La Zone a changé, mais toi, tu es resté.",
         "ko": "대격변을 견뎌냈다. 구역은 변했지만, 너는 남았다."
@@ -14886,9 +14886,9 @@
       "key": "general.achievement.id.generation_x.desc",
       "args": {},
       "lines": {
-        "ru": "Застал Ежа — не испугался иголок.Спасибо, что был с нами.",
-        "en": "He saw Ice Hedgehog — but wasn\u0027t afraid of its quills. Thank you for being with us.",
-        "es": "Se encontró con Erizo, pero no se asustó de sus púas. Gracias por estar con nosotros.",
+        "ru": "Застал Ежа — не испугался иголок. Спасибо, что был с нами.",
+        "en": "You were there for Hedgehog—and weren’t scared of the quills. Thank you for being with us.",
+        "es": "Llegaste a conocer al Erizo, pero no se asustó de sus púas. Gracias por estar con nosotros.",
         "fr": "Tu as croisé le Hérisson sans peur des piquants. Merci d\u0027être resté avec nous.",
         "ko": "요즘은 보기 힘든 \u0027고슴도치\u0027도 겪어 봤지. 가시에 겁먹지 않았고. 함께해 줘서 고맙다."
       }
@@ -14922,5 +14922,33 @@
       }
     },
     "points": 20
+  },
+  {
+    "id": "bread_crumbs_quest",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.bread_crumbs_quest.title",
+      "args": {},
+      "lines": {
+        "ru": "Проработанная личность",
+        "en": "Developed Personality",
+        "es": "Personalidad bien definida",
+        "fr": "Personnalité développée",
+        "ko": "완성된 인격"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.bread_crumbs_quest.desc",
+      "args": {},
+      "lines": {
+        "ru": "Вы бережно собрали по кускам все личности через психоскоп и не сошли с ума.",
+        "en": "You carefully pieced together all the personalities using the psychoscope, all without losing your own mind.",
+        "es": "Uniste cuidadosamente todas las personalidades con el psicoscopio sin perder la cordura.",
+        "fr": "Vous avez minutieusement reconstitué toutes les personnalités à l\u0027aide du psychoscope, le tout sans perdre la raison.",
+        "ko": "정신을 잃지 않은 채 사이코스코프를 통해 분열된 모든 인격의 조각을 하나로 맞췄다."
+      }
+    },
+    "points": 10
   }
 ]

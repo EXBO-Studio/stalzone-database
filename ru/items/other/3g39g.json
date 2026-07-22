@@ -1,0 +1,121 @@
+{
+  "id": "3g39g",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.sa58_prestige.name",
+    "args": {},
+    "lines": {
+      "ru": "«Директива 10»",
+      "en": "Directive 10",
+      "es": "Directiva 10",
+      "fr": "Directive 10",
+      "ko": "디렉티브 10"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.sa58_prestige.description",
+        "args": {},
+        "lines": {
+          "ru": "Штурмовая винтовка, созданная Провидцем как эталон индивидуального оружия для участников Циклических Испытаний.\\nВстроенная система контроля боекомплекта непрерывно отображает остаток патронов в магазине, исключая необходимость считать выстрелы даже в самом напряженном бою.\\n\\nКогда каждая секунда имеет значение, побеждает не тот, кто стреляет быстрее. А тот, кто не допускает ошибок.",
+          "en": "Assault rifle created by the Soothsayer as the standard individual weapon for participants in the Cyclical Trials.\\nThe built-in ammo monitoring system continuously displays the remaining rounds in the magazine, eliminating the need to count shots even in the most intense combat.\\n\\nWhen every second counts, victory goes not to the fastest shooter, but to the one who makes no mistakes.",
+          "es": "Fusil de asalto, creado por el Vidente como el estándar de arma individual para los participantes de las Pruebas Cíclicas.\\n\\nEl sistema integrado de control de munición muestra continuamente el número de balas restantes en el cargador, eliminando la necesidad de contar los disparos incluso en el combate más intenso.\\n\\nCuando cada segundo cuenta, no gana quien dispara más rápido, sino quien no comete errores.",
+          "fr": "Fusil d\u0027assaut créé par le Prophète comme référence d\u0027arme individuelle pour les participants aux Épreuves Cycliques.\\nLe système intégré de contrôle des munitions affiche en continu le nombre de cartouches restantes dans le chargeur, éliminant ainsi la nécessité de compter les tirs même dans les combats les plus intenses.\\n\\n\\n\\nQuand chaque seconde compte, ce n\u0027est pas celui qui tire le plus vite qui gagne, mais celui qui ne fait pas d\u0027erreurs.",
+          "ko": "순환 시련 참가자를 위한 개인 화기의 기준으로서 예언자가 제작한 돌격소총이다.\\n탄약 관리 시스템이 내장되어 있어 탄창에 남은 탄약 수를 실시간으로 표시하며, 아무리 치열한 전투에서도 탄약을 일일이 셀 필요가 없다.\\n\\n매 순간이 승패를 가르는 전장에서 승리하는 것은 더 빠르게 방아쇠를 당기는 자가 아니다.\\n실수를 하지 않는 자다."
+        }
+      }
+    },
+    {}
+  ]
+}

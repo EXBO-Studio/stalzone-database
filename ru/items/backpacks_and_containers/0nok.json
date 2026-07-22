@@ -1,0 +1,292 @@
+{
+  "id": "0nok",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.pathfinder.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «Вязанка»",
+      "en": "Sheaf Container",
+      "es": "Contenedor Haz",
+      "fr": "Conteneur Fagot",
+      "ko": "층 컨테이너"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 12.7,
+          "formatted": {
+            "value": {
+              "ru": "12,7 кг",
+              "en": "12.7 kg",
+              "es": "12,7 kg",
+              "fr": "12,7 kg",
+              "ko": "12.7 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.bulky",
+        "args": {},
+        "lines": {
+          "ru": "Громоздкий контейнер",
+          "en": "Bulky Container",
+          "es": "Contenedor voluminoso",
+          "fr": "Conteneur encombrant",
+          "ko": "대형 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 60.000004,
+          "formatted": {
+            "value": {
+              "ru": "60%",
+              "en": "60%",
+              "es": "60 %",
+              "fr": "60%",
+              "ko": "60%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 97.0,
+          "formatted": {
+            "value": {
+              "ru": "97%",
+              "en": "97%",
+              "es": "97 %",
+              "fr": "97%",
+              "ko": "97%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 7.0,
+          "formatted": {
+            "value": {
+              "ru": "0/7",
+              "en": "0/7",
+              "es": "0/7",
+              "fr": "0/7",
+              "ko": "0/7"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.frost_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Холод",
+              "en": "Frost",
+              "es": "Congelación",
+              "fr": "Givre",
+              "ko": "서리"
+            }
+          },
+          "value": 1.0,
+          "formatted": {
+            "value": {
+              "ru": "1",
+              "en": "1",
+              "es": "1",
+              "fr": "1",
+              "ko": "1"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.pathfinder.description",
+        "args": {},
+        "lines": {
+          "ru": "Уникальный контейнер, найденный при изучении складов со снаряжением Первопроходцев в лаборатории под Радаром, прозванный сталкерами «Вязанка».\\n\\nКак говорят особо опытные сталкеры, во время прибытия группы Князева в Зону, НИИ-7 выпускали лишь несколько контейнеров из серии КЗС и «Бидон». По всей видимости, «Вязанка» является результатом трудов самой группы Первопроходцев, вероятно, почерпнувших определенные знания из лаборатории, где обосновалась группа.",
+          "en": "A unique container, found while studying the Trailblazers\u0027 equipment warehouses in the lab under the Radar, nicknamed Sheaf by stalkers.\\n\\nAs the most experienced stalkers say, during the arrival of Knyazev\u0027s group in the Zone, Scientific Research Institute 7 produced only a few containers from the KZS and Canister series. It seems Sheaf is the result of the Trailblazers\u0027 group\u0027s efforts, likely drawing certain knowledge from the lab where the group settled.",
+          "es": "Contenedor único, encontrado durante el estudio de los almacenes con el equipamiento de los Pioneros en el laboratorio bajo el Radar, llamado Haz por los acechadores.\\n\\nSegún los acechadores más experimentados, cuando el grupo de Princeton llegó a la Zona, el Instituto de Investigación 7 solo había fabricado unos pocos contenedores de la serie KZS y Bidón. Al parecer, Haz es el resultado del trabajo del propio grupo de los Pioneros, que probablemente obtuvieron ciertos conocimientos del laboratorio donde se instaló el grupo.",
+          "fr": "Un conteneur unique, découvert lors de l\u0027étude des entrepôts avec l\u0027équipement des Pionniers dans le laboratoire sous le Radar, surnommé par les stalkers — Fagot.\\n\\nSelon les stalkers les plus expérimentés, au moment de l\u0027arrivée du groupe de Knyazev dans la Zone, l\u0027Institut de Recherche 7 ne produisait que quelques conteneurs des séries KZS et Bidon. Il semblerait que le Fagot soit le résultat du travail du groupe même des Pionniers, qui aurait probablement puisé certaines connaissances dans le laboratoire ou s\u0027était établi le groupe.",
+          "ko": "레이더 아래 연구소에서, 개척자들의 장비 창고를 조사하던 중 발견된 독특한 컨테이너로, 스토커들은 이를 \"층\"이라고 부른다.\\n\\n노련한 스토커들 말에 따르면, 크냐제프 일행이 구역에 도착할 당시 제 7 연구소가 만들던 것은 KZS 시리즈와 금속통 시리즈의 컨테이너 몇 개 정도였다고 한다. 층은 아마도 개척자 그룹이 만든 결과물이며, 그들이 둥지를 튼 연구소에서 특정 지식을 얻어 제작한 것으로 보인다."
+        }
+      }
+    }
+  ]
+}

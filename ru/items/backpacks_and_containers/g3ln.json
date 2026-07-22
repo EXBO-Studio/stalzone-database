@@ -1,0 +1,292 @@
+{
+  "id": "g3ln",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.fridge.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «Холодильник»",
+      "en": "Fridge Container",
+      "es": "Contenedor Nevera",
+      "fr": "Conteneur Frigo",
+      "ko": "냉장 컨테이너"
+    }
+  },
+  "color": "RANK_VETERAN",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran",
+              "ko": "베테랑"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 6.4,
+          "formatted": {
+            "value": {
+              "ru": "6,4 кг",
+              "en": "6.4 kg",
+              "es": "6,4 kg",
+              "fr": "6,4 kg",
+              "ko": "6.4 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.standard",
+        "args": {},
+        "lines": {
+          "ru": "Стандартный контейнер",
+          "en": "Standard Container",
+          "es": "Contenedor estándar",
+          "fr": "Conteneur standard",
+          "ko": "표준 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 78.5,
+          "formatted": {
+            "value": {
+              "ru": "78,5%",
+              "en": "78.5%",
+              "es": "78,5 %",
+              "fr": "78,5%",
+              "ko": "78.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 113.0,
+          "formatted": {
+            "value": {
+              "ru": "113%",
+              "en": "113%",
+              "es": "113 %",
+              "fr": "113%",
+              "ko": "113%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 4.0,
+          "formatted": {
+            "value": {
+              "ru": "0/4",
+              "en": "0/4",
+              "es": "0/4",
+              "fr": "0/4",
+              "ko": "0/4"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "value": -1.62,
+          "formatted": {
+            "value": {
+              "ru": "-1,62",
+              "en": "-1.62",
+              "es": "-1,62",
+              "fr": "-1,62",
+              "ko": "-1.62"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.fridge.description",
+        "args": {},
+        "lines": {
+          "ru": "Кустарный контейнер для артефактов, созданный на основе «Берлоги» одним умелым диггером. Изначально этот контейнер создавали для личного пользования. Но когда другие сталкеры заметили его уникальные свойства, помогающие использовать определенные артефакты, некоторые из них тоже захотели заказать такую модификацию.",
+          "en": "A makeshift artifact container based on Berloga, created by a skilled digger. Originally, this container was made for personal use. However, when other stalkers noticed its unique properties that help utilize certain artifacts, some of them also wanted to order such a modification.",
+          "es": "Contenedor artesanal para objetos, creado sobre la base de Berloga por un hábil excavador. Este contenedor se creó originalmente para uso personal. Pero cuando otros acechadores se dieron cuenta de sus propiedades únicas para ayudarles a utilizar ciertos artefactos, algunos de ellos también quisieron encargar una modificación de este tipo.",
+          "fr": "Conteneur artisanal pour artefacts, créé à partir de Berloga par un fouilleur talentueux. À l’origine, ce conteneur avait été conçu pour un usage personnel. Mais lorsque d’autres stalkers ont remarqué ses propriétés uniques, permettant une meilleure utilisation de certains artefacts, certains ont voulu eux aussi commander une telle modification.",
+          "ko": "한 능숙한 광부가 베를로가를 기반으로 제작한 임시변통 아티팩트 컨테이너. 원래 이 컨테이너는 개인 용도로 만들었지만, 다른 스토커들이 특정 아티팩트 활용에 도움이 되는 독특한 성능을 알아보았고 그들 중 일부도 같은 개조형을 주문하기 시작했다."
+        }
+      }
+    }
+  ]
+}

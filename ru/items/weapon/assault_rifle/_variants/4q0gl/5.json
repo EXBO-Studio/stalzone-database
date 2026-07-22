@@ -263,14 +263,14 @@
               "ko": "피해량"
             }
           },
-          "value": 46.55823,
+          "value": 46.874237,
           "formatted": {
             "value": {
-              "ru": "46,56 ед",
-              "en": "46.56 unit(s)",
-              "es": "46,56 unidad(es)",
-              "fr": "46,56 unité(s)",
-              "ko": "46.56 유닛"
+              "ru": "46,87 ед",
+              "en": "46.87 unit(s)",
+              "es": "46,87 unidad(es)",
+              "fr": "46,87 unité(s)",
+              "ko": "46.87 유닛"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -784,7 +784,7 @@
     },
     {
       "type": "damage",
-      "startDamage": 46.55823,
+      "startDamage": 46.874237,
       "damageDecreaseStart": 20.0,
       "endDamage": 35.70869,
       "damageDecreaseEnd": 75.0,

@@ -332,6 +332,60 @@
           "type": "numeric",
           "name": {
             "type": "translation",
+            "key": "weapon.tooltip.magazine.info.full_reload_time",
+            "args": {},
+            "lines": {
+              "ru": "Полная перезарядка",
+              "en": "Full reload",
+              "es": "Recarga completa",
+              "fr": "Recharge complète",
+              "ko": "완전 재장전"
+            }
+          },
+          "value": 7.4,
+          "formatted": {
+            "value": {
+              "ru": "7,4 с",
+              "en": "7.4 sec",
+              "es": "7,4 s",
+              "fr": "7,4 s",
+              "ko": "7.4초"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.magazine.info.single_round_reload_time",
+            "args": {},
+            "lines": {
+              "ru": "Дозарядка одного патрона",
+              "en": "Reloading one round",
+              "es": "Recarga de un cartucho",
+              "fr": "Recharge d\u0027une seule cartouche",
+              "ko": "한 발씩 재장전"
+            }
+          },
+          "value": 0.75,
+          "formatted": {
+            "value": {
+              "ru": "0,75 с",
+              "en": "0.75 sec",
+              "es": "0,75 s",
+              "fr": "0,75 s",
+              "ko": "0.75초"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
             "key": "weapon.stat_factor.reload_modifier",
             "args": {},
             "lines": {

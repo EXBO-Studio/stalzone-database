@@ -262,14 +262,14 @@
               "ko": "피해량"
             }
           },
-          "value": 22.75,
+          "value": 24.75,
           "formatted": {
             "value": {
-              "ru": "22,75 ед",
-              "en": "22.75 unit(s)",
-              "es": "22,75 unidad(es)",
-              "fr": "22,75 unité(s)",
-              "ko": "22.75 유닛"
+              "ru": "24,75 ед",
+              "en": "24.75 unit(s)",
+              "es": "24,75 unidad(es)",
+              "fr": "24,75 unité(s)",
+              "ko": "24.75 유닛"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -343,14 +343,14 @@
               "ko": "연사 속도"
             }
           },
-          "value": 800.0,
+          "value": 750.0,
           "formatted": {
             "value": {
-              "ru": "800 выстр/мин",
-              "en": "800 shots/min",
-              "es": "800 disparos/min",
-              "fr": "800tirs/min",
-              "ko": "분당 800 발"
+              "ru": "750 выстр/мин",
+              "en": "750 shots/min",
+              "es": "750 disparos/min",
+              "fr": "750tirs/min",
+              "ko": "분당 750 발"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -505,14 +505,14 @@
               "ko": "수직 반동"
             }
           },
-          "value": 0.51,
+          "value": 0.55,
           "formatted": {
             "value": {
-              "ru": "0,51°",
-              "en": "0.51°",
-              "es": "0,51°",
-              "fr": "0,51°",
-              "ko": "0.51°"
+              "ru": "0,55°",
+              "en": "0.55°",
+              "es": "0,55°",
+              "fr": "0,55°",
+              "ko": "0.55°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -783,9 +783,9 @@
     },
     {
       "type": "damage",
-      "startDamage": 22.75,
+      "startDamage": 24.75,
       "damageDecreaseStart": 30.0,
-      "endDamage": 19.625,
+      "endDamage": 21.0,
       "damageDecreaseEnd": 80.0,
       "maxDistance": 160.0
     },

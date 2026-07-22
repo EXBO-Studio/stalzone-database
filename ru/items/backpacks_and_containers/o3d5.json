@@ -1,0 +1,264 @@
+{
+  "id": "o3d5",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.honeycombu.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «Сота-У»",
+      "en": "Cell-U Container",
+      "es": "Contenedor Panal-U",
+      "fr": "Conteneur Rayon-U",
+      "ko": "세포-U 컨테이너"
+    }
+  },
+  "color": "RANK_VETERAN",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran",
+              "ko": "베테랑"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 6.4,
+          "formatted": {
+            "value": {
+              "ru": "6,4 кг",
+              "en": "6.4 kg",
+              "es": "6,4 kg",
+              "fr": "6,4 kg",
+              "ko": "6.4 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.standard",
+        "args": {},
+        "lines": {
+          "ru": "Стандартный контейнер",
+          "en": "Standard Container",
+          "es": "Contenedor estándar",
+          "fr": "Conteneur standard",
+          "ko": "표준 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 89.5,
+          "formatted": {
+            "value": {
+              "ru": "89,5%",
+              "en": "89.5%",
+              "es": "89,5 %",
+              "fr": "89,5%",
+              "ko": "89.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 110.0,
+          "formatted": {
+            "value": {
+              "ru": "110%",
+              "en": "110%",
+              "es": "110 %",
+              "fr": "110%",
+              "ko": "110%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 4.0,
+          "formatted": {
+            "value": {
+              "ru": "0/4",
+              "en": "0/4",
+              "es": "0/4",
+              "fr": "0/4",
+              "ko": "0/4"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.honeycombu.description",
+        "args": {},
+        "lines": {
+          "ru": "Укрепленная версия второго контейнера из серии «КЗК».\\nПри разработке укрепленной версии НИИ-7 намеревалось провести значительную модификацию компонента на основе образца №3-ВА, однако работы затянулись, из-за чего «КЗК-2У» вышел без значительных улучшений.",
+          "en": "A reinforced version of the second container in the KZK series.\\nDuring the development of the reinforced version, Research Institute 7 intended to significantly modify the component based on sample No. 3-EA. However, the work was delayed, resulting in the KZK-2U being released without significant improvements.",
+          "es": "Versión fortificada del segundo contenedor de la serie de KZK.\\nAl desarrollar la versión fortificada, el Instituto de Investigación 7 tenía la intención de modificar significativamente el componente sobre la base de la muestra nº 3-IA, pero el trabajo se retrasó, por lo que el KZK-2U salió al mercado sin mejoras significativas.",
+          "fr": "Version renforcée du deuxième conteneur de la série « KZK ».\\nLors du développement de la version renforcée, l’Institut de Recherche 7 avait l’intention d’apporter une modification significative du composant sur la base de l’échantillon n° 3-IA, mais le travail a traîné, de sorte que le « KZK-2U » est sorti sans améliorations notables.",
+          "ko": "KZK 시리즈 두 번째 컨테이너의 강화 버전입니다.\\n개발 당시 제 7 연구소는 표본 3호-EA를 기반으로 한 구성 요소를 대규모로 개조할 계획이었지만, 작업이 지연되면서 KZK-2U는 큰 개선 없이 출시되었습니다."
+        }
+      }
+    }
+  ]
+}
