@@ -1,0 +1,264 @@
+{
+  "id": "v6y7",
+  "category": "containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.bidon.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «Бидон»",
+      "en": "Canister Container",
+      "es": "Contenedor Bidón",
+      "fr": "Conteneur Bidon",
+      "ko": "금속통 컨테이너"
+    }
+  },
+  "color": "RANK_NEWBIE",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.newbie",
+            "args": {},
+            "lines": {
+              "ru": "Новичок",
+              "en": "Newbie",
+              "es": "Novato",
+              "fr": "Débutant",
+              "ko": "초보자"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.containers",
+            "args": {},
+            "lines": {
+              "ru": "Контейнеры",
+              "en": "Containers",
+              "es": "Contenedores",
+              "fr": "Conteneurs",
+              "ko": "컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 9.0,
+          "formatted": {
+            "value": {
+              "ru": "9 кг",
+              "en": "9 kg",
+              "es": "9 kg",
+              "fr": "9 kg",
+              "ko": "9 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.bulky",
+        "args": {},
+        "lines": {
+          "ru": "Громоздкий контейнер",
+          "en": "Bulky Container",
+          "es": "Contenedor voluminoso",
+          "fr": "Conteneur encombrant",
+          "ko": "대형 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 60.000004,
+          "formatted": {
+            "value": {
+              "ru": "60%",
+              "en": "60%",
+              "es": "60 %",
+              "fr": "60%",
+              "ko": "60%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 75.0,
+          "formatted": {
+            "value": {
+              "ru": "75%",
+              "en": "75%",
+              "es": "75 %",
+              "fr": "75%",
+              "ko": "75%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 5.0,
+          "formatted": {
+            "value": {
+              "ru": "0/5",
+              "en": "0/5",
+              "es": "0/5",
+              "fr": "0/5",
+              "ko": "0/5"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.bidon.description",
+        "args": {},
+        "lines": {
+          "ru": "Контейнер с альтернативной конструкцией, созданный для использования большего количества артефактов единовременно.\\nК сожалению, на момент создания контейнера не удалось достичь значительных результатов по улучшению работы компонента с образца №3-ВА, что вылилось в ослабление эффективности и защитных свойств контейнера.",
+          "en": "A container with an alternative design, created to use a larger number of artifacts simultaneously.\\nUnfortunately, at the time of the container\u0027s creation, significant improvements to the component from sample No. 3-EA were not achieved, resulting in reduced efficiency and protective properties of the container.",
+          "es": "Un contenedor con un diseño alternativo, creado para utilizar más artefactos a la vez.\\nLamentablemente, en el momento de la creación del contenedor no fue posible lograr resultados significativos en la mejora del rendimiento del componente de la muestra nº 3-IA, lo que se tradujo en un debilitamiento de la eficacia y las propiedades protectoras del contenedor.",
+          "fr": "Conteneur à structure alternative, conçu pour accueillir plusieurs artefacts simultanément.\\nMalheureusement, au moment de sa création, il n\u0027a pas été possible d\u0027obtenir des résultats significatifs quant à l\u0027amélioration du composant issu du modèle n°3-IA, ce qui a entraîné une baisse de l\u0027efficacité et des propriétés de protection du conteneur.",
+          "ko": "동시에 더 많은 아티팩트를 사용할 수 있도록 설계된 대안적 구조의 컨테이너다.\\n아쉽게도 제작 시점에는 표본 3호-EA 기반 구성 요소의 성능 개선이 큰 성과로 이어지지 못했기 때문에 컨테이너의 효율과 방호 성능이 약해졌다."
+        }
+      }
+    }
+  ]
+}

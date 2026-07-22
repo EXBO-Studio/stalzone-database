@@ -1,0 +1,245 @@
+{
+  "id": "p99d",
+  "category": "containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.iu2.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «ИУ-2»",
+      "en": "IU-2 Container",
+      "es": "Contenedor IU-2",
+      "fr": "Conteneur IU-2",
+      "ko": "IU-2 컨테이너"
+    }
+  },
+  "color": "RANK_VETERAN",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran",
+              "ko": "베테랑"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.containers",
+            "args": {},
+            "lines": {
+              "ru": "Контейнеры",
+              "en": "Containers",
+              "es": "Contenedores",
+              "fr": "Conteneurs",
+              "ko": "컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 3.8,
+          "formatted": {
+            "value": {
+              "ru": "3,8 кг",
+              "en": "3.8 kg",
+              "es": "3,8 kg",
+              "fr": "3,8 kg",
+              "ko": "3.8 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 95.0,
+          "formatted": {
+            "value": {
+              "ru": "95%",
+              "en": "95%",
+              "es": "95 %",
+              "fr": "95%",
+              "ko": "95%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 139.0,
+          "formatted": {
+            "value": {
+              "ru": "139%",
+              "en": "139%",
+              "es": "139 %",
+              "fr": "139%",
+              "ko": "139%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 3.0,
+          "formatted": {
+            "value": {
+              "ru": "0/3",
+              "en": "0/3",
+              "es": "0/3",
+              "fr": "0/3",
+              "ko": "0/3"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.iu2.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Контейнер для артефактов, спроектированный специально для экзоскелета «Медведь». Из-за устаревшей системы сервоприводов, экзоскелет имеет совсем мало места для размещения контейнеров, что ограничило возможные размеры «ИУ-2».@@§6Совместим только с экзоскелетом «Медведь»",
+          "en": "An artifact container designed specifically for the Bear exoskeleton. Due to the outdated servomotors, the exoskeleton has very little space for containers, which limited the possible size of the IU-2. @@§6Compatible only with the Bear exoskeleton.",
+          "es": "Un contenedor de artefactos diseñado específicamente para el exoesqueleto Oso. Debido al anticuado servosistema, el exoesqueleto tiene muy poco espacio para contenedores, lo que limitó el tamaño posible del IU-2.@@§6Compatible sólo con el exoesqueleto Oso.",
+          "fr": "Conteneur à artefacts spécialement conçu pour l\u0027exosquelette Ours.En raison de son ancien système de servomoteurs, cet exosquelette dispose de très peu d\u0027espace pour les conteneurs, ce qui a limité les dimensions possibles du « IU-2 ».@@§6Compatible uniquement avec l\u0027exosquelette Ours.",
+          "ko": "불곰 외골격 전용으로 설계된 아티팩트 컨테이너다. 구형 서보모터 시스템 때문에 외골격 내부에 컨테이너용 공간이 매우 부족하며, 이로 인해 IU-2의 크기도 제한되었다. @@§6불곰 외골격과만 호환된다."
+        }
+      }
+    }
+  ]
+}

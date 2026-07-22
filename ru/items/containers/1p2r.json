@@ -1,0 +1,264 @@
+{
+  "id": "1p2r",
+  "category": "containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.kzs3u.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «КЗС-МУ»",
+      "en": "KZS-MU Container",
+      "es": "Contenedor KZS-MU",
+      "fr": "Conteneur KZS-MU",
+      "ko": "KZS-MU 컨테이너"
+    }
+  },
+  "color": "RANK_VETERAN",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran",
+              "ko": "베테랑"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.containers",
+            "args": {},
+            "lines": {
+              "ru": "Контейнеры",
+              "en": "Containers",
+              "es": "Contenedores",
+              "fr": "Conteneurs",
+              "ko": "컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 3.8,
+          "formatted": {
+            "value": {
+              "ru": "3,8 кг",
+              "en": "3.8 kg",
+              "es": "3,8 kg",
+              "fr": "3,8 kg",
+              "ko": "3.8 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.compact",
+        "args": {},
+        "lines": {
+          "ru": "Компактный контейнер",
+          "en": "Compact Container",
+          "es": "Contenedor compacto",
+          "fr": "Conteneur compact",
+          "ko": "소형 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 95.0,
+          "formatted": {
+            "value": {
+              "ru": "95%",
+              "en": "95%",
+              "es": "95 %",
+              "fr": "95%",
+              "ko": "95%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 132.5,
+          "formatted": {
+            "value": {
+              "ru": "132,5%",
+              "en": "132.5%",
+              "es": "132,5 %",
+              "fr": "132,5%",
+              "ko": "132.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 3.0,
+          "formatted": {
+            "value": {
+              "ru": "0/3",
+              "en": "0/3",
+              "es": "0/3",
+              "fr": "0/3",
+              "ko": "0/3"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.kzs3u.description",
+        "args": {},
+        "lines": {
+          "ru": "Комплект из трех контейнеров «КЗС-У» заводского производства.\\nПредполагалось, что укрепленная версия «КЗС-М» выйдет раньше контейнеров серии «КЗР», работа по увеличению общего объема слишком затянулась.",
+          "en": "A factory-produced set of three KZS-U containers.\\nThe reinforced version of the KZS-M was expected to be released before the KZR series containers; however, the work to increase overall volume took too long.",
+          "es": "Juego de tres contenedores KZS-U hechos en fábrica.\\nLa versión fortificada KZS-M debía salir antes que los contenedores de la serie de KZR, los trabajos para aumentar el volumen total fueron demasiado largos.",
+          "fr": "Lot de trois conteneurs « KZS-U » issus de la production industrielle.\\nLa version renforcée « KZS-M » était censée sortir avant les conteneurs de la série « KZR », mais les travaux visant à augmenter le volume total ont pris un retard considérable.",
+          "ko": "공장에서 생산된 KZS-U 컨테이너 3개 세트다.\\n강화판 KZS-M은 KZR 시리즈 컨테이너보다 먼저 출시될 예정이었지만, 전체 용적 확대 작업이 너무 오래 걸렸다."
+        }
+      }
+    }
+  ]
+}
