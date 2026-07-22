@@ -370,14 +370,14 @@
               "ko": "재장전"
             }
           },
-          "value": 4.125,
+          "value": 3.3000002,
           "formatted": {
             "value": {
-              "ru": "4,12 с",
-              "en": "4.12 sec",
-              "es": "4,12 s",
-              "fr": "4,12 s",
-              "ko": "4.12초"
+              "ru": "3,3 с",
+              "en": "3.3 sec",
+              "es": "3,3 s",
+              "fr": "3,3 s",
+              "ko": "3.3초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -397,14 +397,14 @@
               "ko": "전술 재장전"
             }
           },
-          "value": 3.3000002,
+          "value": 2.75,
           "formatted": {
             "value": {
-              "ru": "3,3 с",
-              "en": "3.3 sec",
-              "es": "3,3 s",
-              "fr": "3,3 s",
-              "ko": "3.3초"
+              "ru": "2,75 с",
+              "en": "2.75 sec",
+              "es": "2,75 s",
+              "fr": "2,75 s",
+              "ko": "2.75초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -451,7 +451,7 @@
               "ko": "탄퍼짐"
             }
           },
-          "value": 0.39999998,
+          "value": 0.4000001,
           "formatted": {
             "value": {
               "ru": "0,4°",
@@ -478,14 +478,14 @@
               "ko": "비조준 사격 탄퍼짐"
             }
           },
-          "value": 2.25,
+          "value": 3.0,
           "formatted": {
             "value": {
-              "ru": "2,25°",
-              "en": "2.25°",
-              "es": "2,25°",
-              "fr": "2,25°",
-              "ko": "2.25°"
+              "ru": "3°",
+              "en": "3°",
+              "es": "3°",
+              "fr": "3°",
+              "ko": "3°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -586,14 +586,14 @@
               "ko": "조준 시간"
             }
           },
-          "value": 0.15,
+          "value": 0.2,
           "formatted": {
             "value": {
-              "ru": "0,15 с",
-              "en": "0.15 sec",
-              "es": "0,15 s",
-              "fr": "0,15 s",
-              "ko": "0.15초"
+              "ru": "0,2 с",
+              "en": "0.2 sec",
+              "es": "0,2 s",
+              "fr": "0,2 s",
+              "ko": "0.2초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -735,50 +735,6 @@
             },
             "nameColor": "F1AA21",
             "valueColor": "F1AA21"
-          }
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "title": {
-        "type": "translation",
-        "key": "weapon.tooltip.weapon.info.attachment_stats",
-        "args": {},
-        "lines": {
-          "ru": "Характеристики обвесов",
-          "en": "Attachment properties",
-          "es": "Propiedades de accesorios",
-          "fr": "Propriétés des accessoires",
-          "ko": "부착물 특성"
-        }
-      },
-      "elements": [
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.stat_factor.hip_spread",
-            "args": {},
-            "lines": {
-              "ru": "Разброс от бедра",
-              "en": "Hip-fire spread",
-              "es": "Dispersión de disparos desde la cadera",
-              "fr": "Dispersion du tir à l\u0027aveugle",
-              "ko": "비조준 사격 탄퍼짐"
-            }
-          },
-          "value": -25.0,
-          "formatted": {
-            "value": {
-              "ru": "-25%",
-              "en": "-25%",
-              "es": "-25 %",
-              "fr": "-25%",
-              "ko": "-25%"
-            },
-            "nameColor": "53C353",
-            "valueColor": "53C353"
           }
         }
       ]

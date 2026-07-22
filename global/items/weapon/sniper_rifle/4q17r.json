@@ -589,35 +589,7 @@
           "ko": "추가 특성"
         }
       },
-      "elements": [
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.tooltip.weapon.info.plate_penetrating",
-            "args": {},
-            "lines": {
-              "ru": "Пробитие пластин",
-              "en": "Plate penetration",
-              "es": "Perforación de placas",
-              "fr": "Perforation des plaques",
-              "ko": "장갑판 관통"
-            }
-          },
-          "value": 99.0,
-          "formatted": {
-            "value": {
-              "ru": "99%",
-              "en": "99%",
-              "es": "99 %",
-              "fr": "99%",
-              "ko": "99%"
-            },
-            "nameColor": "53C353",
-            "valueColor": "53C353"
-          }
-        }
-      ]
+      "elements": []
     },
     {
       "type": "list",
@@ -674,7 +646,7 @@
             "type": "translation",
             "key": "weapon.tooltip.weapon.armor_plate_damage_factor",
             "args": {
-              "modifier": "99.99991"
+              "modifier": "100.0"
             },
             "lines": {
               "ru": "Урон по прочности пластин: х100",
@@ -708,15 +680,15 @@
             "type": "translation",
             "key": "weapon.tooltip.weapon.execute_damage_modifier",
             "args": {
-              "plusPercent": "1.0",
-              "maxPercent": "100.0"
+              "plusPercent": "0.75",
+              "maxPercent": "75.0"
             },
             "lines": {
-              "ru": "Урон увеличивается на 1% за каждый % отсутствующего здоровья цели, максимум +100% урона",
-              "en": "Damage increases by 1% for every % of the target\u0027s health that is missing, to a maximum of +100% damage",
-              "es": "El daño aumenta un 1 % por cada % de salud que le falte al objetivo, hasta un máximo de +100 % de daño",
-              "fr": "Dégâts augmentés de 1% pour chaque % manquant de santé de la cible pour un maximum de +100% dégâts",
-              "ko": "대상의 잃은 체력 1%마다 피해가 1% 증가하며, 최대 +100% 피해까지 증가합니다"
+              "ru": "Урон увеличивается на 0,75% за каждый % отсутствующего здоровья цели, максимум +75% урона",
+              "en": "Damage increases by 0.75% for every % of the target\u0027s health that is missing, to a maximum of +75% damage",
+              "es": "El daño aumenta un 0,75 % por cada % de salud que le falte al objetivo, hasta un máximo de +75 % de daño",
+              "fr": "Dégâts augmentés de 0,75% pour chaque % manquant de santé de la cible pour un maximum de +75% dégâts",
+              "ko": "대상의 잃은 체력 1%마다 피해가 0.75% 증가하며, 최대 +75% 피해까지 증가합니다"
             }
           }
         }
@@ -744,11 +716,11 @@
             "key": "item.wpn.ptrd.features",
             "args": {},
             "lines": {
-              "ru": "Игнорирует защиту пластин @Ломает пластины @Смертельный выстрел @Улучшенный контроль лежа и в приседе",
-              "en": "Ignores Plate Defense @Breaks plates @Lethal shot @Enhanced control while prone and crouching",
-              "es": "Ignora la protección de placas @ Rompe placas @ Disparo mortal @ Control mejorado al agacharse y en posición decúbito",
-              "fr": "Ignore la protection des plaques @Brise les plaques @Tir mortel @Contrôle accru en position couchée et accroupie",
-              "ko": "장갑 무시 @장갑 파괴 @치명타 @웅크린 자세에서 탄퍼짐 감소 @엎드린 자세에서는 반동이 완화됨"
+              "ru": "Ломает пластины @Смертельный выстрел @Улучшенный контроль лежа и в приседе",
+              "en": "Breaks plates @Lethal shot @Enhanced control while prone and crouching",
+              "es": "Rompe placas @Disparo mortal @Control mejorado al agacharse y tumbado",
+              "fr": "Brise les plaques @Tir mortel @Contrôle accru en position couchée et accroupie",
+              "ko": "장갑판 파괴 @치명타 @엎드리기 및 앉기 제어 향상"
             }
           }
         }

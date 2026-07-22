@@ -1,0 +1,264 @@
+{
+  "id": "j33l",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.kzs2.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «КЗС-2»",
+      "en": "KZS-2 Container",
+      "es": "Contenedor KZS-2",
+      "fr": "Conteneur KZS-2",
+      "ko": "KZS-2 컨테이너"
+    }
+  },
+  "color": "RANK_NEWBIE",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.newbie",
+            "args": {},
+            "lines": {
+              "ru": "Новичок",
+              "en": "Newbie",
+              "es": "Novato",
+              "fr": "Débutant",
+              "ko": "초보자"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 2.4,
+          "formatted": {
+            "value": {
+              "ru": "2,4 кг",
+              "en": "2.4 kg",
+              "es": "2,4 kg",
+              "fr": "2,4 kg",
+              "ko": "2.4 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.compact",
+        "args": {},
+        "lines": {
+          "ru": "Компактный контейнер",
+          "en": "Compact Container",
+          "es": "Contenedor compacto",
+          "fr": "Conteneur compact",
+          "ko": "소형 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 95.0,
+          "formatted": {
+            "value": {
+              "ru": "95%",
+              "en": "95%",
+              "es": "95 %",
+              "fr": "95%",
+              "ko": "95%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 130.0,
+          "formatted": {
+            "value": {
+              "ru": "130%",
+              "en": "130%",
+              "es": "130 %",
+              "fr": "130%",
+              "ko": "130%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 2.0,
+          "formatted": {
+            "value": {
+              "ru": "0/2",
+              "en": "0/2",
+              "es": "0/2",
+              "fr": "0/2",
+              "ko": "0/2"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.kzs2.description",
+        "args": {},
+        "lines": {
+          "ru": "Комплект из двух контейнеров «КЗС» заводского производства.\\nХотя общий объем контейнера увеличился, технические ограничения снижают эффективность использования каждого артефакта, что было решено компенсировать дополнительной защитой от вредоносного воздействия артефактов.",
+          "en": "A factory-produced set of two KZS containers.\\nAlthough the overall volume of the container has increased, technical limitations reduce the effectiveness of each artifact. This was addressed by incorporating additional protection against the harmful effects of artifacts.",
+          "es": "Un conjunto de dos contenedores KZS hechos en fábrica.\\nAunque el volumen total del contenedor ha aumentado, las limitaciones técnicas reducen la eficacia de cada artefacto, lo que se decidió compensar con una protección adicional contra los efectos malintencionados de los artefactos.",
+          "fr": "Ensemble de deux conteneurs « KZS » de fabrication industrielle.\\nBien que le volume total du conteneur ait augmenté, des contraintes techniques réduisent l\u0027efficacité de chaque artefact. Ce défaut a été partiellement compensé par une protection supplémentaire contre les effets néfastes des artefacts.",
+          "ko": "공장에서 생산된 2개의 KZS 컨테이너 세트입니다.\\n컨테이너의 전체적인 부피는 증가했지만, 기술적 한계로 인해 각 아티팩트의 이용 효과는 감소했습니다. 이는 아티팩트의 해로운 효과에 대한 추가적인 보호가 이루어졌기 때문입니다."
+        }
+      }
+    }
+  ]
+}

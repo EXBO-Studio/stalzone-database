@@ -241,6 +241,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.gauss_pistol.name",
+            "args": {},
+            "lines": {
+              "ru": "CR-72",
+              "en": "CR-72",
+              "es": "CR-72",
+              "fr": "CR-72",
+              "ko": "CR-72"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.cr380.name",
             "args": {},
             "lines": {
@@ -249,6 +264,21 @@
               "es": "CR-380",
               "fr": "CR-380",
               "ko": "CR-380"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.ppk20.name",
+            "args": {},
+            "lines": {
+              "ru": "ППК-20",
+              "en": "PPK-20",
+              "es": "PPK-20",
+              "fr": "PPK-20",
+              "ko": "PPK-20"
             }
           }
         },
@@ -571,6 +601,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.aa12.name",
+            "args": {},
+            "lines": {
+              "ru": "AA-12",
+              "en": "AA-12",
+              "es": "AA-12",
+              "fr": "AA-12",
+              "ko": "AA-12"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.fal.name",
             "args": {},
             "lines": {
@@ -624,6 +669,21 @@
               "es": "FAMAS G2",
               "fr": "FAMAS G2",
               "ko": "FAMAS G2"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.famas_sopmod.name",
+            "args": {},
+            "lines": {
+              "ru": "FAMAS G2 SG",
+              "en": "FAMAS G2 SG",
+              "es": "FAMAS G2 SG",
+              "fr": "FAMAS G2 SG",
+              "ko": "FAMAS G2 SG"
             }
           }
         },
@@ -871,6 +931,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.pkp.name",
+            "args": {},
+            "lines": {
+              "ru": "ПКП «Печенег»",
+              "en": "PKP Pecheneg",
+              "es": "PKP Pecheneg",
+              "fr": "PKP Petcheneg",
+              "ko": "PKP 페체네그"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.mg3.name",
             "args": {},
             "lines": {
@@ -1066,6 +1141,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.invertor_a.name",
+            "args": {},
+            "lines": {
+              "ru": "«Инвертор» (А)",
+              "en": "Inverter (A)",
+              "es": "Inversor (A)",
+              "fr": "Onduleur (A)",
+              "ko": "인버터 (A)"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.svch_a.name",
             "args": {},
             "lines": {
@@ -1149,6 +1239,21 @@
               "es": "Cheytac M300 (A)",
               "fr": "Cheytac M300 (A)",
               "ko": "샤이택 M300 (A)"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.rsh12.name",
+            "args": {},
+            "lines": {
+              "ru": "РШ-12",
+              "en": "RSh-12",
+              "es": "RSh-12",
+              "fr": "RSh-12",
+              "ko": "RSh-12"
             }
           }
         },
@@ -1351,6 +1456,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.ump45.name",
+            "args": {},
+            "lines": {
+              "ru": "HK UMP45",
+              "en": "HK UMP45",
+              "es": "HK UMP45",
+              "fr": "HK UMP45",
+              "ko": "HK UMP45"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.vityaz_sn.name",
             "args": {},
             "lines": {
@@ -1366,6 +1486,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.mx4.name",
+            "args": {},
+            "lines": {
+              "ru": "Beretta Mx4 Storm",
+              "en": "Beretta Mx4 Storm",
+              "es": "Beretta Mx4 Storm",
+              "fr": "Beretta Mx4 Storm",
+              "ko": "베레타 Mx4 스톰"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.tact.name",
             "args": {},
             "lines": {
@@ -1374,6 +1509,21 @@
               "es": "PSA PA 10 Compás",
               "fr": "PSA PA 10 Battement",
               "ko": "PSA PA 10 비트"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.gornostay.name",
+            "args": {},
+            "lines": {
+              "ru": "АКС-9 «Горностай»",
+              "en": "AKS-9 Stoat",
+              "es": "AKS-9 Armiño",
+              "fr": "AKS-9 Hermine",
+              "ko": "AKS-9 호젓"
             }
           }
         },
@@ -1479,6 +1629,21 @@
               "es": "AK-9M Coyote",
               "fr": "AK-9M Coyote",
               "ko": "AK-9M 코요테"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.p90.name",
+            "args": {},
+            "lines": {
+              "ru": "FN P90",
+              "en": "FN P90",
+              "es": "FN P90",
+              "fr": "FN P90",
+              "ko": "FN P90"
             }
           }
         },
@@ -1891,6 +2056,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.aks74_mod.name",
+            "args": {},
+            "lines": {
+              "ru": "«Рапира»",
+              "en": "Rapier",
+              "es": "Estoque",
+              "fr": "Rapière",
+              "ko": "레이피어"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.l85_mod.name",
             "args": {},
             "lines": {
@@ -1899,6 +2079,21 @@
               "es": "Ecualizador",
               "fr": "Égaliseur",
               "ko": "이퀄라이저"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.oreh.name",
+            "args": {},
+            "lines": {
+              "ru": "ПП «Орех»",
+              "en": "SMG Nut",
+              "es": "SMG Nut",
+              "fr": "SMG Noix",
+              "ko": "SMG 너트"
             }
           }
         },
@@ -1996,6 +2191,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.ump.name",
+            "args": {},
+            "lines": {
+              "ru": "HK UMP9",
+              "en": "HK UMP9",
+              "es": "HK UMP9",
+              "fr": "HK UMP9",
+              "ko": "HK UMP9"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.scarl.name",
             "args": {},
             "lines": {
@@ -2056,6 +2266,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.att.forend_ppsh.name",
+            "args": {},
+            "lines": {
+              "ru": "Набор планок для ППШ",
+              "en": "Pack of Rails for PPSh",
+              "es": "Pack de raíles para PPSh",
+              "fr": "Ensemble de rails pour PPSh",
+              "ko": "PPSh용 레일 팩"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.att.forend_m1ris1.name",
             "args": {},
             "lines": {
@@ -2079,6 +2304,21 @@
               "es": "Soporte lateral con raíl Picatinny",
               "fr": "Support latéral avec rail Picatinny",
               "ko": "피카티니 레일이 달린 사이드 브래킷"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.att.mount_riselevator.name",
+            "args": {},
+            "lines": {
+              "ru": "Повышающая RIS-планка",
+              "en": "Increasing RIS-Rail",
+              "es": "Raíl RIS de aumento",
+              "fr": "Augmentation du rail SIF",
+              "ko": "높이 증가 RIS 레일"
             }
           }
         },
@@ -2146,6 +2386,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.att.mount_mp5ris.name",
+            "args": {},
+            "lines": {
+              "ru": "Кронштейн-планка RIS",
+              "en": "RIS Bracket-Rail",
+              "es": "Soporte para raíl RIS",
+              "fr": "Support-Rail RIS",
+              "ko": "RIS 브래킷-레일"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.att.mount_tozris.name",
             "args": {},
             "lines": {
@@ -2169,6 +2424,21 @@
               "es": "Guía RIS para escopeta",
               "fr": "Guide RIS pour fusil de chasse",
               "ko": "산탄총용 유도 RIS"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.att.mount_m16ris.name",
+            "args": {},
+            "lines": {
+              "ru": "Крепление прицела для M16A2",
+              "en": "Sight Mount for M16A2",
+              "es": "Soporte de mira para M16A2",
+              "fr": "Support de viseur pour M16A2",
+              "ko": "M16A2용 조준경 마운트"
             }
           }
         },

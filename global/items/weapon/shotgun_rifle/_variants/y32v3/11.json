@@ -332,24 +332,24 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "weapon.tooltip.magazine.info.reload_time",
+            "key": "weapon.tooltip.magazine.info.full_reload_time",
             "args": {},
             "lines": {
-              "ru": "Перезарядка",
-              "en": "Reload",
-              "es": "Recarga",
-              "fr": "Rechargement",
-              "ko": "재장전"
+              "ru": "Полная перезарядка",
+              "en": "Full reload",
+              "es": "Recarga completa",
+              "fr": "Recharge complète",
+              "ko": "완전 재장전"
             }
           },
-          "value": 5.0,
+          "value": 8.0,
           "formatted": {
             "value": {
-              "ru": "5 с",
-              "en": "5 sec",
-              "es": "5 s",
-              "fr": "5 s",
-              "ko": "5초"
+              "ru": "8 с",
+              "en": "8 sec",
+              "es": "8 s",
+              "fr": "8 s",
+              "ko": "8초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -359,24 +359,24 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "weapon.tooltip.magazine.info.reload_time_tactical",
+            "key": "weapon.tooltip.magazine.info.single_round_reload_time",
             "args": {},
             "lines": {
-              "ru": "Тактическая перезарядка",
-              "en": "Tactical reload",
-              "es": "Recarga táctica",
-              "fr": "Rechargement tactique",
-              "ko": "전술 재장전"
+              "ru": "Дозарядка одного патрона",
+              "en": "Reloading one round",
+              "es": "Recarga de un cartucho",
+              "fr": "Recharge d\u0027une seule cartouche",
+              "ko": "한 발씩 재장전"
             }
           },
-          "value": 5.0,
+          "value": 0.85,
           "formatted": {
             "value": {
-              "ru": "5 с",
-              "en": "5 sec",
-              "es": "5 s",
-              "fr": "5 s",
-              "ko": "5초"
+              "ru": "0,85 с",
+              "en": "0.85 sec",
+              "es": "0,85 s",
+              "fr": "0,85 s",
+              "ko": "0.85초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"

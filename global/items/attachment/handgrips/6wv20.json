@@ -777,6 +777,36 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.famas.name",
+            "args": {},
+            "lines": {
+              "ru": "FAMAS G2",
+              "en": "FAMAS G2",
+              "es": "FAMAS G2",
+              "fr": "FAMAS G2",
+              "ko": "FAMAS G2"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.famas_sopmod.name",
+            "args": {},
+            "lines": {
+              "ru": "FAMAS G2 SG",
+              "en": "FAMAS G2 SG",
+              "es": "FAMAS G2 SG",
+              "fr": "FAMAS G2 SG",
+              "ko": "FAMAS G2 SG"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.xm8s.name",
             "args": {},
             "lines": {

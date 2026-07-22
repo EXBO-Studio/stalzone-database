@@ -1,0 +1,121 @@
+{
+  "id": "dm6g9",
+  "category": "other/skins",
+  "name": {
+    "type": "translation",
+    "key": "item.style.arm.albatros_heavy_prestige.name",
+    "args": {},
+    "lines": {
+      "ru": "«Арбитр»",
+      "en": "Referee",
+      "es": "Árbitro",
+      "fr": "Arbitre",
+      "ko": "중재자"
+    }
+  },
+  "color": "RANK_LEGEND",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.legend",
+            "args": {},
+            "lines": {
+              "ru": "Легенда",
+              "en": "Legend",
+              "es": "Leyenda",
+              "fr": "Légende",
+              "ko": "전설"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.skins",
+            "args": {},
+            "lines": {
+              "ru": "Косметика",
+              "en": "Cosmetics",
+              "es": "Cosméticos",
+              "fr": "Cosmétique",
+              "ko": "꾸미기"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.arm.albatros_heavy_prestige.description",
+        "args": {},
+        "lines": {
+          "ru": "Созданная Провидцем как высшая награда Циклических Испытаний, она объединяет непревзойденную мобильность с боевым интеллектом, основанным на действиях оперативника «Буря» — единственного абсолютного чемпиона.\\n\\nДля остальных -— легенда. Для лучших из лучших — стандарт.",
+          "en": "Created by the Soothsayer as the highest reward of the Cyclical Trials, it combines unmatched mobility with combat intelligence based on the actions of the operative \"Storm\" — the one and only undefeated champion.\\n\\nTo most, it is a myth. To the elite, it is the benchmark.",
+          "es": "Creada por el Vidente como la máxima recompensa de las Pruebas Cíclicas, combina una movilidad insuperable con inteligencia de combate basada en las acciones del operativo \"Tormenta\", el único campeón absoluto.\\n\\n\\n\\nPara los demás, una leyenda. Para los mejores de los mejores, un estándar.",
+          "fr": "Créée par le Prophète comme la plus haute récompense des Épreuves Cycliques, elle allie une mobilité inégalée à une intelligence de combat basée sur les actions de l\u0027opérateur Tempête — le seul champion absolu.\\n\\n\\n\\nPour les autres — une légende. Pour les meilleurs des meilleurs — une norme.",
+          "ko": "예언자가 순환 시험의 최고 보상으로 제작한 이 무기는, 유일한 절대 챔피언인 요원 템페스트의 행동을 기반으로 한 전투 지능과 타의 추종을 불허하는 기동성을 결합했다.\\n\\n다른 이들에게는 전설. 최고의 실력자들에게는 기준."
+        }
+      }
+    },
+    {}
+  ]
+}

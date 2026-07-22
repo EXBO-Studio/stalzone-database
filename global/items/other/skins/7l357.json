@@ -1,0 +1,121 @@
+{
+  "id": "7l357",
+  "category": "other/skins",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.gauss_prestige.name",
+    "args": {},
+    "lines": {
+      "ru": "«Око Бури»",
+      "en": "Eye of Tempest",
+      "es": "El Ojo de la Tormenta",
+      "fr": "Œil de la Tempête",
+      "ko": "폭풍의 눈"
+    }
+  },
+  "color": "RANK_LEGEND",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.legend",
+            "args": {},
+            "lines": {
+              "ru": "Легенда",
+              "en": "Legend",
+              "es": "Leyenda",
+              "fr": "Légende",
+              "ko": "전설"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.skins",
+            "args": {},
+            "lines": {
+              "ru": "Косметика",
+              "en": "Cosmetics",
+              "es": "Cosméticos",
+              "fr": "Cosmétique",
+              "ko": "꾸미기"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.gauss_prestige.description",
+        "args": {},
+        "lines": {
+          "ru": "Личный Гаусс оперативника «Буря», воссозданный Провидцем.\\nМногие годы винтовка дорабатывалась под ее собственную манеру боя. Перенастроенная система накопления заряда, облегченная конструкция и выверенная балансировка позволяют вести огонь без потери темпа даже во время стремительного перемещения.\\nВ ходе последней серии побед, был уничтожен, из-за чего Провидец создал для «Бури» совершенно другое оружие на основе Гаусс-технологий, оставив уникальное сочетание технических решений в своей памяти.\\nСреди участников Циклических Испытаний ходило простое правило: если на тебя смотрит «Око Бури», значит, ты уже проиграл.",
+          "en": "Personal Gauss rifle of operative \"Storm\", rebuilt by the Soothsayer.\\nFor years, the rifle was refined to suit her unique combat style. A retuned charge accumulation system, a lighter frame, and perfect balance allow for relentless fire even while on the move.\\nAfter being destroyed during the last string of victories, the Soothsayer forged an entirely new Gauss-based weapon for \"Storm\", preserving the unique blend of engineering solutions in his memory.\\nAmong Cyclical Trials veterans, there was a simple rule: if the \"Eye of the Storm\" is locked on you — you\u0027ve already lost the fight.",
+          "es": "Gauss personal de la agente Tormenta, recreado por el Adivinador.\\nDurante muchos años, el fusil se modificó para adaptarse a su propio estilo de combate. El sistema de acumulación de carga reconfigurado, la construcción aligerada y el equilibrio preciso permiten abrir fuego sin perder el ritmo, incluso durante desplazamientos rápidos.\\nDurante la última serie de victorias, fue destruido, por lo que el Adivinador creó para Tormenta un arma completamente distinta basada en tecnologías Gauss, conservando en su memoria la combinación única de soluciones técnicas.\\nEntre los participantes de las Pruebas cíclicas circulaba una regla sencilla: si te mira el Ojo de la Tormenta, significa que ya has perdido.",
+          "fr": "Le Gauss personnel de l’opératif Tempête, reconstitué par le Prophète.\\nPendant de nombreuses années, ce fusil a été peaufiné pour s’adapter à son propre style de combat. Un système d’accumulation de charge recalibré, une structure allégée et un équilibrage millimétrique permettent de tirer sans perdre le rythme, même en plein déplacement.\\nLors de la dernière série de victoires, il a été détruit. Le Prophète a donc conçu pour Tempête une toute nouvelle arme basée sur les technologies Gauss, ne conservant dans sa mémoire que l’association unique de solutions techniques qui la caractérisait.\\nParmi les participants aux Épreuves Cycliques, une règle simple circulait : si l’Œil de la Tempête te regarde, c’est que tu as déjà perdu.",
+          "ko": "예언자가 재현한 요원 템페스트의 개인용 가우스 소총.\\n수년 동안 이 소총은 그녀만의 전투 방식에 맞춰 개량되어 왔다. 재조정된 축전 시스템, 경량화된 구조, 정밀하게 조율된 균형 덕분에 빠르게 이동하는 상황에서도 사격 템포를 잃지 않고 공격을 이어갈 수 있다.\\n마지막 승리 연속 과정에서 파괴되었고, 그로 인해 예언자는 템페스트를 위해 가우스 기술을 기반으로 완전히 새로운 무기를 제작했다. 기존의 독특한 기술적 조합은 그의 기억 속에 남겨졌다.\\n순환 시험 참가자들 사이에는 간단한 규칙이 있었다. 폭풍의 눈이 너를 바라보고 있다면, 이미 패배한 것이다."
+        }
+      }
+    },
+    {}
+  ]
+}

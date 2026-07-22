@@ -262,14 +262,14 @@
               "ko": "피해량"
             }
           },
-          "value": 19.045124,
+          "value": 20.937807,
           "formatted": {
             "value": {
-              "ru": "19,05 ед",
-              "en": "19.05 unit(s)",
-              "es": "19,05 unidad(es)",
-              "fr": "19,05 unité(s)",
-              "ko": "19.05 유닛"
+              "ru": "20,94 ед",
+              "en": "20.94 unit(s)",
+              "es": "20,94 unidad(es)",
+              "fr": "20,94 unité(s)",
+              "ko": "20.94 유닛"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -343,14 +343,14 @@
               "ko": "연사 속도"
             }
           },
-          "value": 700.0,
+          "value": 650.0,
           "formatted": {
             "value": {
-              "ru": "700 выстр/мин",
-              "en": "700 shots/min",
-              "es": "700 disparos/min",
-              "fr": "700tirs/min",
-              "ko": "분당 700 발"
+              "ru": "650 выстр/мин",
+              "en": "650 shots/min",
+              "es": "650 disparos/min",
+              "fr": "650tirs/min",
+              "ko": "분당 650 발"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -783,10 +783,10 @@
     },
     {
       "type": "damage",
-      "startDamage": 19.045124,
-      "damageDecreaseStart": 18.0,
-      "endDamage": 13.958537,
-      "damageDecreaseEnd": 72.0,
+      "startDamage": 20.937807,
+      "damageDecreaseStart": 17.0,
+      "endDamage": 15.141464,
+      "damageDecreaseEnd": 71.0,
       "maxDistance": 120.0
     },
     {

@@ -1,0 +1,264 @@
+{
+  "id": "l3n2",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.bear4u.name",
+    "args": {},
+    "lines": {
+      "ru": "Контейнер «Берлога-4У»",
+      "en": "Berloga-4U Container",
+      "es": "Contenedor Berloga-4U",
+      "fr": "Conteneur Berloga-4U",
+      "ko": "베를로가-4U 컨테이너"
+    }
+  },
+  "color": "RANK_STALKER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.stalker",
+            "args": {},
+            "lines": {
+              "ru": "Сталкер",
+              "en": "Stalker",
+              "es": "Acechador",
+              "fr": "Stalker",
+              "ko": "스토커"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 6.3,
+          "formatted": {
+            "value": {
+              "ru": "6,3 кг",
+              "en": "6.3 kg",
+              "es": "6,3 kg",
+              "fr": "6,3 kg",
+              "ko": "6.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.spacious",
+        "args": {},
+        "lines": {
+          "ru": "Вместительный контейнер",
+          "en": "Capacious Container",
+          "es": "Contenedor espacioso",
+          "fr": "Conteneur spacieux",
+          "ko": "넉넉한 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 78.5,
+          "formatted": {
+            "value": {
+              "ru": "78,5%",
+              "en": "78.5%",
+              "es": "78,5 %",
+              "fr": "78,5%",
+              "ko": "78.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 4.0,
+          "formatted": {
+            "value": {
+              "ru": "0/4",
+              "en": "0/4",
+              "es": "0/4",
+              "fr": "0/4",
+              "ko": "0/4"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.bear4u.description",
+        "args": {},
+        "lines": {
+          "ru": "Укрепленная модель контейнера для артефактов. Обладает слабыми экранирующими свойствами, но легок в производстве, надежен и позволяет носить 4 артефакта. Эти факторы значительно повлияли на популярность данного образца.",
+          "en": "A reinforced model of an artifact container. It has weak shielding properties but is easy to produce, reliable, and allows carrying 4 artifacts. These factors significantly contributed to the popularity of this model.",
+          "es": "Un modelo de contenedor de artefactos reforzado. Tiene una capacidad protectora débil, pero es fácil de producir, fiable y te permite llevar cuatro artefactos. Estos factores influyeron mucho en la popularidad de este modelo.",
+          "fr": "Modèle renforcé de conteneur pour artefacts. Il possède des propriétés de blindage faibles, mais il est facile à produire, fiable et permet de transporter jusqu\u0027à 4 artefacts. Ces facteurs ont grandement contribué à sa popularité.",
+          "ko": "아티팩트 컨테이너의 강화형 모델이다. 방호 성능은 약하지만 제작이 쉽고, 신뢰성이 높으며, 아티팩트를 4개까지 휴대할 수 있다. 이런 요소들이 이 모델의 대중성에 큰 영향을 주었다."
+        }
+      }
+    }
+  ]
+}

@@ -106,8 +106,8 @@
       },
       "elements": [
         {
-          "type": "key-value",
-          "key": {
+          "type": "numeric",
+          "name": {
             "type": "translation",
             "key": "core.tooltip.info.base_price",
             "args": {},
@@ -119,19 +119,17 @@
               "ko": "기본 판매 가격"
             }
           },
-          "value": {
-            "type": "translation",
-            "key": "core.tooltip.info.rubles",
-            "args": {
-              "cost": "3600.0"
-            },
-            "lines": {
+          "value": 3600.0,
+          "formatted": {
+            "value": {
               "ru": "3 600 руб.",
               "en": "3,600 rubles",
               "es": "3.600 rublos",
               "fr": "3 600 roubles",
               "ko": "3,600 루블"
-            }
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
           }
         }
       ]

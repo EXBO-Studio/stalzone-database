@@ -189,24 +189,24 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
             "args": {},
             "lines": {
-              "ru": "Скорость передвижения",
-              "en": "Movement speed",
-              "es": "Velocidad de movimiento",
-              "fr": "Vitesse de déplacement",
-              "ko": "이동 속도"
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
             }
           },
-          "value": 1.0,
+          "value": 25.0,
           "formatted": {
             "value": {
-              "ru": "+1%",
-              "en": "+1%",
-              "es": "+1 %",
-              "fr": "+1%",
-              "ko": "+1%"
+              "ru": "+25%",
+              "en": "+25%",
+              "es": "+25 %",
+              "fr": "+25%",
+              "ko": "+25%"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"
@@ -226,14 +226,14 @@
               "ko": "최대 운반 무게"
             }
           },
-          "value": 5.0,
+          "value": 10.0,
           "formatted": {
             "value": {
-              "ru": "+5",
-              "en": "+5",
-              "es": "+5",
-              "fr": "+5",
-              "ko": "+5"
+              "ru": "+10",
+              "en": "+10",
+              "es": "+10",
+              "fr": "+10",
+              "ko": "+10"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"
@@ -262,14 +262,14 @@
               "ko": "총탄 저항율"
             }
           },
-          "value": 22.195122,
+          "value": 23.213963,
           "formatted": {
             "value": {
-              "ru": "22,2",
-              "en": "22.2",
-              "es": "22,2",
-              "fr": "22,2",
-              "ko": "22.2"
+              "ru": "23,21",
+              "en": "23.21",
+              "es": "23,21",
+              "fr": "23,21",
+              "ko": "23.21"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -343,14 +343,14 @@
               "ko": "전기 저항율"
             }
           },
-          "value": 11.0,
+          "value": 0.0,
           "formatted": {
             "value": {
-              "ru": "11",
-              "en": "11",
-              "es": "11",
-              "fr": "11",
-              "ko": "11"
+              "ru": "0",
+              "en": "0",
+              "es": "0",
+              "fr": "0",
+              "ko": "0"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -370,14 +370,14 @@
               "ko": "화염 저항율"
             }
           },
-          "value": 11.0,
+          "value": 0.0,
           "formatted": {
             "value": {
-              "ru": "11",
-              "en": "11",
-              "es": "11",
-              "fr": "11",
-              "ko": "11"
+              "ru": "0",
+              "en": "0",
+              "es": "0",
+              "fr": "0",
+              "ko": "0"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -397,14 +397,14 @@
               "ko": "화학 화상 보호율"
             }
           },
-          "value": 11.0,
+          "value": 0.0,
           "formatted": {
             "value": {
-              "ru": "11",
-              "en": "11",
-              "es": "11",
-              "fr": "11",
-              "ko": "11"
+              "ru": "0",
+              "en": "0",
+              "es": "0",
+              "fr": "0",
+              "ko": "0"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -576,14 +576,14 @@
               "ko": "총탄 저항율"
             }
           },
-          "value": 2.1951218,
+          "value": 2.2139633,
           "formatted": {
             "value": {
-              "ru": "2,2",
-              "en": "2.2",
-              "es": "2,2",
-              "fr": "2,2",
-              "ko": "2.2"
+              "ru": "2,21",
+              "en": "2.21",
+              "es": "2,21",
+              "fr": "2,21",
+              "ko": "2.21"
             },
             "nameColor": "F1AA21",
             "valueColor": "F1AA21"

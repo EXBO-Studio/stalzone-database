@@ -1,0 +1,300 @@
+{
+  "id": "jmp6",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.bag.transformer.name",
+    "args": {},
+    "lines": {
+      "ru": "Сумка-трансформер",
+      "en": "Transformer Bag",
+      "es": "Bolsa Transformador",
+      "fr": "Sac de Transformation",
+      "ko": "변압기 가방"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.picklock",
+            "args": {},
+            "lines": {
+              "ru": "Отмычка",
+              "en": "Picklock",
+              "es": "Ratero",
+              "fr": "Crocheteur",
+              "ko": "신입"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 1.5,
+          "formatted": {
+            "value": {
+              "ru": "1,5 кг",
+              "en": "1.5 kg",
+              "es": "1,5 kg",
+              "fr": "1,5 kg",
+              "ko": "1.5 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.backpack.class.light",
+        "args": {},
+        "lines": {
+          "ru": "Легкий рюкзак",
+          "en": "Light Backpack",
+          "es": "Mochila ligera",
+          "fr": "Sac à dos léger",
+          "ko": "소형 배낭"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 89.5,
+          "formatted": {
+            "value": {
+              "ru": "89,5%",
+              "en": "89.5%",
+              "es": "89,5 %",
+              "fr": "89,5%",
+              "ko": "89.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 115.0,
+          "formatted": {
+            "value": {
+              "ru": "115%",
+              "en": "115%",
+              "es": "115 %",
+              "fr": "115%",
+              "ko": "115%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 1.0,
+          "formatted": {
+            "value": {
+              "ru": "0/1",
+              "en": "0/1",
+              "es": "0/1",
+              "fr": "0/1",
+              "ko": "0/1"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "value": 2.4,
+          "formatted": {
+            "value": {
+              "ru": "2,4%",
+              "en": "2.4%",
+              "es": "2,4 %",
+              "fr": "2,4%",
+              "ko": "2.4%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "value": 15.0,
+          "formatted": {
+            "value": {
+              "ru": "15",
+              "en": "15",
+              "es": "15",
+              "fr": "15",
+              "ko": "15"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    }
+  ]
+}

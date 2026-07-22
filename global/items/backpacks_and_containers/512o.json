@@ -1,0 +1,319 @@
+{
+  "id": "512o",
+  "category": "backpacks_and_containers",
+  "name": {
+    "type": "translation",
+    "key": "item.cont.zivcas.name",
+    "args": {},
+    "lines": {
+      "ru": "ZIVCAS ArcticSafe-6",
+      "en": "ZIVCAS ArcticSafe-6",
+      "es": "ZIVCAS ArcticSafe-6",
+      "fr": "ArcticSafe-6 ZIVCAS",
+      "ko": "지브카스 북극함-6"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks_and_containers",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и контейнеры",
+              "en": "Backpacks and containers",
+              "es": "Mochilas y contenedores",
+              "fr": "Sacs à dos et conteneurs",
+              "ko": "배낭과 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 9.2,
+          "formatted": {
+            "value": {
+              "ru": "9,2 кг",
+              "en": "9.2 kg",
+              "es": "9,2 kg",
+              "fr": "9,2 kg",
+              "ko": "9.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.container.class.spacious",
+        "args": {},
+        "lines": {
+          "ru": "Вместительный контейнер",
+          "en": "Capacious Container",
+          "es": "Contenedor espacioso",
+          "fr": "Conteneur spacieux",
+          "ko": "넉넉한 컨테이너"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 75.0,
+          "formatted": {
+            "value": {
+              "ru": "75%",
+              "en": "75%",
+              "es": "75 %",
+              "fr": "75%",
+              "ko": "75%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 102.5,
+          "formatted": {
+            "value": {
+              "ru": "102,5%",
+              "en": "102.5%",
+              "es": "102,5 %",
+              "fr": "102,5%",
+              "ko": "102.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 6.0,
+          "formatted": {
+            "value": {
+              "ru": "0/6",
+              "en": "0/6",
+              "es": "0/6",
+              "fr": "0/6",
+              "ko": "0/6"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "value": 0.5,
+          "formatted": {
+            "value": {
+              "ru": "0,5",
+              "en": "0.5",
+              "es": "0,5",
+              "fr": "0,5",
+              "ko": "0.5"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.frost_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Холод",
+              "en": "Frost",
+              "es": "Congelación",
+              "fr": "Givre",
+              "ko": "서리"
+            }
+          },
+          "value": -2.5,
+          "formatted": {
+            "value": {
+              "ru": "-2,5",
+              "en": "-2.5",
+              "es": "-2,5",
+              "fr": "-2,5",
+              "ko": "-2.5"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.cont.zivcas.description",
+        "args": {},
+        "lines": {
+          "ru": "ZIVCAS ArcticSafe-6 — контейнер из линейки ArcticSafe, предназначенный для транспортировки и использования до 6 артефактов. Оснащен инновационной системой терморегуляции GlacialFlow, которая способствует дополнительному теплообмену с окружающей средой. Из-за уникальных запатентованных процессов GlacialFlow, контейнер испускает пси-излучение, влияние которого не превышает допустимое в рамках рекомендаций специалистов ZIVCAS.",
+          "en": "ZIVCAS ArcticSafe-6 — a container from the ArcticSafe line designed for transporting and using up to 6 artifacts. Equipped with the innovative GlacialFlow thermal regulation system, which facilitates additional heat exchange with the environment. Due to the unique patented GlacialFlow processes, the container emits psy-radiation, the influence of which does not exceed acceptable levels according to ZIVCAS specialists recommendations.",
+          "es": "ZIVCAS ArcticSafe-6: un contenedor de la línea ArcticSafe diseñado para transportar y utilizar hasta 6 artefactos. Está equipado con el innovador sistema termorregulador GlacialFlow, que favorece un intercambio térmico adicional con el entorno. Gracias al proceso único patentado GlacialFlow, el contenedor emite emisión psy, cuya influencia no supera los niveles aceptables según las recomendaciones de los especialistas de ZIVCAS.",
+          "fr": "ZIVCAS ArcticSafe-6 — conteneur de la gamme ArcticSafe, conçu pour transporter et utiliser jusqu\u0027à 6 artefacts. Équipé du système innovant de régulation thermique GlacialFlow, qui favorise un échange de chaleur supplémentaire avec l\u0027environnement. En raison des processus brevetés uniques de GlacialFlow, le conteneur émet une radiation psy, dont l\u0027impact ne dépasse pas les limites autorisées selon les recommandations des spécialistes de ZIVCAS.",
+          "ko": "지브카스 북극함-6은 북극함 라인업에 속하는 컨테이너로, 최대 6개의 아티팩트를 운반 및 사용하도록 설계됐다. 혁신적인 극빙류 열 조절 시스템이 탑재되어 주변 환경과의 열 교환을 용이하게 해 준다. 극빙류의 독자적인 특허 프로세스 때문에 이 컨테이너는 정신파 방사능을 발산하지만, 그 영향력은 지브카스 전문가들이 제시한 권고 기준 내 허용치를 넘지 않는다."
+        }
+      }
+    }
+  ]
+}

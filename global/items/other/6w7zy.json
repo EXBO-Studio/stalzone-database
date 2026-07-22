@@ -1,0 +1,121 @@
+{
+  "id": "6w7zy",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.ak15_prestige.name",
+    "args": {},
+    "lines": {
+      "ru": "«Протокол 0»",
+      "en": "Protocol 0",
+      "es": "Protocolo 0",
+      "fr": "Protocole 0",
+      "ko": "프로토콜 0"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.ak15_prestige.description",
+        "args": {},
+        "lines": {
+          "ru": "Провидец: «Совершенство никогда не бывает случайным».\\n\\nЭтот АК-15 создан как демонстрация того, каким должно стать оружие будущего. Высокопрочные композитные материалы на основе аномальных соединений, интеллектуальный модуль контроля боекомплекта и доведенная до абсолютного баланса конструкция позволяют владельцу сосредоточиться лишь на одном — принятии решений.\\nПока другие считают патроны по памяти, Протокол 0 уже перевернул весь бой.",
+          "en": "The Soothsayer: \"Perfection is never accidental.\"\\n\\nThis AK-15 is designed as a demonstration of what the weapon of the future should be. High-strength composite materials based on anomalous compounds, an intelligent ammunition control module, and a design perfected to absolute balance allow the owner to focus on only one thing — making decisions.\\nWhile others count their ammo by memory, Protocol 0 already won the fight.",
+          "es": "El visionario: «La perfección nunca es casualidad».\\n\\n\\n\\nEste AK-15 ha sido creado como una demostración de cómo debe ser el arma del futuro. Materiales compuestos de alta resistencia basados en compuestos anómalos, un módulo inteligente de control de munición y un diseño llevado al equilibrio absoluto permiten al propietario concentrarse en una sola cosa: tomar decisiones.\\n\\nMientras otros cuentan los cartuchos de memoria, el Protocolo 0 ya ha cambiado todo el combate.",
+          "fr": "Le Prophète : « La perfection n’est jamais le fruit du hasard ».\\n\\n\\n\\nCe AK-15 a été conçu comme une démonstration de ce que doit être l’arme du futur. Des matériaux composites haute résistance à base de composés anormaux, un module intelligent de contrôle des munitions et une conception portée à un équilibre absolu permettent à son utilisateur de se concentrer sur une seule chose : la prise de décision.\\n\\n\\nPendant que les autres comptent les balles de mémoire, le Protocole 0 a déjà changé le cours du combat.",
+          "ko": "예언자: «완벽함은 결코 우연히 만들어지지 않는다».\\n\\n이 AK-15는 미래의 무기가 나아가야 할 방향을 보여주기 위해 제작되었다. 변칙 물질 기반의 고강도 복합 소재, 지능형 탄약 관리 모듈, 완벽한 균형에 도달한 설계는 소유자가 단 하나의 것에만 집중할 수 있도록 한다 — 판단.\\n다른 이들이 기억에 의존해 탄약을 세는 동안, 프로토콜 0은 이미 전투의 판도를 뒤집었다."
+        }
+      }
+    },
+    {}
+  ]
+}

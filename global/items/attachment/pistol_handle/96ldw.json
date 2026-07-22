@@ -130,7 +130,62 @@
         "type": "text",
         "text": ""
       },
-      "elements": []
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.recoil_gain",
+            "args": {},
+            "lines": {
+              "ru": "Нарастание отдачи",
+              "en": "Recoil buildup",
+              "es": "Acumulación de retroceso",
+              "fr": "Accumulation du recul",
+              "ko": "반동 누적"
+            }
+          },
+          "value": -2.9999971,
+          "formatted": {
+            "value": {
+              "ru": "-3%",
+              "en": "-3%",
+              "es": "-3 %",
+              "fr": "-3%",
+              "ko": "-3%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.wiggle",
+            "args": {},
+            "lines": {
+              "ru": "Покачивание",
+              "en": "Sway",
+              "es": "Oscilación",
+              "fr": "Balancement",
+              "ko": "흔들림"
+            }
+          },
+          "value": -1.9999981,
+          "formatted": {
+            "value": {
+              "ru": "-2%",
+              "en": "-2%",
+              "es": "-2 %",
+              "fr": "-2%",
+              "ko": "-2%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
     },
     {
       "type": "list",
