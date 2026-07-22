@@ -1,0 +1,292 @@
+{
+  "id": "l332",
+  "category": "backpacks",
+  "name": {
+    "type": "translation",
+    "key": "item.bag.hellboy.name",
+    "args": {},
+    "lines": {
+      "ru": "Рюкзак «Хелбой»",
+      "en": "Hellboy Backpack",
+      "es": "Mochila Hellboy",
+      "fr": "Sac à dos Hellboy",
+      "ko": "헬보이 배낭"
+    }
+  },
+  "color": "RANK_NEWBIE",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.newbie",
+            "args": {},
+            "lines": {
+              "ru": "Новичок",
+              "en": "Newbie",
+              "es": "Novato",
+              "fr": "Débutant",
+              "ko": "초보자"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpacks",
+            "args": {},
+            "lines": {
+              "ru": "Рюкзаки и сумки",
+              "en": "Backpacks and Pouches",
+              "es": "Mochilas y bolsas",
+              "fr": "Pochettes et sacs à dos",
+              "ko": "배낭 및 파우치"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 4.6,
+          "formatted": {
+            "value": {
+              "ru": "4,6 кг",
+              "en": "4.6 kg",
+              "es": "4,6 kg",
+              "fr": "4,6 kg",
+              "ko": "4.6 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "general.backpack.class.heavy",
+        "args": {},
+        "lines": {
+          "ru": "Тяжелый рюкзак",
+          "en": "Heavy Backpack",
+          "es": "Mochila pesada",
+          "fr": "Sac à dos lourd",
+          "ko": "무거운 배낭"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.inner_protection",
+            "args": {},
+            "lines": {
+              "ru": "Внутренняя защита",
+              "en": "Inner protection",
+              "es": "Protección interior",
+              "fr": "Protection interne",
+              "ko": "내부 보호"
+            }
+          },
+          "value": 78.5,
+          "formatted": {
+            "value": {
+              "ru": "78,5%",
+              "en": "78.5%",
+              "es": "78,5 %",
+              "fr": "78,5%",
+              "ko": "78.5%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.stat_name.effectiveness",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность",
+              "en": "Effectiveness",
+              "es": "Eficacia",
+              "fr": "Efficacité",
+              "ko": "효율성"
+            }
+          },
+          "value": 104.99999,
+          "formatted": {
+            "value": {
+              "ru": "105%",
+              "en": "105%",
+              "es": "105 %",
+              "fr": "105%",
+              "ko": "105%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.backpack.info.size",
+            "args": {},
+            "lines": {
+              "ru": "Вместимость",
+              "en": "Capacity",
+              "es": "Capacidad",
+              "fr": "Capacité",
+              "ko": "용량"
+            }
+          },
+          "value": 3.0,
+          "formatted": {
+            "value": {
+              "ru": "0/3",
+              "en": "0/3",
+              "es": "0/3",
+              "fr": "0/3",
+              "ko": "0/3"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "value": 18.0,
+          "formatted": {
+            "value": {
+              "ru": "18",
+              "en": "18",
+              "es": "18",
+              "fr": "18",
+              "ko": "18"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.bag.hellboy.description",
+        "args": {},
+        "lines": {
+          "ru": "Достаточно объемный рюкзак, в который были интегрированы три средненьких контейнера под артефакты. Свое название получил за визуальное сходство с одноименным персонажем.",
+          "en": "A fairly spacious backpack that comes equipped with two average-sized artifact containers. It gets its name from its visual similarity to the character of the same name.",
+          "es": "Una mochila bastante espaciosa, en la que se integraron tres contenedores medianos para artefactos. Recibió su nombre por su parecido visual con el personaje del mismo nombre.",
+          "fr": "Sac volumineux intégrant trois conteneurs moyens pour artefacts. Son nom vient de sa ressemblance visuelle avec le personnage éponyme.",
+          "ko": "중간 크기의 아티팩트 컨테이너 두 개가 기본 장착된, 비교적 넉넉한 수납 공간을 지닌 배낭이다. 이름은 해당 동명의 캐릭터와의 비슷한 외관에서 유래되었다."
+        }
+      }
+    }
+  ]
+}
