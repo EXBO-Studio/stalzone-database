@@ -2069,6 +2069,219 @@
     }
   },
   {
+    "id": "pres-match-hist",
+    "category": "NONE",
+    "type": "SLIDING_MATCH_HISTORY",
+    "name": {
+      "type": "text",
+      "text": ""
+    }
+  },
+  {
+    "id": "pres-plays",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-plays",
+      "args": {},
+      "lines": {
+        "ru": "Проведено игр в рейтинге Колизея",
+        "en": "Games played in Coliseum Ranked Mode",
+        "es": "Partidas jugadas en la Clasificación de Coliseo",
+        "fr": "Parties jouées en mode classé Colisée",
+        "ko": "콜로세움 랭킹 플레이 횟수"
+      }
+    }
+  },
+  {
+    "id": "pres-wins",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-wins",
+      "args": {},
+      "lines": {
+        "ru": "Побед в рейтинге Колизея",
+        "en": "Wins in Coliseum Ranked Mode",
+        "es": "Victorias en la Clasificación de Coliseo",
+        "fr": "Victoires en mode classé Colisée",
+        "ko": "콜로세움 랭킹 승리 횟수"
+      }
+    }
+  },
+  {
+    "id": "pres-kills",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-kills",
+      "args": {},
+      "lines": {
+        "ru": "Убито игроков в рейтинге Колизея",
+        "en": "Players killed in Coliseum Ranked Mode",
+        "es": "Jugadores eliminados en la Clasificación de Coliseo",
+        "fr": "Joueurs éliminés en mode classé Colisée",
+        "ko": "콜로세움 랭킹 처치한 플레이어 수"
+      }
+    }
+  },
+  {
+    "id": "pres-deaths",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-deaths",
+      "args": {},
+      "lines": {
+        "ru": "Смертей в рейтинге Колизея",
+        "en": "Deaths in Coliseum Ranked Mode",
+        "es": "Muertes en la Clasificación de Coliseo",
+        "fr": "Morts en mode classé Colisée",
+        "ko": "콜로세움 랭킹 사망 횟수"
+      }
+    }
+  },
+  {
+    "id": "pres-captures",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-captures",
+      "args": {},
+      "lines": {
+        "ru": "Захвачено Разломов в рейтинге Колизея",
+        "en": "Rifts captured in Coliseum Ranked Mode",
+        "es": "Grietas capturadas en la Clasificación de Coliseo",
+        "fr": "Failles capturées en mode classé Colisée",
+        "ko": "콜로세움 랭킹 균열 점령 횟수"
+      }
+    }
+  },
+  {
+    "id": "pres-bat-plc",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-bat-plc",
+      "args": {},
+      "lines": {
+        "ru": "Внесено Батарей в Установки в рейтинге Колизея",
+        "en": "Batteries deposited into Generators in Coliseum Ranked Mode",
+        "es": "Baterías entregadas en Instalaciones en la Clasificación de Coliseo",
+        "fr": "Batteries livrées aux Installations en mode classé Colisée",
+        "ko": "콜로세움 랭킹 시설에 투입한 배터리 수"
+      }
+    }
+  },
+  {
+    "id": "pres-recharged",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-recharged",
+      "args": {},
+      "lines": {
+        "ru": "Заряжено Установок в рейтинге Колизея",
+        "en": "Generators charged in Coliseum Ranked Mode",
+        "es": "Instalaciones cargadas en la Clasificación de Coliseo",
+        "fr": "Installations chargées en mode classé Colisée",
+        "ko": "콜로세움 랭킹 충전한 시설 수"
+      }
+    }
+  },
+  {
+    "id": "pres-plr-spot",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-plr-spot",
+      "args": {},
+      "lines": {
+        "ru": "Обнаружено противников в рейтинге Колизея",
+        "en": "Enemies detected in Coliseum Ranked Mode",
+        "es": "Enemigos detectados en la Clasificación de Coliseo",
+        "fr": "Ennemis détectés en mode classé Colisée",
+        "ko": "콜로세움 랭킹 발견한 적 수"
+      }
+    }
+  },
+  {
+    "id": "pres-cmbt-pts",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-cmbt-pts",
+      "args": {},
+      "lines": {
+        "ru": "Набрано боевых очков в рейтинге Колизея",
+        "en": "Combat points scored in Coliseum Ranked Mode",
+        "es": "Puntos de combate obtenidos en la Clasificación de Coliseo",
+        "fr": "Points de combat obtenus en mode classé Colisée",
+        "ko": "콜로세움 랭킹 획득한 전투 점수"
+      }
+    }
+  },
+  {
+    "id": "pres-sup-pts",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-sup-pts",
+      "args": {},
+      "lines": {
+        "ru": "Набрано очков поддержки в рейтинге Колизея",
+        "en": "Support points scored in Coliseum Ranked Mode",
+        "es": "Puntos de apoyo obtenidos en la Clasificación de Coliseo",
+        "fr": "Points de soutien obtenus en mode classé Colisée",
+        "ko": "콜로세움 랭킹 획득한 지원 점수"
+      }
+    }
+  },
+  {
+    "id": "pres-ctrl-pts",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-ctrl-pts",
+      "args": {},
+      "lines": {
+        "ru": "Набрано очков объектов в рейтинге Колизея",
+        "en": "Objective points scored in Coliseum Ranked Mode",
+        "es": "Puntos de objetivos obtenidos en la Clasificación de Coliseo",
+        "fr": "Points d\u0027objectif obtenus en mode classé Colisée",
+        "ko": "콜로세움 랭킹 획득한 목표물 점수"
+      }
+    }
+  },
+  {
+    "id": "pres-revives",
+    "category": "SESSION_MODES",
+    "type": "INTEGER",
+    "name": {
+      "type": "translation",
+      "key": "general.stats.stat.pres-revives",
+      "args": {},
+      "lines": {
+        "ru": "Возрождено игроков в рейтинге Колизея",
+        "en": "Players revived in Coliseum Ranked Mode",
+        "es": "Jugadores reanimados en la Clasificación de Coliseo",
+        "fr": "Joueurs réanimés en mode classé Colisée",
+        "ko": "콜로세움 랭킹 부활시킨 플레이어 수"
+      }
+    }
+  },
+  {
     "id": "cha-mes-sen",
     "category": "EXPLORATION",
     "type": "INTEGER",
