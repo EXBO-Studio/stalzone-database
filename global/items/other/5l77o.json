@@ -187,6 +187,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.cont.bale.name",
+            "args": {},
+            "lines": {
+              "ru": "Контейнер «Тюк»",
+              "en": "Bale Container",
+              "es": "Contenedor Fardo",
+              "fr": "Conteneur « Ballot »",
+              "ko": "꾸러미 컨테이너"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.cont.ksm.name",
             "args": {},
             "lines": {

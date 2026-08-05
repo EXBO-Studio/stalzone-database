@@ -1981,6 +1981,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.protecta.name",
+            "args": {},
+            "lines": {
+              "ru": "Protecta",
+              "en": "Protecta",
+              "es": "Protecta",
+              "fr": "Protecta",
+              "ko": "프로텍타"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.m1014_breacher.name",
             "args": {},
             "lines": {

@@ -8060,6 +8060,26 @@
     }
   },
   {
+    "data": "/items/containers/v667.json",
+    "icon": "/icons/containers/v667.png",
+    "name": {
+      "type": "translation",
+      "key": "item.cont.bale.name",
+      "args": {},
+      "lines": {
+        "ru": "Контейнер «Тюк»",
+        "en": "Bale Container",
+        "es": "Contenedor Fardo",
+        "fr": "Conteneur « Ballot »",
+        "ko": "꾸러미 컨테이너"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/containers/2vvv.json",
     "icon": "/icons/containers/2vvv.png",
     "name": {
