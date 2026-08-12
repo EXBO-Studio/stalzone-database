@@ -14950,5 +14950,313 @@
       }
     },
     "points": 10
+  },
+  {
+    "id": "pres_wipe_rating",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_wipe_rating.title",
+      "args": {},
+      "lines": {
+        "ru": "Разносчик",
+        "en": "Carrier",
+        "es": "Aniquilador",
+        "fr": "Démolisseur",
+        "ko": "파괴자"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_wipe_rating.desc",
+      "args": {},
+      "lines": {
+        "ru": "В рейтинге Колизея единолично уничтожить отряд.",
+        "en": "Single-handedly eliminate a squad in Coliseum ranked mode.",
+        "es": "Elimina en solitario a un escuadrón en el modo clasificatorio del Coliseo.",
+        "fr": "Dans le mode classé « Colisée », éliminer une équipe entière en solo.",
+        "ko": "콜로세움 랭크에서 홀로 분대를 섬멸했다."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "pres_two_batteries",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_two_batteries.title",
+      "args": {},
+      "lines": {
+        "ru": "Амбидекстр",
+        "en": "Ambidextrous",
+        "es": "Ambidiestro",
+        "fr": "Ambidextre",
+        "ko": "양손잡이"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_two_batteries.desc",
+      "args": {},
+      "lines": {
+        "ru": "Внесите обе Батареи за один раунд в рейтинге Колизея.",
+        "en": "Deposit both Batteries in one round of Coliseum ranked mode.",
+        "es": "Entrega ambas Baterías en una ronda de la clasificación del Coliseo.",
+        "fr": "Faites entrer les deux Batteries en un seul tour dans le classement du Colisée.",
+        "ko": "콜로세움 랭크에서 한 라운드에 두 배터리를 모두 반입했다."
+      }
+    },
+    "points": 10
+  },
+  {
+    "id": "pres_two_rechargers",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_two_rechargers.title",
+      "args": {},
+      "lines": {
+        "ru": "Твердый энергетик",
+        "en": "Solid Energizer",
+        "es": "Energético duro",
+        "fr": "Énergétique solide",
+        "ko": "고체 에너지 음료"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_two_rechargers.desc",
+      "args": {},
+      "lines": {
+        "ru": "Завершите зарядку обоих Установок в рамках одного раунда рейтинга Колизея.",
+        "en": "Complete the charging of both Generators within a single Coliseum ranking round.",
+        "es": "Completa la carga de ambos Generadores en una misma ronda de clasificación del Coliseo.",
+        "fr": "Complétez la recharge des deux Installations dans le cadre d\u0027un seul tour de classement du Colisée.",
+        "ko": "콜로세움 랭크에서 한 라운드에 두 시설의 충전을 모두 완료했다."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "pres_all_first",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_all_first.title",
+      "args": {},
+      "lines": {
+        "ru": "Квадрюпель",
+        "en": "Quadruple",
+        "es": "Cuádruple",
+        "fr": "Quadrupel",
+        "ko": "쿼드루펠"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_all_first.desc",
+      "args": {},
+      "lines": {
+        "ru": "Занимать первую позицию по исходу всех 4 раундов рейтинга Колизея.",
+        "en": "Hold first place at the end of all 4 rounds of Coliseum ranked mode.",
+        "es": "Ocupa la primera posición al final de las 4 rondas de la clasificación del Coliseo.",
+        "fr": "Occuper la première position pour le résultat des 4 tours du classement du Colisée.",
+        "ko": "콜로세움 랭크의 4개 라운드 모두에서 최종 순위 1위를 차지했다."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "pres_clutch",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_clutch.title",
+      "args": {},
+      "lines": {
+        "ru": "Ошибка расчета",
+        "en": "Calculation Error",
+        "es": "Error de cálculo",
+        "fr": "Erreur de calcul",
+        "ko": "계산 오류"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_clutch.desc",
+      "args": {},
+      "lines": {
+        "ru": "Закончить один из раундов рейтингового матча последними, после чего выиграть игру.",
+        "en": "Finish one round of a ranked match in last place, then go on to win the game.",
+        "es": "Termina una de las rondas de una partida de clasificación en último lugar y luego gana la partida.",
+        "fr": "Terminer l\u0027un des tours du match classé en dernier, puis gagner la partie.",
+        "ko": "랭크 매치의 라운드 중 한 라운드에서 꼴찌로 마친 후 게임에서 승리했다."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "pres_win_50",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_win_50.title",
+      "args": {},
+      "lines": {
+        "ru": "Полтинник",
+        "en": "Fifty",
+        "es": "Cincuenta",
+        "fr": "Le Cap des 50",
+        "ko": "오십"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_win_50.desc",
+      "args": {},
+      "lines": {
+        "ru": "Выиграйте 50 игр в рейтинге Колизея.",
+        "en": "Win 50 games in Coliseum ranked mode.",
+        "es": "Gana 50 partidas en la clasificación del Coliseo.",
+        "fr": "Gagnez 50 parties en mode classé Colisée.",
+        "ko": "콜로세움 랭크에서 50회 승리했다."
+      }
+    },
+    "points": 10
+  },
+  {
+    "id": "pres_win_500",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_win_500.title",
+      "args": {},
+      "lines": {
+        "ru": "Пятихаточка",
+        "en": "Five Hundred",
+        "es": "Quinientas",
+        "fr": "Le Demi-Millier",
+        "ko": "오백"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_win_500.desc",
+      "args": {},
+      "lines": {
+        "ru": "Выиграйте 500 игр в рейтинге Колизея.",
+        "en": "Win 500 games in Coliseum ranked mode.",
+        "es": "Gana 500 partidas en la clasificación del Coliseo.",
+        "fr": "Gagnez 500 parties en mode classé Colisée.",
+        "ko": "콜로세움 랭크에서 500회 승리했다."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "pres_win_1000",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_win_1000.title",
+      "args": {},
+      "lines": {
+        "ru": "ТЫЩА",
+        "en": "THOUSAND",
+        "es": "MIL",
+        "fr": "MILLE",
+        "ko": "천!"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_win_1000.desc",
+      "args": {},
+      "lines": {
+        "ru": "Выиграйте 1000 игр в рейтинге Колизея.",
+        "en": "Win 1,000 games in Coliseum ranked mode.",
+        "es": "Gana 1000 partidas en la clasificación del Coliseo.",
+        "fr": "Gagnez 1000 parties en mode classé Colisée.",
+        "ko": "콜로세움 랭크에서 1000회 승리했다."
+      }
+    },
+    "points": 20
+  },
+  {
+    "id": "pres_wipe_free",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_wipe_free.title",
+      "args": {},
+      "lines": {
+        "ru": "А в рейтинге слабо?",
+        "en": "Too scared to try it in ranked?",
+        "es": "¿A que no te atreves en clasificatoria?",
+        "fr": "Même pas cap en classé ?",
+        "ko": "랭크에서는 자신 없나?"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_wipe_free.desc",
+      "args": {},
+      "lines": {
+        "ru": "В свободной игре Колизея единолично уничтожить отряд.",
+        "en": "Single-handedly eliminate a squad in Coliseum free play.",
+        "es": "Elimina en solitario a un escuadrón en una partida libre del Coliseo.",
+        "fr": "Dans le mode libre du Colisée, détruire une équipe en solo.",
+        "ko": "콜로세움 자유 경기에서 홀로 분대를 섬멸했다."
+      }
+    },
+    "points": 10
+  },
+  {
+    "id": "pres_recharger",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_recharger.title",
+      "args": {},
+      "lines": {
+        "ru": "Авторские права",
+        "en": "Copyright",
+        "es": "Derechos de autor",
+        "fr": "Droits d\u0027auteur",
+        "ko": "저작권"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_recharger.desc",
+      "args": {},
+      "lines": {
+        "ru": "Вы не позволили никому захватить Установку на протяжении всего процесса её зарядки.",
+        "en": "You didn’t let anyone capture the Generator at any point while it was charging.",
+        "es": "No has permitido que nadie capture el Generador durante todo su proceso de carga.",
+        "fr": "Vous n\u0027avez permis à personne de prendre le contrôle de l\u0027Installation pendant toute la durée de sa charge.",
+        "ko": "장치 충전이 완료될 때까지 누구에게도 시설을 점령당하지 않았다."
+      }
+    },
+    "points": 10
+  },
+  {
+    "id": "pres_explosive_canister",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_explosive_canister.title",
+      "args": {},
+      "lines": {
+        "ru": "Сын тротила",
+        "en": "Son of TNT",
+        "es": "Hijo de la dinamita",
+        "fr": "Le fils du TNT",
+        "ko": "TNT의 아들"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.pres_explosive_canister.desc",
+      "args": {},
+      "lines": {
+        "ru": "Убить противника броском Взрывного Заряда.",
+        "en": "Kill an enemy by throwing a Blast Barrel.",
+        "es": "Mata a un rival lanzando una Carga explosiva.",
+        "fr": "Tuer un ennemi en lançant une Charge explosive.",
+        "ko": "폭발 충전기를 투척하여 적 처치했다."
+      }
+    },
+    "points": 10
   }
 ]

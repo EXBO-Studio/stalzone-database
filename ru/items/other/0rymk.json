@@ -187,14 +187,14 @@
           "type": "item",
           "name": {
             "type": "translation",
-            "key": "item.cont.bale.name",
+            "key": "item.bag.bale.name",
             "args": {},
             "lines": {
-              "ru": "Контейнер «Тюк»",
-              "en": "Bale Container",
-              "es": "Contenedor Fardo",
-              "fr": "Conteneur « Ballot »",
-              "ko": "꾸러미 컨테이너"
+              "ru": "Сумка «Тюк»",
+              "en": "Bale Bag",
+              "es": "Bolsa Fardo",
+              "fr": "Sac « Ballot »",
+              "ko": "꾸러미 가방"
             }
           }
         },
@@ -329,7 +329,7 @@
               "en": "Sheaf Container",
               "es": "Contenedor Haz",
               "fr": "Conteneur Fagot",
-              "ko": "층 컨테이너"
+              "ko": "묶음 컨테이너"
             }
           }
         },

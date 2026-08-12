@@ -1,16 +1,16 @@
 {
   "id": "v667",
-  "category": "containers",
+  "category": "backpacks",
   "name": {
     "type": "translation",
-    "key": "item.cont.bale.name",
+    "key": "item.bag.bale.name",
     "args": {},
     "lines": {
-      "ru": "Контейнер «Тюк»",
-      "en": "Bale Container",
-      "es": "Contenedor Fardo",
-      "fr": "Conteneur « Ballot »",
-      "ko": "꾸러미 컨테이너"
+      "ru": "Сумка «Тюк»",
+      "en": "Bale Bag",
+      "es": "Bolsa Fardo",
+      "fr": "Sac « Ballot »",
+      "ko": "꾸러미 가방"
     }
   },
   "color": "RANK_MASTER",
@@ -68,14 +68,14 @@
           },
           "value": {
             "type": "translation",
-            "key": "core.handbook.category.containers",
+            "key": "core.handbook.category.backpacks",
             "args": {},
             "lines": {
-              "ru": "Контейнеры",
-              "en": "Containers",
-              "es": "Contenedores",
-              "fr": "Conteneurs",
-              "ko": "컨테이너"
+              "ru": "Рюкзаки и сумки",
+              "en": "Backpacks and Pouches",
+              "es": "Mochilas y bolsas",
+              "fr": "Pochettes et sacs à dos",
+              "ko": "배낭 및 파우치"
             }
           }
         },
@@ -385,14 +385,14 @@
       },
       "text": {
         "type": "translation",
-        "key": "item.cont.bale.description",
+        "key": "item.bag.bale.description",
         "args": {},
         "lines": {
-          "ru": "Разработка НИИ-7, созданная на основе трофейного снаряжения Первопроходцев.\\nПри разработке использовалась типичная для контейнеров серии «КЗК» схема сборки, что позволило оптимизировать конструкцию «Вязанки» под более эргономичный вариант. Однако для этого пришлось пожертвовать объемом контейнера.\\nИнженеры, работавшие над новым контейнером, подмечают, что некоторые технические решения схожи с теми, что имеются в других реликтовых технологиях, найденных в Зоне.",
-          "en": "A development by Research Institute 7 based on captured Trailblazer gear.\\nIts design used the assembly scheme typical of KZK-series containers, allowing the Sheaf’s construction to be optimized into a more ergonomic version. However, this required sacrificing container capacity.\\nThe engineers who worked on the new container note that some of its engineering solutions are similar to those found in other relic technologies discovered in the Zone.",
-          "es": "Un desarrollo del Instituto de Investigación 7, creado a partir del equipamiento capturado de los Pioneros.\\nEn su desarrollo se utilizó el esquema de montaje típico de los contenedores de la serie KZK, lo que permitió optimizar el diseño de Haz para conseguir una versión más ergonómica. Sin embargo, para ello hubo que sacrificar el volumen del contenedor.\\nLos ingenieros que trabajaron en el nuevo contenedor señalan que algunas soluciones técnicas son similares a las que se encuentran en otras tecnologías reliquia halladas en la Zona.",
-          "fr": "Développement de l\u0027Institut de Recherche 7, réalisé à partir de l\u0027équipement trophée des Pionniers.\\nLors de la conception, le schéma d\u0027assemblage typique des conteneurs de la série « KZK » a été utilisé, ce qui a permis d\u0027optimiser la structure du « Fagot » vers une version plus ergonomique. En revanche, cela s\u0027est fait au détriment du volume du conteneur.\\nLes ingénieurs ayant travaillé sur ce nouveau conteneur notent que certaines solutions techniques présentent des similitudes avec d\u0027autres technologies reliques trouvées dans la Zone.",
-          "ko": "제7연구소에서 개발한 이 장비는 개척자들의 노획 장비를 기반으로 제작되었다.\\n설계 과정에서는 KZK 시리즈 컨테이너에 사용되는 전형적인 조립 방식을 적용하여, “묶음”의 구조를 보다 인체공학적인 형태로 최적화할 수 있었다. 다만 이를 위해 컨테이너의 용량을 일부 희생해야 했다.\\n새 컨테이너를 개발한 엔지니어들은 일부 기술적 해결 방식이 구역에서 발견된 다른 유물 기술들과 유사하다고 언급한다."
+          "ru": "Разработка НИИ-7, созданная на основе трофейного снаряжения Первопроходцев.\\n\\nПри разработке контейнерной части использовалась типичная для серии «КЗК» схема сборки, что позволило оптимизировать конструкцию «Вязанки» под более эргономичный вариант и сделать полноценную сумку, вмещающую не только артефакты. Однако для этого пришлось пожертвовать вместимостью контейнерной части.\\n\\nИнженеры, работавшие над новым продуктом, подмечают, что некоторые технические решения «Вязанки» схожи с теми, что имеются в других реликтовых технологиях, найденных в Зоне.",
+          "en": "A Research Institute 7 development based on captured Trailblazer gear.\\n\\nThe container section uses an assembly layout typical of the KZK series, allowing the Sheaf’s design to be optimized into a more ergonomic form and turned into a full-fledged bag capable of carrying more than just artifacts. However, this came at the cost of reduced container capacity.\\n\\nThe engineers who worked on the new product note that some of the Sheaf’s technical solutions are similar to those found in other relic technologies discovered in the Zone.",
+          "es": "Desarrollo del Instituto de Investigación 7, creado a partir de equipamiento capturado de los Pioneros.\\n\\nDurante el desarrollo de la parte contenedora se utilizó el esquema de ensamblaje típico de la serie KZK, lo que permitió optimizar el diseño de Haz para una versión más ergonómica y crear una bolsa completa capaz de contener no solo artefactos. Sin embargo, para ello hubo que sacrificar la capacidad de la parte contenedora.\\n\\nLos ingenieros que trabajaron en el nuevo producto señalan que algunas soluciones técnicas de Haz son similares a las presentes en otras tecnologías relictas encontradas en la Zona.",
+          "fr": "Développé par l\u0027Institut de Recherche 7 à partir d\u0027un équipement récupéré des Pionniers.\\n\\nLors de la conception de la partie conteneur, les ingénieurs ont utilisé le schéma d\u0027assemblage typique de la série « KZK », ce qui a permis d\u0027optimiser la structure du « Fagot » pour une version plus ergonomique et de créer un véritable sac capable de contenir autre chose que des artefacts. Cependant, cette amélioration s\u0027est faite au détriment de la capacité de la partie conteneur.\\n\\nLes ingénieurs ayant travaillé sur ce nouveau produit soulignent que certaines solutions techniques du « Fagot » présentent des similitudes avec celles d\u0027autres technologies reliques découvertes dans la Zone.",
+          "ko": "제7연구소에서 개발한 이 장비는 개척자들의 노획 장비를 기반으로 제작되었다.\\n\\n설계 과정에서는 KZK 시리즈 컨테이너에 사용되는 전형적인 조립 방식을 적용하여, “묶음”의 구조를 보다 인체공학적인 형태로 최적화할 수 있었다. 다만 이를 위해 컨테이너의 용량을 일부 희생해야 했다.\\n\\n새 컨테이너를 개발한 엔지니어들은 일부 기술적 해결 방식이 구역에서 발견된 다른 유물 기술들과 유사하다고 언급한다."
         }
       }
     }
