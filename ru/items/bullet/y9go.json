@@ -201,6 +201,33 @@
           "type": "numeric",
           "name": {
             "type": "translation",
+            "key": "weapon.tooltip.bullet.stat_name.go_damage_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Урон по строениям",
+              "en": "Damage to structures",
+              "es": "Daño a estructuras",
+              "fr": "Dégâts aux bâtiments",
+              "ko": "구조물 피해"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "+100%",
+              "en": "+100%",
+              "es": "+100 %",
+              "fr": "+100%",
+              "ko": "+100%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
             "key": "weapon.stat_factor.armor_plate_damage",
             "args": {},
             "lines": {
