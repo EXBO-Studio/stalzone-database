@@ -1,0 +1,121 @@
+{
+  "id": "1r1wg",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.melee.downrange_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Костровой»",
+      "en": "Firekeeper",
+      "es": "Fogonero",
+      "fr": "« Feu de camp »",
+      "ko": "모닥불지기"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.melee_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик ножа",
+              "en": "Knife Style",
+              "es": "Estilo de cuchillo",
+              "fr": "Style d\u0027armes de mêlée",
+              "ko": "칼 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.melee.downrange_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Когда тьма поглощает Зону, она может забрать с собой оставшихся в мраке ночи.\\nЕдинственная надежда спастись — найти свет. И если фонарик в Зоне вещь довольно ненадежная, то костер всегда создаст спасительный луч.\\nНадежный топор — лучший друг в попытках добыть свет и оградить себя от зла.",
+          "en": "When darkness swallows the Zone, it may take those still trapped in the black of night with it.\\nYour only hope of survival is to find the light. And while a flashlight is hardly something you can count on in the Zone, a campfire will always cast a saving glow. \\nA trusty axe is your best friend when you need to make a light—and keeping evil at bay.",
+          "es": "Cuando la oscuridad engulle la Zona, puede llevarse consigo a quienes se quedan atrapados en las tinieblas de la noche.\\nLa única esperanza de sobrevivir es encontrar una fuente de luz. Y aunque una linterna es algo bastante poco fiable en la Zona, una hoguera siempre proporcionará un rayo de luz salvador.\\nUn hacha fiable es la mejor compañera a la hora de conseguir luz y protegerse del mal.",
+          "fr": "Quand les ténèbres engloutissent la Zone, elles peuvent emporter ceux qui y errent encore.\\nLe seul espoir : trouver de la lumière. Et si une lampe torche n\u0027est pas très fiable dans la Zone, un feu créera toujours un rayon salvateur.\\nUne hache fiable est le meilleur moyen d\u0027obtenir du bois et de repousser les salauds.",
+          "ko": "어둠이 구역을 집어삼키면, 밤의 암흑 속에 남겨진 이들까지 함께 데려갈 수 있습니다. \\n살아남을 유일한 희망은 빛을 찾는 것입니다. 구역에서 손전등은 그다지 믿을 만한 물건이 아니지만, 모닥불은 언제나 생명을 구할 불빛이 되어 줍니다. \\n든든한 도끼는 빛을 만들어 내고 악으로부터 자신을 지키는 데 있어 가장 믿음직한 동료입니다."
+        }
+      }
+    },
+    {}
+  ]
+}

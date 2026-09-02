@@ -829,7 +829,7 @@
       "type": "damage",
       "startDamage": 39.39146,
       "damageDecreaseStart": 28.0,
-      "endDamage": 34.21372,
+      "endDamage": 35.228962,
       "damageDecreaseEnd": 82.0,
       "maxDistance": 175.0
     },

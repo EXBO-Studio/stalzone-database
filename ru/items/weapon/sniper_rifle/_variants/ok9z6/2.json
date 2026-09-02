@@ -263,14 +263,14 @@
               "ko": "피해량"
             }
           },
-          "value": 82.53933,
+          "value": 83.25,
           "formatted": {
             "value": {
-              "ru": "82,54 ед",
-              "en": "82.54 unit(s)",
-              "es": "82,54 unidad(es)",
-              "fr": "82,54 unité(s)",
-              "ko": "82.54 유닛"
+              "ru": "83,25 ед",
+              "en": "83.25 unit(s)",
+              "es": "83,25 unidad(es)",
+              "fr": "83,25 unité(s)",
+              "ko": "83.25 유닛"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -371,14 +371,14 @@
               "ko": "재장전"
             }
           },
-          "value": 3.0,
+          "value": 2.6999998,
           "formatted": {
             "value": {
-              "ru": "3 с",
-              "en": "3 sec",
-              "es": "3 s",
-              "fr": "3 s",
-              "ko": "3초"
+              "ru": "2,7 с",
+              "en": "2.7 sec",
+              "es": "2,7 s",
+              "fr": "2,7 s",
+              "ko": "2.7초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -398,14 +398,14 @@
               "ko": "전술 재장전"
             }
           },
-          "value": 2.5,
+          "value": 2.25,
           "formatted": {
             "value": {
-              "ru": "2,5 с",
-              "en": "2.5 sec",
-              "es": "2,5 s",
-              "fr": "2,5 s",
-              "ko": "2.5초"
+              "ru": "2,25 с",
+              "en": "2.25 sec",
+              "es": "2,25 s",
+              "fr": "2,25 s",
+              "ko": "2.25초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -425,14 +425,14 @@
               "ko": "무기 인체공학"
             }
           },
-          "value": 100.0,
+          "value": 110.0,
           "formatted": {
             "value": {
-              "ru": "100%",
-              "en": "100%",
-              "es": "100 %",
-              "fr": "100%",
-              "ko": "100%"
+              "ru": "110%",
+              "en": "110%",
+              "es": "110 %",
+              "fr": "110%",
+              "ko": "110%"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -452,14 +452,14 @@
               "ko": "탄퍼짐"
             }
           },
-          "value": 0.099999905,
+          "value": 0.07999992,
           "formatted": {
             "value": {
-              "ru": "0,1°",
-              "en": "0.1°",
-              "es": "0,1°",
-              "fr": "0,1°",
-              "ko": "0.1°"
+              "ru": "0,08°",
+              "en": "0.08°",
+              "es": "0,08°",
+              "fr": "0,08°",
+              "ko": "0.08°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -533,14 +533,14 @@
               "ko": "수평 반동"
             }
           },
-          "value": 0.2,
+          "value": 0.15,
           "formatted": {
             "value": {
-              "ru": "0,2°",
-              "en": "0.2°",
-              "es": "0,2°",
-              "fr": "0,2°",
-              "ko": "0.2°"
+              "ru": "0,15°",
+              "en": "0.15°",
+              "es": "0,15°",
+              "fr": "0,15°",
+              "ko": "0.15°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -784,9 +784,9 @@
     },
     {
       "type": "damage",
-      "startDamage": 82.53933,
+      "startDamage": 83.25,
       "damageDecreaseStart": 40.0,
-      "endDamage": 82.53933,
+      "endDamage": 83.25,
       "damageDecreaseEnd": 80.0,
       "maxDistance": 210.0
     },

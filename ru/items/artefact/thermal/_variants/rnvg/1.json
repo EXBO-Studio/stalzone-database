@@ -290,6 +290,62 @@
           "type": "range",
           "name": {
             "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 0.5202,
+          "max": 0.612,
+          "formatted": {
+            "value": {
+              "ru": "[+0,52%; +0,61%]",
+              "en": "[+0.52%; +0.61%]",
+              "es": "[+0,52 %; +0,61 %]",
+              "fr": "[+0,52%; +0,61%]",
+              "ko": "[+0.52%; +0.61%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.heal_efficiency",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность лечения",
+              "en": "Healing effectiveness",
+              "es": "Eficacia de curación",
+              "fr": "Efficacité des soins",
+              "ko": "치유 효율"
+            }
+          },
+          "min": 4.4217,
+          "max": 5.2019997,
+          "formatted": {
+            "value": {
+              "ru": "[+4,42%; +5,2%]",
+              "en": "[+4.42%; +5.2%]",
+              "es": "[+4,42 %; +5,2 %]",
+              "fr": "[+4,42%; +5,2%]",
+              "ko": "[+4.42%; +5.2%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
             "key": "stalker.artefact_properties.factor.thermal_accumulation",
             "args": {},
             "lines": {

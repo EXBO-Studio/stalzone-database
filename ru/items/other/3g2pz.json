@@ -817,6 +817,36 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.vozduhan.name",
+            "args": {},
+            "lines": {
+              "ru": "«Воздухан»",
+              "en": "Capper",
+              "es": "Vendehumo",
+              "fr": "« Tchatcheur »",
+              "ko": "허언증"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.six12_sd_fg.name",
+            "args": {},
+            "lines": {
+              "ru": "SIX12 первопроходцев Севера",
+              "en": "SIX12 Trailblazers of the North",
+              "es": "SIX12 Pioneros del norte",
+              "fr": "SIX12 Pionniers du Nord",
+              "ko": "SIX12 북방 개척자들"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.mk12.name",
             "args": {},
             "lines": {

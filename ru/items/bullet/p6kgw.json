@@ -93,14 +93,14 @@
               "ko": "무게"
             }
           },
-          "value": 8.0,
+          "value": 7.7,
           "formatted": {
             "value": {
-              "ru": "8 кг",
-              "en": "8 kg",
-              "es": "8 kg",
-              "fr": "8 kg",
-              "ko": "8 kg"
+              "ru": "7,7 кг",
+              "en": "7.7 kg",
+              "es": "7,7 kg",
+              "fr": "7,7 kg",
+              "ko": "7.7 kg"
             },
             "nameColor": "838383",
             "valueColor": "838383"

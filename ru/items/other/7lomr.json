@@ -1,0 +1,121 @@
+{
+  "id": "7lomr",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.arm.albatros_interceptor_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Покровник»",
+      "en": "Veil",
+      "es": "Mantenedor",
+      "fr": "« Couvre-corps »",
+      "ko": "수호자"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик брони",
+              "en": "Armor Style",
+              "es": "Estilo de armadura",
+              "fr": "Style d\u0027armure",
+              "ko": "방어구 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.arm.albatros_interceptor_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Не броня, но покров. Не защита, но спасение жизни.\\n\\nВо времена, когда реальность ломает разум, когда ужас своим явлением замедляет темп сердца, это творение, что пропитано надеждой и искренней верой в ритуалы, дает шанс пережить встречу с неизведанным и глубинным воплощением самого страха.",
+          "en": "Not armor, but a mantle. Not protection, but salvation.\\n\\nIn times when reality breaks the mind, when horror itself slows the beating of the heart, this creation — steeped in hope and sincere faith in ritual — offers a chance to survive an encounter with the unknown, with the deep embodiment of fear itself.",
+          "es": "No es armadura, sino manto. No es protección, sino salvación.\\n\\nEn tiempos en que la realidad rompe la mente, cuando el horror con su sola aparición ralentiza el latido del corazón, esta creación, impregnada de esperanza y de una fe sincera en los rituales, da una oportunidad de sobrevivir al encuentro con lo desconocido y con la encarnación profunda del propio miedo.",
+          "fr": "Ce n\u0027est pas une armure, mais un voile. Ce n\u0027est pas une protection, mais un salut.\\n\\nAux heures où la réalité brise l\u0027esprit, où l\u0027horreur par sa simple présence ralentit les battements du cœur, cette création imprégnée d\u0027espoir et de foi sincère en les rituels offre une chance de survivre à la rencontre avec l\u0027inconnu et l\u0027incarnation profonde de la peur elle-même.",
+          "ko": "갑옷은 아니지만 몸을 감싸는 덮개이며, 방어구는 아니지만 목숨을 구해 주는 물건이다.\\n\\n 현실이 정신을 무너뜨리고, 공포가 모습을 드러내는 것만으로 심장이 멎을 듯한 순간. 희망과 의식에 대한 진실된 믿음이 스며든 이 물건은, 미지의 존재이자 공포 그 자체의 심연에 자리한 형상과 마주하고도 살아남을 기회를 준다."
+        }
+      }
+    },
+    {}
+  ]
+}

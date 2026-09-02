@@ -262,14 +262,14 @@
               "ko": "피해량"
             }
           },
-          "value": 59.0,
+          "value": 62.5,
           "formatted": {
             "value": {
-              "ru": "59 ед",
-              "en": "59 unit(s)",
-              "es": "59 unidad(es)",
-              "fr": "59 unité(s)",
-              "ko": "59 유닛"
+              "ru": "62,5 ед",
+              "en": "62.5 unit(s)",
+              "es": "62,5 unidad(es)",
+              "fr": "62,5 unité(s)",
+              "ko": "62.5 유닛"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -752,14 +752,14 @@
             "type": "translation",
             "key": "weapon.tooltip.weapon.info.overheat_after",
             "args": {
-              "value": "36.0"
+              "value": "41.0"
             },
             "lines": {
-              "ru": "Перегрев через 36 выстрелов непрерывной стрельбы",
-              "en": "Overheats after 36 consecutive shots",
-              "es": "Se sobrecalienta tras 36 disparos de fuego continuo",
-              "fr": "Surchauffe après 36 coups en feu continu",
-              "ko": "36발 연속 발포 후 과열"
+              "ru": "Перегрев через 41 выстрелов непрерывной стрельбы",
+              "en": "Overheats after 41 consecutive shots",
+              "es": "Se sobrecalienta tras 41 disparos de fuego continuo",
+              "fr": "Surchauffe après 41 coups en feu continu",
+              "ko": "41발 연속 발포 후 과열"
             }
           }
         }
@@ -783,9 +783,9 @@
     },
     {
       "type": "damage",
-      "startDamage": 59.0,
+      "startDamage": 62.5,
       "damageDecreaseStart": 40.0,
-      "endDamage": 59.0,
+      "endDamage": 62.5,
       "damageDecreaseEnd": 80.0,
       "maxDistance": 185.0
     },

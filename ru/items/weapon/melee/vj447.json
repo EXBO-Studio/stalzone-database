@@ -1,0 +1,503 @@
+{
+  "id": "vj447",
+  "category": "weapon/melee",
+  "name": {
+    "type": "translation",
+    "key": "item.melee.cryomancer.name",
+    "args": {},
+    "lines": {
+      "ru": "«Криомансер»",
+      "en": "Cryomancer",
+      "es": "Criomante",
+      "fr": "Cryomancien",
+      "ko": "크리오맨서"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.melee",
+            "args": {},
+            "lines": {
+              "ru": "Ближний бой",
+              "en": "Melee Weapons",
+              "es": "Armas cuerpo a cuerpo",
+              "fr": "Arme de mêlée",
+              "ko": "근접 무기"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.type",
+            "args": {},
+            "lines": {
+              "ru": "Тип",
+              "en": "Type",
+              "es": "Tipo",
+              "fr": "Type",
+              "ko": "종류"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "item.melee.hunter.type",
+            "args": {},
+            "lines": {
+              "ru": "Охотничий",
+              "en": "Hunter",
+              "es": "Cazador",
+              "fr": "Chasseur",
+              "ko": "사냥꾼"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.7,
+          "formatted": {
+            "value": {
+              "ru": "0,7 кг",
+              "en": "0.7 kg",
+              "es": "0,7 kg",
+              "fr": "0,7 kg",
+              "ko": "0.7 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.stat_name.damage_type.freeze",
+            "args": {},
+            "lines": {
+              "ru": "Морозный урон",
+              "en": "Frost damage",
+              "es": "Daño de congelación",
+              "fr": "Dégâts dus au gel",
+              "ko": "서리 피해량"
+            }
+          },
+          "value": 3.0,
+          "formatted": {
+            "value": {
+              "ru": "3%",
+              "en": "3%",
+              "es": "3 %",
+              "fr": "3%",
+              "ko": "3%"
+            },
+            "nameColor": "F1AA21",
+            "valueColor": "F1AA21"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "value": 7.0,
+          "formatted": {
+            "value": {
+              "ru": "7%",
+              "en": "7%",
+              "es": "7 %",
+              "fr": "7%",
+              "ko": "7%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.info.damage.min.common",
+            "args": {},
+            "lines": {
+              "ru": "Быстрый удар (мин)",
+              "en": "Quick attack (min)",
+              "es": "Ataque rápido (mín.)",
+              "fr": "Attaque rapide (min)",
+              "ko": "빠른 공격 (최소)"
+            }
+          },
+          "value": 53.0,
+          "formatted": {
+            "value": {
+              "ru": "53 ед",
+              "en": "53 unit(s)",
+              "es": "53 unidad(es)",
+              "fr": "53 unité(s)",
+              "ko": "53 유닛"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.info.damage.max.common",
+            "args": {},
+            "lines": {
+              "ru": "Быстрый удар (макс)",
+              "en": "Quick attack (max)",
+              "es": "Ataque rápido (máx.)",
+              "fr": "Attaque rapide (max)",
+              "ko": "빠른 공격 (최대)"
+            }
+          },
+          "value": 72.0,
+          "formatted": {
+            "value": {
+              "ru": "72 ед",
+              "en": "72 unit(s)",
+              "es": "72 unidad(es)",
+              "fr": "72 unité(s)",
+              "ko": "72 유닛"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.info.damage.min.strong",
+            "args": {},
+            "lines": {
+              "ru": "Сильный удар (мин)",
+              "en": "Strong attack (min)",
+              "es": "Ataque potente (mín.)",
+              "fr": "Attaque puissante (min)",
+              "ko": "강한 공격 (최소)"
+            }
+          },
+          "value": 97.0,
+          "formatted": {
+            "value": {
+              "ru": "97 ед",
+              "en": "97 unit(s)",
+              "es": "97 unidad(es)",
+              "fr": "97 unité(s)",
+              "ko": "97 유닛"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.info.damage.max.strong",
+            "args": {},
+            "lines": {
+              "ru": "Сильный удар (макс)",
+              "en": "Strong attack (max)",
+              "es": "Ataque potente (máx.)",
+              "fr": "Attaque puissante (max)",
+              "ko": "강한 공격 (최대)"
+            }
+          },
+          "value": 132.0,
+          "formatted": {
+            "value": {
+              "ru": "132 ед",
+              "en": "132 unit(s)",
+              "es": "132 unidad(es)",
+              "fr": "132 unité(s)",
+              "ko": "132 유닛"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.info.reach.common",
+            "args": {},
+            "lines": {
+              "ru": "Досягаемость (быстр)",
+              "en": "Weapon reach (quick)",
+              "es": "Alcance del arma (rápido)",
+              "fr": "Portée de l\u0027arme (rapide)",
+              "ko": "무기 사거리 (빠른 공격)"
+            }
+          },
+          "value": 2.2,
+          "formatted": {
+            "value": {
+              "ru": "2,2 м",
+              "en": "2.2 m",
+              "es": "2,2 m",
+              "fr": "2,2 m",
+              "ko": "2.2 미터"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.info.reach.strong",
+            "args": {},
+            "lines": {
+              "ru": "Досягаемость (сильн)",
+              "en": "Weapon reach (strong)",
+              "es": "Alcance del arma (potente)",
+              "fr": "Portée de l\u0027arme (puissante)",
+              "ko": "무기 사거리 (강력 공격)"
+            }
+          },
+          "value": 2.2,
+          "formatted": {
+            "value": {
+              "ru": "2,2 м",
+              "en": "2.2 m",
+              "es": "2,2 m",
+              "fr": "2,2 m",
+              "ko": "2.2 미터"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.stat_name.piercing",
+            "args": {},
+            "lines": {
+              "ru": "Пробиваемость",
+              "en": "Penetration",
+              "es": "Perforación",
+              "fr": "Pénétration",
+              "ko": "관통력"
+            }
+          },
+          "value": 11.25,
+          "formatted": {
+            "value": {
+              "ru": "11,25%",
+              "en": "11.25%",
+              "es": "11,25 %",
+              "fr": "11,25%",
+              "ko": "11.25%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.stat_name.bloodlust_chance",
+            "args": {},
+            "lines": {
+              "ru": "Шанс глубокого ранения",
+              "en": "Chance for a deep wound",
+              "es": "Probabilidad de herida profunda",
+              "fr": "Chance de blessure profonde",
+              "ko": "중상 발생 확률"
+            }
+          },
+          "value": 50.0,
+          "formatted": {
+            "value": {
+              "ru": "50%",
+              "en": "50%",
+              "es": "50 %",
+              "fr": "50%",
+              "ko": "50%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "translation",
+        "key": "weapon.tooltip.melee_weapon.info.feature",
+        "args": {},
+        "lines": {
+          "ru": "Особенности",
+          "en": "Features",
+          "es": "Características",
+          "fr": "Caractéristiques",
+          "ko": "특징"
+        }
+      },
+      "elements": [
+        {
+          "type": "text",
+          "text": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.critical_hit_mod",
+            "args": {
+              "factor": "1.7"
+            },
+            "lines": {
+              "ru": "Урон со спины: x1,7",
+              "en": "Backstab damage: x1.7",
+              "es": "Daño por puñalada desde atrás: x1,7",
+              "fr": "Dégâts par derrière : x1,7",
+              "ko": "백스탭 피해: x1.7"
+            }
+          }
+        },
+        {
+          "type": "text",
+          "text": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.mutant_damage_mod",
+            "args": {
+              "factor": "3.25"
+            },
+            "lines": {
+              "ru": "Урон по мутантам: x3,25",
+              "en": "Damage to mutants: x3.25",
+              "es": "Daño a mutantes: x3,25",
+              "fr": "Dégâts aux mutants : x3,25",
+              "ko": "돌연변이에게 입히는 피해: x3.25"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

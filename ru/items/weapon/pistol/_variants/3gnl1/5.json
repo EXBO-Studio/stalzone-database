@@ -532,14 +532,14 @@
               "ko": "무기 꺼내기 시간"
             }
           },
-          "value": 0.4,
+          "value": 0.5,
           "formatted": {
             "value": {
-              "ru": "0,4 с",
-              "en": "0.4 sec",
-              "es": "0,4 s",
-              "fr": "0,4 s",
-              "ko": "0.4초"
+              "ru": "0,5 с",
+              "en": "0.5 sec",
+              "es": "0,5 s",
+              "fr": "0,5 s",
+              "ko": "0.5초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"

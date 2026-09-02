@@ -262,6 +262,62 @@
           "type": "range",
           "name": {
             "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 0.25500003,
+          "max": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "[+0,26%; +0,3%]",
+              "en": "[+0.26%; +0.3%]",
+              "es": "[+0,26 %; +0,3 %]",
+              "fr": "[+0,26%; +0,3%]",
+              "ko": "[+0.26%; +0.3%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 0.25500003,
+          "max": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "[+0,26%; +0,3%]",
+              "en": "[+0.26%; +0.3%]",
+              "es": "[+0,26 %; +0,3 %]",
+              "fr": "[+0,26%; +0,3%]",
+              "ko": "[+0.26%; +0.3%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
             "key": "stalker.artefact_properties.factor.regeneration_bonus",
             "args": {},
             "lines": {

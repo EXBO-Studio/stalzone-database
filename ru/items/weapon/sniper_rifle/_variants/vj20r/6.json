@@ -262,14 +262,14 @@
               "ko": "피해량"
             }
           },
-          "value": 99.87698,
+          "value": 101.154724,
           "formatted": {
             "value": {
-              "ru": "99,88 ед",
-              "en": "99.88 unit(s)",
-              "es": "99,88 unidad(es)",
-              "fr": "99,88 unité(s)",
-              "ko": "99.88 유닛"
+              "ru": "101,15 ед",
+              "en": "101.15 unit(s)",
+              "es": "101,15 unidad(es)",
+              "fr": "101,15 unité(s)",
+              "ko": "101.15 유닛"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -478,14 +478,14 @@
               "ko": "비조준 사격 탄퍼짐"
             }
           },
-          "value": 4.0,
+          "value": 3.0,
           "formatted": {
             "value": {
-              "ru": "4°",
-              "en": "4°",
-              "es": "4°",
-              "fr": "4°",
-              "ko": "4°"
+              "ru": "3°",
+              "en": "3°",
+              "es": "3°",
+              "fr": "3°",
+              "ko": "3°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -742,6 +742,50 @@
     {
       "type": "list",
       "title": {
+        "type": "translation",
+        "key": "weapon.tooltip.weapon.info.attachment_stats",
+        "args": {},
+        "lines": {
+          "ru": "Характеристики обвесов",
+          "en": "Attachment properties",
+          "es": "Propiedades de accesorios",
+          "fr": "Propriétés des accessoires",
+          "ko": "부착물 특성"
+        }
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.hip_spread",
+            "args": {},
+            "lines": {
+              "ru": "Разброс от бедра",
+              "en": "Hip-fire spread",
+              "es": "Dispersión de disparos desde la cadera",
+              "fr": "Dispersion du tir à l\u0027aveugle",
+              "ko": "비조준 사격 탄퍼짐"
+            }
+          },
+          "value": -25.0,
+          "formatted": {
+            "value": {
+              "ru": "-25%",
+              "en": "-25%",
+              "es": "-25 %",
+              "fr": "-25%",
+              "ko": "-25%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
         "type": "text",
         "text": ""
       },
@@ -783,9 +827,9 @@
     },
     {
       "type": "damage",
-      "startDamage": 99.87698,
+      "startDamage": 101.154724,
       "damageDecreaseStart": 40.0,
-      "endDamage": 99.87698,
+      "endDamage": 101.154724,
       "damageDecreaseEnd": 80.0,
       "maxDistance": 210.0
     },

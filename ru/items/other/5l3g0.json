@@ -1,0 +1,121 @@
+{
+  "id": "5l3g0",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.glock_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Багряный»",
+      "en": "Crimson",
+      "es": "Carmesí",
+      "fr": "« Pourpre »",
+      "ko": "진홍"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.glock_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Все началось с одного амулета. Кажется, это была часть какой-то советской швейной машинки.\\n\\nПотом появилась красная лента. Затем цепь. Спустя время начало казаться, что каждая новая деталь позволяет спокойнее нажимать на спусковой крючок. Каждый новый оберег заставляет руку держать прицел ровнее.\\n\\nПравда это или нет — уже никто не проверяет.",
+          "en": "It all started with a single amulet. It seemed to be part of some Soviet sewing machine.\\n\\nThen came the red ribbon. Then the chain. Over time, it began to feel as though every new piece made it easier to pull the trigger with a steadier mind. Every new charm made the hand hold the sights more firmly.\\n\\nWhether that is true or not, no one checks anymore.",
+          "es": "Todo empezó con un talismán. Creo que era una pieza de alguna máquina de coser soviética.\\n\\nLuego apareció una cinta roja. Después, una cadena. Con el tiempo, empezó a parecer que cada nuevo detalle hacía más fácil apretar el gatillo con calma. Que cada nuevo talismán ayudaba a mantener la mira más firme.\\n\\nSi es verdad o no, ya nadie lo comprueba.",
+          "fr": "Tout a commencé par un amulet — une pièce d\u0027une vieille machine à coudre soviétique.\\n\\n\\n\\nPuis un ruban rouge est apparu. Ensuite une chaîne. Avec le temps, il semblait que chaque nouveau détail permettait d\u0027appuyer plus calmement sur la détente. Chaque nouveau talisman faisait tenir la main plus droite sur la visée.\\n\\n\\n\\nVrai ou non, plus personne ne vérifie.",
+          "ko": "이 모든 건 부적 하나에서 시작됐다. 아마 소련제 재봉틀에서 떨어져 나온 부품이었으리라. \\n\\n그다음엔 붉은 리본이 달렸다. 그 뒤에는 사슬이 붙었다. 시간이 흐르며 새로운 장식이 하나씩 늘어날 때마다 방아쇠를 당길 때의 마음이 조금은 편해지는 듯했다. 새로운 부적이 하나 생길 때마다 총구를 겨누는 손도 한층 덜 흔들리는 것 같았다. \\n\\n그게 정말 효과가 있는지는 이제 아무도 확인하지 않는다."
+        }
+      }
+    },
+    {}
+  ]
+}

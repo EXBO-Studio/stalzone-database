@@ -1,0 +1,121 @@
+{
+  "id": "7lov6",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.melee.downrange_mt.name",
+    "args": {},
+    "lines": {
+      "ru": "«Иван-1»",
+      "en": "Ivan-1",
+      "es": "Ivan-1",
+      "fr": "Ivan-1",
+      "ko": "이반-1"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.melee_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик ножа",
+              "en": "Knife Style",
+              "es": "Estilo de cuchillo",
+              "fr": "Style d\u0027armes de mêlée",
+              "ko": "칼 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.melee.downrange_mt.description",
+        "args": {},
+        "lines": {
+          "ru": "Заказной топор, сделанный одним из мастеров Зоны.\\n\\nПо словам техника, таким можно не просто повредить танковую гусеницу, но и прорубить окошко к наводчику",
+          "en": "A custom-made axe, crafted by one of the masters of the Zone.\\n\\nAccording to the technician, it can not only damage a tank track but also cut an opening to the gunner\u0027s position",
+          "es": "Hacha hecha a medida por uno de los artesanos de la Zona.\\n\\nSegún el técnico, con ella no solo se puede dañar la oruga de un tanque, sino también abrir una ventana para el artillero.",
+          "fr": "Une hache sur commande, fabriquée par l\u0027un des artisans de la Zone.\\n\\n\\n\\nSelon le technicien, avec cet outil, on peut non seulement endommager un chenille de char, mais aussi percer une fenêtre jusqu\u0027au tireur.",
+          "ko": "구역의 장인 중 한 명이 맞춤 제작한 도끼.\\n\\n기술자의 말에 따르면, 이 도끼로는 단순히 전차 궤도를 손상시키는 것뿐만 아니라, 사수에게로 통하는 ‘창’을 뚫는 것까지 가능하다고 한다."
+        }
+      }
+    },
+    {}
+  ]
+}

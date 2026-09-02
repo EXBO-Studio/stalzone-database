@@ -661,6 +661,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.six12_sd_fg.name",
+            "args": {},
+            "lines": {
+              "ru": "SIX12 первопроходцев Севера",
+              "en": "SIX12 Trailblazers of the North",
+              "es": "SIX12 Pioneros del norte",
+              "fr": "SIX12 Pionniers du Nord",
+              "ko": "SIX12 북방 개척자들"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.mk12.name",
             "args": {},
             "lines": {
@@ -1231,6 +1246,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.vozduhan.name",
+            "args": {},
+            "lines": {
+              "ru": "«Воздухан»",
+              "en": "Capper",
+              "es": "Vendehumo",
+              "fr": "« Tchatcheur »",
+              "ko": "허언증"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.tact.name",
             "args": {},
             "lines": {
@@ -1719,21 +1749,6 @@
               "es": "Bren",
               "fr": "Bren",
               "ko": "브렌"
-            }
-          }
-        },
-        {
-          "type": "item",
-          "name": {
-            "type": "translation",
-            "key": "item.wpn.mg34.name",
-            "args": {},
-            "lines": {
-              "ru": "MG-34",
-              "en": "MG-34",
-              "es": "MG-34",
-              "fr": "MG-34",
-              "ko": "MG-34"
             }
           }
         },

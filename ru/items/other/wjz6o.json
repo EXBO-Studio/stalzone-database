@@ -1,0 +1,121 @@
+{
+  "id": "wjz6o",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.rsh12_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Начертанный»",
+      "en": "Inscribed",
+      "es": "Inscrito",
+      "fr": "« Inscrit »",
+      "ko": "각인"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.rsh12_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Владелец этого оружия верил, что обычные пули не остановят ужас, порожденный Зоной. Символы, природные материалы и ритуалы — вот рабочая схема против того, что ломает само восприятие человека.\\n\\n«Безмолвный Рыб, начертанный на барабане, даст патрону силу побороть неведомую хрень» — так звучали слова мастера, который изготовил первый образец этого револьвера.",
+          "en": "The owner of this weapon believed ordinary rounds could never stop the horror spawned by the Zone. Symbols, natural materials, and rituals—that was the working formula against something that breaks human perception itself.\\n\\n“Silent Fishie, inscribed upon the cylinder, will give the round the power to overcome whatever unknown bullshit lies ahead”—so went the words of the craftsman who made the first version of this revolver.",
+          "es": "El dueño de esta arma creía que las balas comunes no detendrían el horror engendrado por la Zona. Símbolos, materiales naturales y rituales: esa es la fórmula eficaz contra aquello que rompe la propia percepción humana.\\n\\n\"El Pez Silencioso, inscrito en el tambor, dará al cartucho la fuerza para vencer a esa mierda desconocida\": así rezaban las palabras del maestro que fabricó el primer ejemplar de este revólver.",
+          "fr": "Le propriétaire de cette arme croyait que les balles ordinaires ne pourraient pas arrêter l\u0027horreur engendrée par la Zone. Symboles, matériaux naturels et rituels — voilà la recette qui fonctionne contre ce qui brise la perception même de l\u0027homme.\\n\\n\\n\\n« Le Poisson silencieux, gravé sur le barillet, donnera à la balle la force de vaincre cette saloperie inconnue » — telles étaient les paroles du maître qui fabriqua le premier exemplaire de ce révolver.",
+          "ko": "이 무기의 주인은 평범한 탄환만으로는 구역이 만들어 낸 공포를 막을 수 없다고 믿었다. 상징과 자연에서 얻은 재료, 그리고 의식. 인간의 인식마저 무너뜨리는 무언가에 맞서는 방법은 그것뿐이었다. \\n\\n“침묵의 물고기를 드럼에 새겨 넣으면, 탄환에 알 수 없는 것과 맞설 힘이 깃든다.” — 이 리볼버의 첫 번째 시제품을 만들어 낸 장인의 말이다."
+        }
+      }
+    },
+    {}
+  ]
+}

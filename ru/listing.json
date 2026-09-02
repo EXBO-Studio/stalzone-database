@@ -9287,11 +9287,11 @@
       "key": "item.amm.akumulatora.name",
       "args": {},
       "lines": {
-        "ru": "Аккумулятор для винтовки Гаусса",
-        "en": "Gauss Rifle Battery",
-        "es": "Batería de fusil Gauss",
-        "fr": "Chargeur de Fusil Gauss",
-        "ko": "가우스 소총 배터리"
+        "ru": "Аккумулятор для винтовок",
+        "en": "Rifle Battery",
+        "es": "Batería de fusiles",
+        "fr": "Chargeur pour fusils",
+        "ko": "소총용 배터리"
       }
     },
     "color": "DEFAULT",
@@ -9967,11 +9967,11 @@
       "key": "item.amm.akumulatora.name",
       "args": {},
       "lines": {
-        "ru": "Аккумулятор для винтовки Гаусса",
-        "en": "Gauss Rifle Battery",
-        "es": "Batería de fusil Gauss",
-        "fr": "Chargeur de Fusil Gauss",
-        "ko": "가우스 소총 배터리"
+        "ru": "Аккумулятор для винтовок",
+        "en": "Rifle Battery",
+        "es": "Batería de fusiles",
+        "fr": "Chargeur pour fusils",
+        "ko": "소총용 배터리"
       }
     },
     "color": "DEFAULT",
@@ -11868,7 +11868,7 @@
       "args": {},
       "lines": {
         "ru": "Ящик гранат «Завеса»",
-        "en": "Crate of Veil Grenades",
+        "en": "Crate of Haze Grenades",
         "es": "Caja de granadas Velo",
         "fr": "Caisse de grenades Voile",
         "ko": "베일 수류탄 상자"
@@ -14380,6 +14380,66 @@
     }
   },
   {
+    "data": "/items/other/2ogqm.json",
+    "icon": "/icons/other/2ogqm.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.arm.centurion_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Равноденствие»",
+        "en": "Equinox",
+        "es": "Equinoccio",
+        "fr": "« Équinoxe »",
+        "ko": "춘추분"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/3gz6k.json",
+    "icon": "/icons/other/3gz6k.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.arm.kz4_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Миро»",
+        "en": "Myron",
+        "es": "Myron",
+        "fr": "« Saint chrême »",
+        "ko": "미로"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/7lomr.json",
+    "icon": "/icons/other/7lomr.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.arm.albatros_interceptor_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Покровник»",
+        "en": "Veil",
+        "es": "Mantenedor",
+        "fr": "« Couvre-corps »",
+        "ko": "수호자"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/g4956.json",
     "icon": "/icons/other/g4956.png",
     "name": {
@@ -14740,6 +14800,26 @@
     }
   },
   {
+    "data": "/items/other/7lov6.json",
+    "icon": "/icons/other/7lov6.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.melee.downrange_mt.name",
+      "args": {},
+      "lines": {
+        "ru": "«Иван-1»",
+        "en": "Ivan-1",
+        "es": "Ivan-1",
+        "fr": "Ivan-1",
+        "ko": "이반-1"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/6wlnp.json",
     "icon": "/icons/other/6wlnp.png",
     "name": {
@@ -14772,6 +14852,26 @@
         "es": "JDK-3",
         "fr": "JDK-3",
         "ko": "JDK-3"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/1r1wg.json",
+    "icon": "/icons/other/1r1wg.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.melee.downrange_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Костровой»",
+        "en": "Firekeeper",
+        "es": "Fogonero",
+        "fr": "« Feu de camp »",
+        "ko": "모닥불지기"
       }
     },
     "color": "RANK_MASTER",
@@ -16112,6 +16212,86 @@
         "es": "Protocolo 0",
         "fr": "Protocole 0",
         "ko": "프로토콜 0"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/zzoln.json",
+    "icon": "/icons/other/zzoln.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.mk47_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Русая прядь»",
+        "en": "Sandy Lock",
+        "es": "Mechón rubio",
+        "fr": "« Mèche blond cendré »",
+        "ko": "갈색 머리카락 한 올"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/5l3g0.json",
+    "icon": "/icons/other/5l3g0.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.glock_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Багряный»",
+        "en": "Crimson",
+        "es": "Carmesí",
+        "fr": "« Pourpre »",
+        "ko": "진홍"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/y3yjo.json",
+    "icon": "/icons/other/y3yjo.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.qbu191_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Гибельный звон»",
+        "en": "Death Knell",
+        "es": "Tañido funesto",
+        "fr": "« Glas funeste »",
+        "ko": "멸망의 종소리"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/wjz6o.json",
+    "icon": "/icons/other/wjz6o.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.rsh12_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Начертанный»",
+        "en": "Inscribed",
+        "es": "Inscrito",
+        "fr": "« Inscrit »",
+        "ko": "각인"
       }
     },
     "color": "RANK_MASTER",
@@ -27200,6 +27380,26 @@
     }
   },
   {
+    "data": "/items/weapon/sniper_rifle/969kl.json",
+    "icon": "/icons/weapon/sniper_rifle/969kl.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.vozduhan.name",
+      "args": {},
+      "lines": {
+        "ru": "«Воздухан»",
+        "en": "Capper",
+        "es": "Vendehumo",
+        "fr": "« Tchatcheur »",
+        "ko": "허언증"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/weapon/shotgun_rifle/969ky.json",
     "icon": "/icons/weapon/shotgun_rifle/969ky.png",
     "name": {
@@ -27615,6 +27815,26 @@
       }
     },
     "color": "RANK_VETERAN",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/shotgun_rifle/okmym.json",
+    "icon": "/icons/weapon/shotgun_rifle/okmym.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.six12_sd_fg.name",
+      "args": {},
+      "lines": {
+        "ru": "SIX12 первопроходцев Севера",
+        "en": "SIX12 Trailblazers of the North",
+        "es": "SIX12 Pioneros del norte",
+        "fr": "SIX12 Pionniers du Nord",
+        "ko": "SIX12 북방 개척자들"
+      }
+    },
+    "color": "RANK_MASTER",
     "status": {
       "state": "PERSONAL_ON_USE"
     }
@@ -30980,6 +31200,26 @@
     }
   },
   {
+    "data": "/items/weapon/melee/vj447.json",
+    "icon": "/icons/weapon/melee/vj447.png",
+    "name": {
+      "type": "translation",
+      "key": "item.melee.cryomancer.name",
+      "args": {},
+      "lines": {
+        "ru": "«Криомансер»",
+        "en": "Cryomancer",
+        "es": "Criomante",
+        "fr": "Cryomancien",
+        "ko": "크리오맨서"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/weapon/melee/dmvvg.json",
     "icon": "/icons/weapon/melee/dmvvg.png",
     "name": {
@@ -33180,6 +33420,26 @@
     }
   },
   {
+    "data": "/items/attachment/collimator_sights/96vrz.json",
+    "icon": "/icons/attachment/collimator_sights/96vrz.png",
+    "name": {
+      "type": "translation",
+      "key": "item.att.sight_p320.name",
+      "args": {},
+      "lines": {
+        "ru": "Прицел коллиматорный Sig Sauer SX",
+        "en": "Sig Sauer SX Collimator sight",
+        "es": "Mira con colimador Sig Sauer SX",
+        "fr": "Mire SX Collimateur pour Sig Sauer",
+        "ko": "지크자우어 SX OEG 양안조준경"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/attachment/collimator_sights/1rv51.json",
     "icon": "/icons/attachment/collimator_sights/1rv51.png",
     "name": {
@@ -33292,6 +33552,26 @@
         "es": "Mira con colimador Barcaza",
         "fr": "Viseur collimator Barkas",
         "ko": "바르카스 콜리메이터 조준기"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/attachment/collimator_sights/4qv4n.json",
+    "icon": "/icons/attachment/collimator_sights/4qv4n.png",
+    "name": {
+      "type": "translation",
+      "key": "item.att.sight_fiveseven.name",
+      "args": {},
+      "lines": {
+        "ru": "Прицел коллиматорный Five-seveN",
+        "en": "Five-seveN Collimator Sight",
+        "es": "Mira con colimador Five-seveN",
+        "fr": "Viseur collimateur Five-seveN",
+        "ko": "파이브-세븐 콜리메이터 조준경"
       }
     },
     "color": "RANK_MASTER",
@@ -33874,7 +34154,7 @@
         "ko": "벤데타 프리시전 VP-09 인터셉터"
       }
     },
-    "color": "RANK_VETERAN",
+    "color": "RANK_MASTER",
     "status": {
       "state": "PERSONAL_ON_USE"
     }
@@ -42313,6 +42593,66 @@
       }
     },
     "color": "DEFAULT",
+    "status": {
+      "state": "NONE"
+    }
+  },
+  {
+    "data": "/items/misc/w3j43.json",
+    "icon": "/icons/misc/w3j43.png",
+    "name": {
+      "type": "translation",
+      "key": "item.misc.expedition_crate.name",
+      "args": {},
+      "lines": {
+        "ru": "Ящик потерянной экспедиции",
+        "en": "Lost Expedition Crate",
+        "es": "Caja de expedición perdida",
+        "fr": "Caisse de l\u0027expédition perdue",
+        "ko": "실종된 원정대 상자"
+      }
+    },
+    "color": "RANK_VETERAN",
+    "status": {
+      "state": "NON_DROP"
+    }
+  },
+  {
+    "data": "/items/misc/krn3p.json",
+    "icon": "/icons/misc/krn3p.png",
+    "name": {
+      "type": "translation",
+      "key": "item.misc.raven_coin.name",
+      "args": {},
+      "lines": {
+        "ru": "Жетон снаряжения гладиатора",
+        "en": "Gladiator Gear Token",
+        "es": "Ficha de equipamiento de gladiador",
+        "fr": "Jeton d\u0027équipement du gladiateur",
+        "ko": "검투사 장비 토큰"
+      }
+    },
+    "color": "RANK_VETERAN",
+    "status": {
+      "state": "NONE"
+    }
+  },
+  {
+    "data": "/items/misc/j053g.json",
+    "icon": "/icons/misc/j053g.png",
+    "name": {
+      "type": "translation",
+      "key": "item.misc.marathon_coin.name",
+      "args": {},
+      "lines": {
+        "ru": "Жетон снаряжения марафонца",
+        "en": "Marathonner\u0027s Gear Token",
+        "es": "Ficha de equipamiento de maratoniano",
+        "fr": "Jeton d\u0027équipement du marathonien",
+        "ko": "마라톤 선수의 장비 토큰"
+      }
+    },
+    "color": "RANK_VETERAN",
     "status": {
       "state": "NONE"
     }

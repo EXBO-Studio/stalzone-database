@@ -13,7 +13,7 @@
       "ko": "벤데타 프리시전 VP-09 인터셉터"
     }
   },
-  "color": "RANK_VETERAN",
+  "color": "RANK_MASTER",
   "status": {
     "state": "PERSONAL_ON_USE"
   },
@@ -41,14 +41,14 @@
           },
           "value": {
             "type": "translation",
-            "key": "core.rank.veteran",
+            "key": "core.rank.master",
             "args": {},
             "lines": {
-              "ru": "Ветеран",
-              "en": "Veteran",
-              "es": "Veterano",
-              "fr": "Vétéran",
-              "ko": "베테랑"
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
             }
           }
         },

@@ -1,0 +1,121 @@
+{
+  "id": "zzoln",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.mk47_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Русая прядь»",
+      "en": "Sandy Lock",
+      "es": "Mechón rubio",
+      "fr": "« Mèche blond cendré »",
+      "ko": "갈색 머리카락 한 올"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.mk47_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Косу перевязывают заново перед каждой ходкой. Матерые сталкеры уверяют, что пока она цела, взгляд из темноты не задержится на тебе слишком долго.\\nНикто не знает, кто первым придумал этот обычай. Но никто даже не пытается его нарушить.",
+          "en": "The braid is tied anew before every run. Veteran stalkers swear that as long as it remains intact, the gaze from the dark won’t linger on you for too long. \\nNo one knows who started the custom. But no one even tries to break it.",
+          "es": "La trenza se vuelve a atar antes de cada incursión. Los acechadores veteranos aseguran que, mientras permanezca intacta, la mirada desde la oscuridad no se posará sobre ti durante demasiado tiempo.\\nNadie sabe quién inventó primero esta costumbre. Pero nadie intenta siquiera romperla.",
+          "fr": "La tresse de cheveux est renouée avant chaque incursion. Les stalkers aguerris assurent que tant qu\u0027elle est intacte, le regard venu de l\u0027obscurité ne s\u0027attardera pas trop longtemps sur toi.\\nPersonne ne sait qui a inventé cette coutume. Mais personne ne tente même de la transgresser.",
+          "ko": "매번 출발하기 전마다 끈을 새로 묶는다. 노련한 스토커들은 그 끈이 멀쩡한 동안에는 어둠 속의 시선도 오래 머물지 않는다고 말한다. \\n누가 처음 이런 관습을 만들었는지는 아무도 모른다. 하지만 누구도 감히 어기려 하지 않는다."
+        }
+      }
+    },
+    {}
+  ]
+}

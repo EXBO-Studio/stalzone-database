@@ -6,11 +6,11 @@
     "key": "item.amm.akumulatora.name",
     "args": {},
     "lines": {
-      "ru": "Аккумулятор для винтовки Гаусса",
-      "en": "Gauss Rifle Battery",
-      "es": "Batería de fusil Gauss",
-      "fr": "Chargeur de Fusil Gauss",
-      "ko": "가우스 소총 배터리"
+      "ru": "Аккумулятор для винтовок",
+      "en": "Rifle Battery",
+      "es": "Batería de fusiles",
+      "fr": "Chargeur pour fusils",
+      "ko": "소총용 배터리"
     }
   },
   "color": "DEFAULT",

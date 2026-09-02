@@ -450,14 +450,14 @@
               "ko": "비조준 사격 탄퍼짐"
             }
           },
-          "value": 2.75,
+          "value": 2.475,
           "formatted": {
             "value": {
-              "ru": "2,75°",
-              "en": "2.75°",
-              "es": "2,75°",
-              "fr": "2,75°",
-              "ko": "2.75°"
+              "ru": "2,48°",
+              "en": "2.48°",
+              "es": "2,48°",
+              "fr": "2,48°",
+              "ko": "2.48°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -714,6 +714,50 @@
     {
       "type": "list",
       "title": {
+        "type": "translation",
+        "key": "weapon.tooltip.weapon.info.attachment_stats",
+        "args": {},
+        "lines": {
+          "ru": "Характеристики обвесов",
+          "en": "Attachment properties",
+          "es": "Propiedades de accesorios",
+          "fr": "Propriétés des accessoires",
+          "ko": "부착물 특성"
+        }
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.hip_spread",
+            "args": {},
+            "lines": {
+              "ru": "Разброс от бедра",
+              "en": "Hip-fire spread",
+              "es": "Dispersión de disparos desde la cadera",
+              "fr": "Dispersion du tir à l\u0027aveugle",
+              "ko": "비조준 사격 탄퍼짐"
+            }
+          },
+          "value": -10.000002,
+          "formatted": {
+            "value": {
+              "ru": "-10%",
+              "en": "-10%",
+              "es": "-10 %",
+              "fr": "-10%",
+              "ko": "-10%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
         "type": "text",
         "text": ""
       },
@@ -757,7 +801,7 @@
       "type": "damage",
       "startDamage": 28.072865,
       "damageDecreaseStart": 9.0,
-      "endDamage": 15.236128,
+      "endDamage": 15.596037,
       "damageDecreaseEnd": 43.0,
       "maxDistance": 105.0
     },
