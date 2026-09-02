@@ -478,14 +478,14 @@
               "ko": "비조준 사격 탄퍼짐"
             }
           },
-          "value": 3.25,
+          "value": 2.925,
           "formatted": {
             "value": {
-              "ru": "3,25°",
-              "en": "3.25°",
-              "es": "3,25°",
-              "fr": "3,25°",
-              "ko": "3.25°"
+              "ru": "2,92°",
+              "en": "2.92°",
+              "es": "2,92°",
+              "fr": "2,92°",
+              "ko": "2.92°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -664,6 +664,50 @@
               "fr": "Dégât aux membres : x0,9",
               "ko": "사지 피해: x0.9"
             }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "translation",
+        "key": "weapon.tooltip.weapon.info.attachment_stats",
+        "args": {},
+        "lines": {
+          "ru": "Характеристики обвесов",
+          "en": "Attachment properties",
+          "es": "Propiedades de accesorios",
+          "fr": "Propriétés des accessoires",
+          "ko": "부착물 특성"
+        }
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.hip_spread",
+            "args": {},
+            "lines": {
+              "ru": "Разброс от бедра",
+              "en": "Hip-fire spread",
+              "es": "Dispersión de disparos desde la cadera",
+              "fr": "Dispersion du tir à l\u0027aveugle",
+              "ko": "비조준 사격 탄퍼짐"
+            }
+          },
+          "value": -10.000002,
+          "formatted": {
+            "value": {
+              "ru": "-10%",
+              "en": "-10%",
+              "es": "-10 %",
+              "fr": "-10%",
+              "ko": "-10%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
           }
         }
       ]

@@ -1,0 +1,121 @@
+{
+  "id": "3gz6k",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.arm.kz4_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Миро»",
+      "en": "Myron",
+      "es": "Myron",
+      "fr": "« Saint chrême »",
+      "ko": "미로"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик брони",
+              "en": "Armor Style",
+              "es": "Estilo de armadura",
+              "fr": "Style d\u0027armure",
+              "ko": "방어구 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.arm.kz4_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Особое снаряжение, при изготовлении и уходе за которым используется святое масло, переданное «Заветом» в дар нуждающимся для борьбы с исчадиями греха и порождениями ужаса.\\n\\nУкрашенное образами ушедшей и мертвой эпохи, оно напоминает человеку, что свет существовал даже в самые темные времена. А иногда одной этой мысли достаточно, чтобы не дать ужасу проникнуть в разум.",
+          "en": "Special gear crafted and maintained with holy oil, gifted by the Covenant to those in need for the fight against the spawn of sin and the things born of horror.\\n\\nAdorned with images of a bygone, dead age, it reminds a person that light existed even in the darkest of times. And sometimes that thought alone is enough to keep horror from entering the mind.",
+          "es": "Equipamiento especial en cuya fabricación y mantenimiento se utiliza aceite sagrado entregado por el Pacto como regalo a los necesitados para luchar contra las criaturas del pecado y los engendros del horror.\\n\\n\\Decorado con imágenes de una época pasada y muerta, recuerda al ser humano que la luz existió incluso en los tiempos más oscuros. Y a veces basta con ese único pensamiento para impedir que el horror penetre en la mente.",
+          "fr": "Équipement spécial dont la fabrication et l\u0027entretien utilisent l\u0027huile sainte offerte par l\u0027Alliance en don à ceux qui en ont besoin pour lutter contre les créatures du péché et les manifestations de l\u0027horreur.\\n\\n\\n\\nOrné d\u0027images d\u0027une époque révolue et défunte, il rappelle à l\u0027homme que la lumière a existé même dans les temps les plus sombres. Et parfois, cette seule pensée suffit à empêcher l\u0027horreur de pénétrer dans l\u0027esprit.",
+          "ko": "죄의 산물과 공포의 화신에 맞서기 위해, 커버넌트가 도움이 필요한 이들에게 나누어 준 성유로 제작과 관리를 이어가는 특별한 장비다.\\n\\n사라져 버린 죽은 시대의 모습을 새긴 이 장비는, 가장 어두운 순간에도 빛은 존재했다는 사실을 사람에게 일깨워준다. 때로는 그 믿음 하나만으로도 공포가 정신 깊숙이 파고드는 것을 막아낼 수 있다."
+        }
+      }
+    },
+    {}
+  ]
+}

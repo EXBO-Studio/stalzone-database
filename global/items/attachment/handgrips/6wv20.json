@@ -93,14 +93,14 @@
               "ko": "무게"
             }
           },
-          "value": 0.09,
+          "value": 0.2,
           "formatted": {
             "value": {
-              "ru": "0,09 кг",
-              "en": "0.09 kg",
-              "es": "0,09 kg",
-              "fr": "0,09 kg",
-              "ko": "0.09 kg"
+              "ru": "0,2 кг",
+              "en": "0.2 kg",
+              "es": "0,2 kg",
+              "fr": "0,2 kg",
+              "ko": "0.2 kg"
             },
             "nameColor": "838383",
             "valueColor": "838383"
@@ -136,33 +136,6 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "weapon.stat_factor.reload_modifier",
-            "args": {},
-            "lines": {
-              "ru": "Эргономика оружия",
-              "en": "Weapon ergonomics",
-              "es": "Ergonomía de las armas",
-              "fr": "Ergonomie de l\u0027arme",
-              "ko": "무기 인체공학"
-            }
-          },
-          "value": 10.000002,
-          "formatted": {
-            "value": {
-              "ru": "-10%",
-              "en": "-10%",
-              "es": "-10 %",
-              "fr": "-10%",
-              "ko": "-10%"
-            },
-            "nameColor": "C15252",
-            "valueColor": "C15252"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
             "key": "weapon.stat_factor.recoil",
             "args": {},
             "lines": {
@@ -173,14 +146,14 @@
               "ko": "수직 반동"
             }
           },
-          "value": -10.500002,
+          "value": -14.999998,
           "formatted": {
             "value": {
-              "ru": "-10,5%",
-              "en": "-10.5%",
-              "es": "-10,5 %",
-              "fr": "-10,5%",
-              "ko": "-10.5%"
+              "ru": "-15%",
+              "en": "-15%",
+              "es": "-15 %",
+              "fr": "-15%",
+              "ko": "-15%"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"
@@ -244,33 +217,6 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "weapon.stat_factor.wiggle",
-            "args": {},
-            "lines": {
-              "ru": "Покачивание",
-              "en": "Sway",
-              "es": "Oscilación",
-              "fr": "Balancement",
-              "ko": "흔들림"
-            }
-          },
-          "value": -15.999996,
-          "formatted": {
-            "value": {
-              "ru": "-16%",
-              "en": "-16%",
-              "es": "-16 %",
-              "fr": "-16%",
-              "ko": "-16%"
-            },
-            "nameColor": "53C353",
-            "valueColor": "53C353"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
             "key": "weapon.stat_factor.equipped_speed_modifier",
             "args": {},
             "lines": {
@@ -281,14 +227,41 @@
               "ko": "속도"
             }
           },
-          "value": -1.9999981,
+          "value": -1.4999986,
           "formatted": {
             "value": {
-              "ru": "-2%",
-              "en": "-2%",
-              "es": "-2 %",
-              "fr": "-2%",
-              "ko": "-2%"
+              "ru": "-1,5%",
+              "en": "-1.5%",
+              "es": "-1,5 %",
+              "fr": "-1,5%",
+              "ko": "-1.5%"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.aiming_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость в прицеливании",
+              "en": "Speed during aiming",
+              "es": "Velocidad de apuntado",
+              "fr": "Vitesse de visée",
+              "ko": "조준 속도"
+            }
+          },
+          "value": -5.000001,
+          "formatted": {
+            "value": {
+              "ru": "-5%",
+              "en": "-5%",
+              "es": "-5 %",
+              "fr": "-5%",
+              "ko": "-5%"
             },
             "nameColor": "C15252",
             "valueColor": "C15252"
@@ -1310,6 +1283,21 @@
               "es": "QBU-191",
               "fr": "QBU‑191",
               "ko": "QBU-191"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.wpn.vozduhan.name",
+            "args": {},
+            "lines": {
+              "ru": "«Воздухан»",
+              "en": "Capper",
+              "es": "Vendehumo",
+              "fr": "« Tchatcheur »",
+              "ko": "허언증"
             }
           }
         },

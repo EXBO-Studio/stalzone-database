@@ -478,14 +478,14 @@
               "ko": "비조준 사격 탄퍼짐"
             }
           },
-          "value": 6.0,
+          "value": 4.5,
           "formatted": {
             "value": {
-              "ru": "6°",
-              "en": "6°",
-              "es": "6°",
-              "fr": "6°",
-              "ko": "6°"
+              "ru": "4,5°",
+              "en": "4.5°",
+              "es": "4,5°",
+              "fr": "4,5°",
+              "ko": "4.5°"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -716,6 +716,50 @@
               "fr": "Dégâts augmentés de 0,75% pour chaque % manquant de santé de la cible pour un maximum de +75% dégâts",
               "ko": "대상의 잃은 체력 1%마다 피해가 0.75% 증가하며, 최대 +75% 피해까지 증가합니다"
             }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "translation",
+        "key": "weapon.tooltip.weapon.info.attachment_stats",
+        "args": {},
+        "lines": {
+          "ru": "Характеристики обвесов",
+          "en": "Attachment properties",
+          "es": "Propiedades de accesorios",
+          "fr": "Propriétés des accessoires",
+          "ko": "부착물 특성"
+        }
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.hip_spread",
+            "args": {},
+            "lines": {
+              "ru": "Разброс от бедра",
+              "en": "Hip-fire spread",
+              "es": "Dispersión de disparos desde la cadera",
+              "fr": "Dispersion du tir à l\u0027aveugle",
+              "ko": "비조준 사격 탄퍼짐"
+            }
+          },
+          "value": -25.0,
+          "formatted": {
+            "value": {
+              "ru": "-25%",
+              "en": "-25%",
+              "es": "-25 %",
+              "fr": "-25%",
+              "ko": "-25%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
           }
         }
       ]

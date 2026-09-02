@@ -316,14 +316,14 @@
               "ko": "총탄 저항율"
             }
           },
-          "value": 316.3078,
+          "value": 319.6875,
           "formatted": {
             "value": {
-              "ru": "316,31",
-              "en": "316.31",
-              "es": "316,31",
-              "fr": "316,31",
-              "ko": "316.31"
+              "ru": "319,69",
+              "en": "319.69",
+              "es": "319,69",
+              "fr": "319,69",
+              "ko": "319.69"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -623,11 +623,11 @@
             "key": "item.heavy.feature",
             "args": {},
             "lines": {
-              "ru": "Игнорирует штраф скорости передвижения от оружия",
-              "en": "Ignores a weapon\u0027s movement speed penalty",
-              "es": "Ignora la penalización a la velocidad de movimiento de un arma",
-              "fr": "Ignore la pénalité de vitesse de déplacement d\u0027une arme",
-              "ko": "무기의 이동 속도 패널티 무시"
+              "ru": "Игнорирует влияние оружия на скорость передвижения (не распространяется на холодное оружие)",
+              "en": "Ignores weapon effects on movement speed (does not apply to melee weapons)",
+              "es": "Ignora el efecto del arma sobre la velocidad de movimiento (no se aplica a las armas cuerpo a cuerpo)",
+              "fr": "Ignore l\u0027influence des armes sur la vitesse de déplacement (ne s\u0027applique pas aux armes blanches)",
+              "ko": "무기가 이동 속도에 미치는 영향을 무시합니다. (근접 무기 제외)"
             }
           }
         }
@@ -662,14 +662,14 @@
               "ko": "총탄 저항율"
             }
           },
-          "value": 44.307796,
+          "value": 44.687492,
           "formatted": {
             "value": {
-              "ru": "44,31",
-              "en": "44.31",
-              "es": "44,31",
-              "fr": "44,31",
-              "ko": "44.31"
+              "ru": "44,69",
+              "en": "44.69",
+              "es": "44,69",
+              "fr": "44,69",
+              "ko": "44.69"
             },
             "nameColor": "F1AA21",
             "valueColor": "F1AA21"

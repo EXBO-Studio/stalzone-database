@@ -1230,6 +1230,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.vozduhan.name",
+            "args": {},
+            "lines": {
+              "ru": "«Воздухан»",
+              "en": "Capper",
+              "es": "Vendehumo",
+              "fr": "« Tchatcheur »",
+              "ko": "허언증"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.tact.name",
             "args": {},
             "lines": {

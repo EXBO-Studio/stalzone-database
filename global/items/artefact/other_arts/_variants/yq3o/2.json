@@ -318,6 +318,34 @@
           "type": "range",
           "name": {
             "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": -0.312,
+          "max": -0.26520002,
+          "formatted": {
+            "value": {
+              "ru": "[-0,31; -0,27]",
+              "en": "[-0.31; -0.27]",
+              "es": "[-0,31; -0,27]",
+              "fr": "[-0,31; -0,27]",
+              "ko": "[-0.31; -0.27]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
             "key": "stalker.artefact_properties.factor.thermal_accumulation",
             "args": {},
             "lines": {

@@ -7,7 +7,7 @@
     "args": {},
     "lines": {
       "ru": "Ящик гранат «Завеса»",
-      "en": "Crate of Veil Grenades",
+      "en": "Crate of Haze Grenades",
       "es": "Caja de granadas Velo",
       "fr": "Caisse de grenades Voile",
       "ko": "베일 수류탄 상자"
@@ -210,7 +210,7 @@
             "args": {},
             "lines": {
               "ru": "«Завеса»",
-              "en": "Veil",
+              "en": "Haze",
               "es": "Velo",
               "fr": "Voile",
               "ko": "장막"

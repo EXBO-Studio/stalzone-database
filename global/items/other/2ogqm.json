@@ -1,0 +1,121 @@
+{
+  "id": "2ogqm",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.arm.centurion_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Равноденствие»",
+      "en": "Equinox",
+      "es": "Equinoccio",
+      "fr": "« Équinoxe »",
+      "ko": "춘추분"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик брони",
+              "en": "Armor Style",
+              "es": "Estilo de armadura",
+              "fr": "Style d\u0027armure",
+              "ko": "방어구 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.arm.centurion_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Тяжелая броня, пропахшая костром, жжеными сухими травами и украшенная чеканными изображениями, что сохранились с тех времен, когда суеверие считалось ненаучным.\\n\\nНо когда человек встречается с ужасом, который не может постичь, или, наоборот, — понимает и постигает его слишком хорошо, то именно такие вещи будут тем единственным, что сохранит рассудок здравым, а тело целым.",
+          "en": "Heavy armor, reeking of campfire smoke and burned dry herbs, adorned with embossed images preserved from the days when superstition was still considered unscientific.\\n\\nBut when a person faces a horror they cannot comprehend—or, worse, comprehends it all too well—things like this may be the only thing that keeps the mind sane and the body safe.",
+          "es": "Armadura pesada que huele a hoguera y a hierbas secas quemadas, decorada con imágenes repujadas que se han conservado desde los tiempos en que la superstición se consideraba acientífica.\\n\\Pero cuando una persona se encuentra con un horror que no puede comprender o, al contrario, lo entiende y lo comprende demasiado bien, son precisamente cosas así lo único que conservará la cordura intacta y el cuerpo entero.",
+          "fr": "Une armure lourde, imprégnée d\u0027odeur de feu de camp, d\u0027herbes sèches brûlées et ornée de motifs ciselés qui ont survécu depuis ces temps où la superstition était considérée comme non scientifique.\\n\\nMais lorsqu\u0027un homme est confronté à une horreur qu\u0027il ne peut comprendre, ou au contraire — qu\u0027il comprend et saisit trop bien — ce sont précisément ces choses qui seront l\u0027unique moyen de préserver sa raison et son corps intact.",
+          "ko": "모닥불과 태운 마른 풀 냄새가 배어 있는 중갑. 미신이 비과학적인 것으로 여겨지던 시절부터 이어져 온 각인 장식이 새겨져 있다. \\n\\n하지만 인간이 이해할 수 없는 공포와 마주하거나, 반대로 그것을 너무나 깊이 이해하게 되는 순간, 이런 물건만이 흐트러진 정신을 붙잡고 육신을 온전히 지켜줄 마지막 버팀목이 된다."
+        }
+      }
+    },
+    {}
+  ]
+}

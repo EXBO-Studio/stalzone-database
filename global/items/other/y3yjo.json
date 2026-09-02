@@ -1,0 +1,121 @@
+{
+  "id": "y3yjo",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.qbu191_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Гибельный звон»",
+      "en": "Death Knell",
+      "es": "Tañido funesto",
+      "fr": "« Glas funeste »",
+      "ko": "멸망의 종소리"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.qbu191_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Пока ты слышишь звон маленького колокольчика, ты уверен в реальности того, что вокруг.\\n\\nНо когда даже он перестает звучать — значит, рядом бродит то, чему звук чужд, как форма бытия.\\n\\nДурацкая вначале страшилка, обрела пугающий смысл, когда люди перестали возвращаться из тумана.",
+          "en": "As long as you can hear the little bell ringing, you know the world around you is real.\\n\\nBut when even it falls silent, it means something is wandering nearby—something for which sound itself is an alien form of being.\\n\\nWhat began as a stupid campfire scare took on a terrifying meaning once people stopped coming back from the fog.",
+          "es": "Mientras oyes el tintineo de la pequeña campanilla, tienes la certeza de que lo que te rodea es real.\\n\\nPero cuando incluso ella deja de sonar, significa que cerca vaga algo para lo que el sonido es una forma de existencia ajena.\\n\\nLo que al principio era una historia de miedo absurda adquirió un significado aterrador cuando la gente dejó de regresar de la niebla.",
+          "fr": "Tant que tu entends le tintement de la petite cloche, tu as la certitude de la réalité de ce qui t\u0027entoure.\\n\\n\\n\\nMais lorsque même elle cesse de sonner — c\u0027est que rôde à proximité ce à quoi le son est étranger, comme une forme d\u0027existence.\\n\\n\\n\\nUne histoire d\u0027horreur ridicule au début, elle a pris un sens terrifiant lorsque les gens ont cessé de revenir du brouillard.",
+          "ko": "작은 종소리가 들리는 동안에는 주변의 모든 것이 현실이라고 믿을 수 있다.\\n\\n하지만 그 소리마저 끊기는 순간, 소리라는 존재 방식 자체가 낯선 무언가가 근처를 떠돌고 있다는 뜻이다. \\n\\n처음에는 그저 우스운 괴담에 불과했던 이야기가, 사람들이 안개 속으로 사라져 돌아오지 않기 시작하면서 섬뜩한 의미를 갖게 되었다."
+        }
+      }
+    },
+    {}
+  ]
+}

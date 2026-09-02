@@ -1468,6 +1468,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.vozduhan.name",
+            "args": {},
+            "lines": {
+              "ru": "«Воздухан»",
+              "en": "Capper",
+              "es": "Vendehumo",
+              "fr": "« Tchatcheur »",
+              "ko": "허언증"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.att.barrel_longdeagle.name",
             "args": {},
             "lines": {
@@ -2076,21 +2091,6 @@
               "es": "Bren",
               "fr": "Bren",
               "ko": "브렌"
-            }
-          }
-        },
-        {
-          "type": "item",
-          "name": {
-            "type": "translation",
-            "key": "item.wpn.mg34.name",
-            "args": {},
-            "lines": {
-              "ru": "MG-34",
-              "en": "MG-34",
-              "es": "MG-34",
-              "fr": "MG-34",
-              "ko": "MG-34"
             }
           }
         },
