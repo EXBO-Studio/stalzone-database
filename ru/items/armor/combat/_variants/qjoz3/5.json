@@ -627,7 +627,7 @@
               "en": "Ignores weapon effects on movement speed (does not apply to melee weapons)",
               "es": "Ignora el efecto del arma sobre la velocidad de movimiento (no se aplica a las armas cuerpo a cuerpo)",
               "fr": "Ignore l\u0027influence des armes sur la vitesse de déplacement (ne s\u0027applique pas aux armes blanches)",
-              "ko": "무기가 이동 속도에 미치는 영향을 무시합니다. (근접 무기 제외)"
+              "ko": "무기로 인한 이동 속도 감소 효과를 무시합니다(근접 무기에는 적용되지 않음)."
             }
           }
         }

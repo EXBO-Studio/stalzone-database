@@ -1,0 +1,121 @@
+{
+  "id": "g4pvp",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.dud_buryat_avra.name",
+    "args": {},
+    "lines": {
+      "ru": "«Авра»",
+      "en": "Aura",
+      "es": "Avra",
+      "fr": "Borée",
+      "ko": "아브라"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.dud_buryat_avra.description",
+        "args": {},
+        "lines": {
+          "ru": "Модификация ДУД «Бурят», изготовленная НИИ-7 по спецзаказу ССОП для специального тактического отряда «Тайфуна».\\nНаличие в арсенале бойцов спецотряда подобных, менее технологичных детекторов, может вызывать вопросы. Однако дешевое снаряжение, вполне пригодное для решения задач, но не столь дорогое, чтоб бояться его потерять, еще никогда не было лишним.",
+          "en": "A modified Buryat SRD manufactured by Research Institute 7 on special order from the SSPP for Typhoon’s special tactical squad.\\nThe presence of such less advanced detectors in the special squad’s arsenal may raise some questions. However, cheap equipment that’s perfectly capable of getting the job done, while not being so valuable that losing it would be a concern, has never been a bad thing to have around.",
+          "es": "Modificación de DCA Buryat, fabricada por el Instituto de Investigación 7 por encargo especial de SSPE para la unidad táctica especial Tifón.\\nLa presencia en el arsenal de los combatientes de la unidad especial de detectores similares, aunque tecnológicamente menos avanzados, puede suscitar ciertas dudas. Sin embargo, nunca está de más disponer de equipamiento barato, perfectamente apto para cumplir su cometido, pero no tan costoso como para temer perderlo.",
+          "fr": "Modification du détecteur « Bouriate », fabriqué par l\u0027Institut de Recherche 7 sur commande des SSPP pour l\u0027unité tactique spéciale « Typhon ».\\nLa présence de détecteurs similaires, mais moins avancés technologiquement, dans l\u0027arsenal de l\u0027unité pourrait susciter des interrogations. Cependant, un équipement moins coûteux, parfaitement adapté à certaines missions, n\u0027a jamais fait de mal à personne.",
+          "ko": "제7연구소에서 부리아트 SRD를 개조해 SSPP의 특별 주문으로 제작한 타이푼 특수 전술 부대용 장비다.\\n특수 부대원들의 무기고에 이런, 상대적으로 기술력이 낮은 탐지기가 존재한다는 점은 의문을 불러일으킬 수 있다. 하지만 임무 수행에는 충분하면서도 분실을 두려워할 만큼 비싸지 않은 저렴한 장비는 언제나 필요한 법이다."
+        }
+      }
+    },
+    {}
+  ]
+}
