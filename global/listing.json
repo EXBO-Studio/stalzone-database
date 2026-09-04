@@ -16200,6 +16200,46 @@
     }
   },
   {
+    "data": "/items/other/1r4j1.json",
+    "icon": "/icons/other/1r4j1.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.elbrus_eol.name",
+      "args": {},
+      "lines": {
+        "ru": "«Эол»",
+        "en": "Aeolus",
+        "es": "Eolo",
+        "fr": "Éole",
+        "ko": "아이올로스"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/g4pvp.json",
+    "icon": "/icons/other/g4pvp.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.dud_buryat_avra.name",
+      "args": {},
+      "lines": {
+        "ru": "«Авра»",
+        "en": "Aura",
+        "es": "Avra",
+        "fr": "Borée",
+        "ko": "아브라"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/zzoln.json",
     "icon": "/icons/other/zzoln.png",
     "name": {
@@ -33231,7 +33271,7 @@
         "en": "Five-seveN Collimator Sight",
         "es": "Mira con colimador Five-seveN",
         "fr": "Viseur collimateur Five-seveN",
-        "ko": "파이브-세븐 콜리메이터 조준경"
+        "ko": "Five-seveN 콜리메이터 조준경"
       }
     },
     "color": "RANK_MASTER",

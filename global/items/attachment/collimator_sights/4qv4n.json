@@ -10,7 +10,7 @@
       "en": "Five-seveN Collimator Sight",
       "es": "Mira con colimador Five-seveN",
       "fr": "Viseur collimateur Five-seveN",
-      "ko": "파이브-세븐 콜리메이터 조준경"
+      "ko": "Five-seveN 콜리메이터 조준경"
     }
   },
   "color": "RANK_MASTER",
@@ -147,7 +147,7 @@
           "en": "Reticle: dot, red",
           "es": "Retícula: punto, roja",
           "fr": "Marque - point, rouge",
-          "ko": "표식 - 점, 빨간색"
+          "ko": "조준점: 점, 빨간색"
         }
       }
     },
