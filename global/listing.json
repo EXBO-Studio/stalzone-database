@@ -5449,7 +5449,7 @@
       "lines": {
         "ru": "Ветка Калины",
         "en": "Viburnum Branch",
-        "es": "Rama de viburnum",
+        "es": "Rama de durillo",
         "fr": "Branche de Viorne",
         "ko": "산분꽃나무 가지"
       }
@@ -16234,7 +16234,7 @@
         "ko": "아브라"
       }
     },
-    "color": "RANK_MASTER",
+    "color": "RANK_VETERAN",
     "status": {
       "state": "PERSONAL_ON_USE"
     }
