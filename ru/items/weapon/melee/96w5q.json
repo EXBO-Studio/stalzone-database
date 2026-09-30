@@ -198,168 +198,6 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "weapon.tooltip.melee_weapon.info.damage.min.common",
-            "args": {},
-            "lines": {
-              "ru": "Быстрый удар (мин)",
-              "en": "Quick attack (min)",
-              "es": "Ataque rápido (mín.)",
-              "fr": "Attaque rapide (min)",
-              "ko": "빠른 공격 (최소)"
-            }
-          },
-          "value": 60.0,
-          "formatted": {
-            "value": {
-              "ru": "60 ед",
-              "en": "60 unit(s)",
-              "es": "60 unidad(es)",
-              "fr": "60 unité(s)",
-              "ko": "60 유닛"
-            },
-            "nameColor": "838383",
-            "valueColor": "EEEEEE"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.tooltip.melee_weapon.info.damage.max.common",
-            "args": {},
-            "lines": {
-              "ru": "Быстрый удар (макс)",
-              "en": "Quick attack (max)",
-              "es": "Ataque rápido (máx.)",
-              "fr": "Attaque rapide (max)",
-              "ko": "빠른 공격 (최대)"
-            }
-          },
-          "value": 67.0,
-          "formatted": {
-            "value": {
-              "ru": "67 ед",
-              "en": "67 unit(s)",
-              "es": "67 unidad(es)",
-              "fr": "67 unité(s)",
-              "ko": "67 유닛"
-            },
-            "nameColor": "838383",
-            "valueColor": "EEEEEE"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.tooltip.melee_weapon.info.damage.min.strong",
-            "args": {},
-            "lines": {
-              "ru": "Сильный удар (мин)",
-              "en": "Strong attack (min)",
-              "es": "Ataque potente (mín.)",
-              "fr": "Attaque puissante (min)",
-              "ko": "강한 공격 (최소)"
-            }
-          },
-          "value": 81.0,
-          "formatted": {
-            "value": {
-              "ru": "81 ед",
-              "en": "81 unit(s)",
-              "es": "81 unidad(es)",
-              "fr": "81 unité(s)",
-              "ko": "81 유닛"
-            },
-            "nameColor": "838383",
-            "valueColor": "EEEEEE"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.tooltip.melee_weapon.info.damage.max.strong",
-            "args": {},
-            "lines": {
-              "ru": "Сильный удар (макс)",
-              "en": "Strong attack (max)",
-              "es": "Ataque potente (máx.)",
-              "fr": "Attaque puissante (max)",
-              "ko": "강한 공격 (최대)"
-            }
-          },
-          "value": 90.0,
-          "formatted": {
-            "value": {
-              "ru": "90 ед",
-              "en": "90 unit(s)",
-              "es": "90 unidad(es)",
-              "fr": "90 unité(s)",
-              "ko": "90 유닛"
-            },
-            "nameColor": "838383",
-            "valueColor": "EEEEEE"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.tooltip.melee_weapon.info.reach.common",
-            "args": {},
-            "lines": {
-              "ru": "Досягаемость (быстр)",
-              "en": "Weapon reach (quick)",
-              "es": "Alcance del arma (rápido)",
-              "fr": "Portée de l\u0027arme (rapide)",
-              "ko": "무기 사거리 (빠른 공격)"
-            }
-          },
-          "value": 2.2,
-          "formatted": {
-            "value": {
-              "ru": "2,2 м",
-              "en": "2.2 m",
-              "es": "2,2 m",
-              "fr": "2,2 m",
-              "ko": "2.2 미터"
-            },
-            "nameColor": "838383",
-            "valueColor": "EEEEEE"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.tooltip.melee_weapon.info.reach.strong",
-            "args": {},
-            "lines": {
-              "ru": "Досягаемость (сильн)",
-              "en": "Weapon reach (strong)",
-              "es": "Alcance del arma (potente)",
-              "fr": "Portée de l\u0027arme (puissante)",
-              "ko": "무기 사거리 (강력 공격)"
-            }
-          },
-          "value": 2.2,
-          "formatted": {
-            "value": {
-              "ru": "2,2 м",
-              "en": "2.2 m",
-              "es": "2,2 m",
-              "fr": "2,2 m",
-              "ko": "2.2 미터"
-            },
-            "nameColor": "838383",
-            "valueColor": "EEEEEE"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
             "key": "weapon.tooltip.melee_weapon.stat_name.piercing",
             "args": {},
             "lines": {
@@ -409,6 +247,601 @@
             "nameColor": "838383",
             "valueColor": "EEEEEE"
           }
+        }
+      ]
+    },
+    {
+      "type": "grouped",
+      "compact": [
+        {
+          "type": "list",
+          "title": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.group.fast",
+            "args": {},
+            "lines": {
+              "ru": "Быстрый удар",
+              "en": "Quick Attack",
+              "es": "Ataque rápido",
+              "fr": "Attaque rapide",
+              "ko": "빠른 공격"
+            }
+          },
+          "elements": [
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.damage.fast",
+                "args": {},
+                "lines": {
+                  "ru": "Урон",
+                  "en": "Damage",
+                  "es": "Daño",
+                  "fr": "Dégâts",
+                  "ko": "피해량"
+                }
+              },
+              "value": 51.0,
+              "formatted": {
+                "value": {
+                  "ru": "51 ед",
+                  "en": "51 unit(s)",
+                  "es": "51 unidad(es)",
+                  "fr": "51 unité(s)",
+                  "ko": "51 유닛"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.attack_rate.fast",
+                "args": {},
+                "lines": {
+                  "ru": "Скорость ударов",
+                  "en": "Attack Speed",
+                  "es": "Velocidad de ataque",
+                  "fr": "Vitesse des coups",
+                  "ko": "공격 속도"
+                }
+              },
+              "value": 120.0,
+              "formatted": {
+                "value": {
+                  "ru": "120 уд/мин",
+                  "en": "120 hits/min",
+                  "es": "120 disp./min",
+                  "fr": "120 coups/min",
+                  "ko": "120 RPM"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.reach.fast",
+                "args": {},
+                "lines": {
+                  "ru": "Досягаемость",
+                  "en": "Weapon reach",
+                  "es": "Alcance del arma",
+                  "fr": "Portée",
+                  "ko": "무기 사거리"
+                }
+              },
+              "value": 2.2,
+              "formatted": {
+                "value": {
+                  "ru": "2,2 м",
+                  "en": "2.2 m",
+                  "es": "2,2 m",
+                  "fr": "2,2 m",
+                  "ko": "2.2 미터"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.group.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный удар",
+              "en": "Normal Attack",
+              "es": "Ataque normal",
+              "fr": "Coup moyen",
+              "ko": "일반 공격"
+            }
+          },
+          "elements": [
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.damage.common",
+                "args": {},
+                "lines": {
+                  "ru": "Урон",
+                  "en": "Damage",
+                  "es": "Daño",
+                  "fr": "Dégâts",
+                  "ko": "피해량"
+                }
+              },
+              "value": 68.0,
+              "formatted": {
+                "value": {
+                  "ru": "68 ед",
+                  "en": "68 unit(s)",
+                  "es": "68 unidad(es)",
+                  "fr": "68 unité(s)",
+                  "ko": "68 유닛"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.attack_rate.common",
+                "args": {},
+                "lines": {
+                  "ru": "Скорость ударов",
+                  "en": "Attack Speed",
+                  "es": "Velocidad de ataque",
+                  "fr": "Vitesse des coups",
+                  "ko": "공격 속도"
+                }
+              },
+              "value": 120.0,
+              "formatted": {
+                "value": {
+                  "ru": "120 уд/мин",
+                  "en": "120 hits/min",
+                  "es": "120 disp./min",
+                  "fr": "120 coups/min",
+                  "ko": "120 RPM"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.reach.common",
+                "args": {},
+                "lines": {
+                  "ru": "Досягаемость",
+                  "en": "Weapon reach",
+                  "es": "Alcance del arma",
+                  "fr": "Portée",
+                  "ko": "무기 사거리"
+                }
+              },
+              "value": 2.2,
+              "formatted": {
+                "value": {
+                  "ru": "2,2 м",
+                  "en": "2.2 m",
+                  "es": "2,2 m",
+                  "fr": "2,2 m",
+                  "ko": "2.2 미터"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.group.strong",
+            "args": {},
+            "lines": {
+              "ru": "Сильный удар",
+              "en": "Heavy Attack",
+              "es": "Ataque potente",
+              "fr": "Attaque puissante",
+              "ko": "강공격"
+            }
+          },
+          "elements": [
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.damage.strong",
+                "args": {},
+                "lines": {
+                  "ru": "Урон",
+                  "en": "Damage",
+                  "es": "Daño",
+                  "fr": "Dégâts",
+                  "ko": "피해량"
+                }
+              },
+              "value": 91.0,
+              "formatted": {
+                "value": {
+                  "ru": "91 ед",
+                  "en": "91 unit(s)",
+                  "es": "91 unidad(es)",
+                  "fr": "91 unité(s)",
+                  "ko": "91 유닛"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.attack_rate.strong",
+                "args": {},
+                "lines": {
+                  "ru": "Скорость ударов",
+                  "en": "Attack Speed",
+                  "es": "Velocidad de ataque",
+                  "fr": "Vitesse des coups",
+                  "ko": "공격 속도"
+                }
+              },
+              "value": 66.66667,
+              "formatted": {
+                "value": {
+                  "ru": "66,67 уд/мин",
+                  "en": "66.67 hits/min",
+                  "es": "66,67 disp./min",
+                  "fr": "66,67 coups/min",
+                  "ko": "66.67 RPM"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.reach.strong",
+                "args": {},
+                "lines": {
+                  "ru": "Досягаемость",
+                  "en": "Weapon reach",
+                  "es": "Alcance del arma",
+                  "fr": "Portée",
+                  "ko": "무기 사거리"
+                }
+              },
+              "value": 2.2,
+              "formatted": {
+                "value": {
+                  "ru": "2,2 м",
+                  "en": "2.2 m",
+                  "es": "2,2 m",
+                  "fr": "2,2 m",
+                  "ko": "2.2 미터"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            }
+          ]
+        }
+      ],
+      "detailed": [
+        {
+          "type": "list",
+          "title": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.group.fast",
+            "args": {},
+            "lines": {
+              "ru": "Быстрый удар",
+              "en": "Quick Attack",
+              "es": "Ataque rápido",
+              "fr": "Attaque rapide",
+              "ko": "빠른 공격"
+            }
+          },
+          "elements": [
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.damage.fast",
+                "args": {},
+                "lines": {
+                  "ru": "Урон",
+                  "en": "Damage",
+                  "es": "Daño",
+                  "fr": "Dégâts",
+                  "ko": "피해량"
+                }
+              },
+              "value": 51.0,
+              "formatted": {
+                "value": {
+                  "ru": "51 ед",
+                  "en": "51 unit(s)",
+                  "es": "51 unidad(es)",
+                  "fr": "51 unité(s)",
+                  "ko": "51 유닛"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.attack_rate.fast",
+                "args": {},
+                "lines": {
+                  "ru": "Скорость ударов",
+                  "en": "Attack Speed",
+                  "es": "Velocidad de ataque",
+                  "fr": "Vitesse des coups",
+                  "ko": "공격 속도"
+                }
+              },
+              "value": 120.0,
+              "formatted": {
+                "value": {
+                  "ru": "120 уд/мин",
+                  "en": "120 hits/min",
+                  "es": "120 disp./min",
+                  "fr": "120 coups/min",
+                  "ko": "120 RPM"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.reach.fast",
+                "args": {},
+                "lines": {
+                  "ru": "Досягаемость",
+                  "en": "Weapon reach",
+                  "es": "Alcance del arma",
+                  "fr": "Portée",
+                  "ko": "무기 사거리"
+                }
+              },
+              "value": 2.2,
+              "formatted": {
+                "value": {
+                  "ru": "2,2 м",
+                  "en": "2.2 m",
+                  "es": "2,2 m",
+                  "fr": "2,2 m",
+                  "ko": "2.2 미터"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.group.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный удар",
+              "en": "Normal Attack",
+              "es": "Ataque normal",
+              "fr": "Coup moyen",
+              "ko": "일반 공격"
+            }
+          },
+          "elements": [
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.damage.common",
+                "args": {},
+                "lines": {
+                  "ru": "Урон",
+                  "en": "Damage",
+                  "es": "Daño",
+                  "fr": "Dégâts",
+                  "ko": "피해량"
+                }
+              },
+              "value": 68.0,
+              "formatted": {
+                "value": {
+                  "ru": "68 ед",
+                  "en": "68 unit(s)",
+                  "es": "68 unidad(es)",
+                  "fr": "68 unité(s)",
+                  "ko": "68 유닛"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.attack_rate.common",
+                "args": {},
+                "lines": {
+                  "ru": "Скорость ударов",
+                  "en": "Attack Speed",
+                  "es": "Velocidad de ataque",
+                  "fr": "Vitesse des coups",
+                  "ko": "공격 속도"
+                }
+              },
+              "value": 120.0,
+              "formatted": {
+                "value": {
+                  "ru": "120 уд/мин",
+                  "en": "120 hits/min",
+                  "es": "120 disp./min",
+                  "fr": "120 coups/min",
+                  "ko": "120 RPM"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.reach.common",
+                "args": {},
+                "lines": {
+                  "ru": "Досягаемость",
+                  "en": "Weapon reach",
+                  "es": "Alcance del arma",
+                  "fr": "Portée",
+                  "ko": "무기 사거리"
+                }
+              },
+              "value": 2.2,
+              "formatted": {
+                "value": {
+                  "ru": "2,2 м",
+                  "en": "2.2 m",
+                  "es": "2,2 m",
+                  "fr": "2,2 m",
+                  "ko": "2.2 미터"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": {
+            "type": "translation",
+            "key": "weapon.tooltip.melee_weapon.group.strong",
+            "args": {},
+            "lines": {
+              "ru": "Сильный удар",
+              "en": "Heavy Attack",
+              "es": "Ataque potente",
+              "fr": "Attaque puissante",
+              "ko": "강공격"
+            }
+          },
+          "elements": [
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.damage.strong",
+                "args": {},
+                "lines": {
+                  "ru": "Урон",
+                  "en": "Damage",
+                  "es": "Daño",
+                  "fr": "Dégâts",
+                  "ko": "피해량"
+                }
+              },
+              "value": 91.0,
+              "formatted": {
+                "value": {
+                  "ru": "91 ед",
+                  "en": "91 unit(s)",
+                  "es": "91 unidad(es)",
+                  "fr": "91 unité(s)",
+                  "ko": "91 유닛"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.attack_rate.strong",
+                "args": {},
+                "lines": {
+                  "ru": "Скорость ударов",
+                  "en": "Attack Speed",
+                  "es": "Velocidad de ataque",
+                  "fr": "Vitesse des coups",
+                  "ko": "공격 속도"
+                }
+              },
+              "value": 66.66667,
+              "formatted": {
+                "value": {
+                  "ru": "66,67 уд/мин",
+                  "en": "66.67 hits/min",
+                  "es": "66,67 disp./min",
+                  "fr": "66,67 coups/min",
+                  "ko": "66.67 RPM"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            },
+            {
+              "type": "numeric",
+              "name": {
+                "type": "translation",
+                "key": "weapon.tooltip.melee_weapon.info.reach.strong",
+                "args": {},
+                "lines": {
+                  "ru": "Досягаемость",
+                  "en": "Weapon reach",
+                  "es": "Alcance del arma",
+                  "fr": "Portée",
+                  "ko": "무기 사거리"
+                }
+              },
+              "value": 2.2,
+              "formatted": {
+                "value": {
+                  "ru": "2,2 м",
+                  "en": "2.2 m",
+                  "es": "2,2 m",
+                  "fr": "2,2 m",
+                  "ko": "2.2 미터"
+                },
+                "nameColor": "838383",
+                "valueColor": "EEEEEE"
+              }
+            }
+          ]
         }
       ]
     },

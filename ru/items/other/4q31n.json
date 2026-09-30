@@ -1,0 +1,122 @@
+{
+  "id": "4q31n",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.vozduhan_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Продавец воздуха»",
+      "en": "Air Seller",
+      "es": "Vendedor de aire",
+      "fr": "«Le Marchand d\u0027air»",
+      "ko": "공기 판매자"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.vozduhan_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Неизвестно, насколько мастер любил книги Беляева, но назвал он свое творение именно так. \\nСтвол стабильно выдает воздушную базу, достаточную для того, чтобы усмирить противника без использования пороха. Те “счастливчики“, что держали его в руках, говорят, что он слегка покашливает, от чего мастер-оружейник всегда открещивается.",
+          "en": "No one knows how much the craftsman liked Belyaev’s books, but that is exactly what he named his creation. \\nThe barrel reliably produces enough air pressure to subdue an opponent without using gunpowder. The “lucky few” who have held it say it coughs slightly—a claim the master gunsmith always vehemently denies.",
+          "es": "No se sabe hasta qué punto al maestro le gustaban los libros de Beliáyev, pero decidió llamar así a su creación.\\nEl cañón proporciona de forma estable una base de aire suficiente para someter al adversario sin utilizar pólvora. Los \"afortunados\" que lo han tenido en sus manos dicen que tose ligeramente de vez en cuando, algo que el maestro armero niega rotundamente.",
+          "fr": "On ignore à quel point son créateur aimait les livres de Beliaïev, mais il a nommé son œuvre ainsi. \\nLe canon délivre constamment une base d\u0027air suffisante pour maîtriser un adversaire sans utiliser de poudre. Ceux qui ont eu la chance de le tenir en main disent qu\u0027il toussote légèrement, ce dont l\u0027armurier se défend toujours.",
+          "ko": "장인이 벨랴예프의 책을 얼마나 좋아했는지는 알 수 없지만, 자신의 작품에 붙인 이름만큼은 분명 그를 떠올리게 한다. \\n총열에서는 화약을 사용하지 않고도 상대를 제압할 수 있을 만큼 안정적으로 공기 탄환이 발사된다. 이걸 손에 넣어본 ‘행운아’들은 총이 살짝 기침하듯 소리를 낸다고 말하지만, 무기 장인은 그럴 때마다 자신과는 무관한 일이라며 잡아뗀다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

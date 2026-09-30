@@ -241,6 +241,105 @@
       },
       "elements": [
         {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "value": 0.0,
+          "limit": 46.511665,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Биологическое заражение",
+              "en": "Biological infection",
+              "es": "Infección biológica",
+              "fr": "Infection biologique",
+              "ko": "생체 감염"
+            }
+          },
+          "value": 0.0,
+          "limit": 46.511665,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "value": 0.0,
+          "limit": 46.511665,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "value": -32.4,
+          "limit": 46.511665,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.frost_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Холод",
+              "en": "Frost",
+              "es": "Congelación",
+              "fr": "Givre",
+              "ko": "서리"
+            }
+          },
+          "value": 0.0,
+          "limit": 20.0,
+          "withinLimit": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
           "type": "numeric",
           "name": {
             "type": "translation",
@@ -254,14 +353,14 @@
               "ko": "열"
             }
           },
-          "value": -1.62,
+          "value": -32.4,
           "formatted": {
             "value": {
-              "ru": "-1,62",
-              "en": "-1.62",
-              "es": "-1,62",
-              "fr": "-1,62",
-              "ko": "-1.62"
+              "ru": "-32,4",
+              "en": "-32.4",
+              "es": "-32,4",
+              "fr": "-32,4",
+              "ko": "-32.4"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"

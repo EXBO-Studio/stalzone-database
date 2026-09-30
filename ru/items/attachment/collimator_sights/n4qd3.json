@@ -1235,6 +1235,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.fmg9.name",
+            "args": {},
+            "lines": {
+              "ru": "Magpul FMG-9",
+              "en": "Magpul FMG-9",
+              "es": "Magpul FMG-9",
+              "fr": "Magpul FMG-9",
+              "ko": "Magpul FMG-9"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.vssm.name",
             "args": {},
             "lines": {
