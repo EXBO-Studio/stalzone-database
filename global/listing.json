@@ -16320,6 +16320,26 @@
     }
   },
   {
+    "data": "/items/other/4q31n.json",
+    "icon": "/icons/other/4q31n.png",
+    "name": {
+      "type": "translation",
+      "key": "item.style.wpn.vozduhan_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Продавец воздуха»",
+        "en": "Air Seller",
+        "es": "Vendedor de aire",
+        "fr": "«Le Marchand d\u0027air»",
+        "ko": "공기 판매자"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/96o1q.json",
     "icon": "/icons/other/96o1q.png",
     "name": {
@@ -24820,6 +24840,26 @@
     }
   },
   {
+    "data": "/items/other/5ld90.json",
+    "icon": "/icons/other/5ld90.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.wpn.fmg9_bureau.name",
+      "args": {},
+      "lines": {
+        "ru": "«Ближний круг»",
+        "en": "Inner Circle",
+        "es": "Círculo cercano",
+        "fr": "« Cercle restreint »",
+        "ko": "가까운 동료"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/skins/knlgv.json",
     "icon": "/icons/other/skins/knlgv.png",
     "name": {
@@ -28612,6 +28652,26 @@
         "es": "FN Five-seveN",
         "fr": "FN Five-seveN",
         "ko": "FN Five-seveN"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/pistol/6w61n.json",
+    "icon": "/icons/weapon/pistol/6w61n.png",
+    "name": {
+      "type": "translation",
+      "key": "item.wpn.fmg9.name",
+      "args": {},
+      "lines": {
+        "ru": "Magpul FMG-9",
+        "en": "Magpul FMG-9",
+        "es": "Magpul FMG-9",
+        "fr": "Magpul FMG-9",
+        "ko": "Magpul FMG-9"
       }
     },
     "color": "RANK_MASTER",
@@ -32465,6 +32525,26 @@
     "name": {
       "type": "translation",
       "key": "item.att.scope_steiner46.name",
+      "args": {},
+      "lines": {
+        "ru": "Прицел оптический Steiner",
+        "en": "Steiner Optical Sight",
+        "es": "Mira telescópica Steiner",
+        "fr": "Viseur optique Steiner",
+        "ko": "슈타이너 광학 조준경"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/attachment/collimator_sights/p6l4d.json",
+    "icon": "/icons/attachment/collimator_sights/p6l4d.png",
+    "name": {
+      "type": "translation",
+      "key": "item.att.scope_steiner46_dmz26.name",
       "args": {},
       "lines": {
         "ru": "Прицел оптический Steiner",
@@ -42655,26 +42735,6 @@
     "color": "DEFAULT",
     "status": {
       "state": "NONE"
-    }
-  },
-  {
-    "data": "/items/other/9dz1z.json",
-    "icon": "/icons/other/9dz1z.png",
-    "name": {
-      "type": "translation",
-      "key": "item.filler.mob_wnorth_1.name",
-      "args": {},
-      "lines": {
-        "ru": "Светящаяся слизь",
-        "en": "Glowing Phlegm",
-        "es": "Mucosidad brillante",
-        "fr": "Mucus luminescent",
-        "ko": "빛나는 가래"
-      }
-    },
-    "color": "DEFAULT",
-    "status": {
-      "state": "PERSONAL_DROP_ON_GET"
     }
   },
   {

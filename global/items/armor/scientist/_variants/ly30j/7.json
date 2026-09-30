@@ -80,6 +80,33 @@
           }
         },
         {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.armor_artefact.stat_name.hitbox_size",
+            "args": {},
+            "lines": {
+              "ru": "Габариты",
+              "en": "Size",
+              "es": "Tamaño",
+              "fr": "Taille",
+              "ko": "크기"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.armor_artefact.hitbox_size.small",
+            "args": {},
+            "lines": {
+              "ru": "Маленькие",
+              "en": "Small",
+              "es": "Pequeño",
+              "fr": "Petit",
+              "ko": "소형"
+            }
+          }
+        },
+        {
           "type": "numeric",
           "name": {
             "type": "translation",
@@ -280,14 +307,14 @@
               "ko": "출혈"
             }
           },
-          "value": -0.5,
+          "value": -10.0,
           "formatted": {
             "value": {
-              "ru": "-0,5",
-              "en": "-0.5",
-              "es": "-0,5",
-              "fr": "-0,5",
-              "ko": "-0.5"
+              "ru": "-10",
+              "en": "-10",
+              "es": "-10",
+              "fr": "-10",
+              "ko": "-10"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"

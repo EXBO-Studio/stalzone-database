@@ -53,6 +53,33 @@
           }
         },
         {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "weapon.tooltip.weapon.info.weapon_type",
+            "args": {},
+            "lines": {
+              "ru": "Тип",
+              "en": "Type",
+              "es": "Tipo",
+              "fr": "Type",
+              "ko": "종류"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "weapon.tooltip.weapon.info.weapon_type.secondary",
+            "args": {},
+            "lines": {
+              "ru": "Вторичное оружие",
+              "en": "Secondary Weapon",
+              "es": "Arma secundaria",
+              "fr": "Arme secondaire",
+              "ko": "보조 무기"
+            }
+          }
+        },
+        {
           "type": "numeric",
           "name": {
             "type": "translation",

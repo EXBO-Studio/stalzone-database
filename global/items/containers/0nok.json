@@ -241,6 +241,105 @@
       },
       "elements": [
         {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "value": 0.0,
+          "limit": 25.000025,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Биологическое заражение",
+              "en": "Biological infection",
+              "es": "Infección biológica",
+              "fr": "Infection biologique",
+              "ko": "생체 감염"
+            }
+          },
+          "value": 0.0,
+          "limit": 25.000025,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "value": 0.0,
+          "limit": 25.000025,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "value": 0.0,
+          "limit": 25.000025,
+          "withinLimit": true
+        },
+        {
+          "type": "threshold",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.frost_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Холод",
+              "en": "Frost",
+              "es": "Congelación",
+              "fr": "Givre",
+              "ko": "서리"
+            }
+          },
+          "value": 20.0,
+          "limit": 20.0,
+          "withinLimit": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
           "type": "numeric",
           "name": {
             "type": "translation",
@@ -254,14 +353,14 @@
               "ko": "서리"
             }
           },
-          "value": 1.0,
+          "value": 20.0,
           "formatted": {
             "value": {
-              "ru": "1",
-              "en": "1",
-              "es": "1",
-              "fr": "1",
-              "ko": "1"
+              "ru": "20",
+              "en": "20",
+              "es": "20",
+              "fr": "20",
+              "ko": "20"
             },
             "nameColor": "C15252",
             "valueColor": "C15252"
@@ -284,7 +383,7 @@
           "en": "A unique container, found while studying the Trailblazers\u0027 equipment warehouses in the lab under the Radar, nicknamed Sheaf by stalkers.\\n\\nAs the most experienced stalkers say, during the arrival of Knyazev\u0027s group in the Zone, Scientific Research Institute 7 produced only a few containers from the KZS and Canister series. It seems Sheaf is the result of the Trailblazers\u0027 group\u0027s efforts, likely drawing certain knowledge from the lab where the group settled.",
           "es": "Contenedor único, encontrado durante el estudio de los almacenes con el equipamiento de los Pioneros en el laboratorio bajo el Radar, llamado Haz por los acechadores.\\n\\nSegún los acechadores más experimentados, cuando el grupo de Princeton llegó a la Zona, el Instituto de Investigación 7 solo había fabricado unos pocos contenedores de la serie KZS y Bidón. Al parecer, Haz es el resultado del trabajo del propio grupo de los Pioneros, que probablemente obtuvieron ciertos conocimientos del laboratorio donde se instaló el grupo.",
           "fr": "Un conteneur unique, découvert lors de l\u0027étude des entrepôts avec l\u0027équipement des Pionniers dans le laboratoire sous le Radar, surnommé par les stalkers — Fagot.\\n\\nSelon les stalkers les plus expérimentés, au moment de l\u0027arrivée du groupe de Knyazev dans la Zone, l\u0027Institut de Recherche 7 ne produisait que quelques conteneurs des séries KZS et Bidon. Il semblerait que le Fagot soit le résultat du travail du groupe même des Pionniers, qui aurait probablement puisé certaines connaissances dans le laboratoire ou s\u0027était établi le groupe.",
-          "ko": "레이더 아래 연구소에서, 개척자들의 장비 창고를 조사하던 중 발견된 독특한 컨테이너로, 스토커들은 이를 \"층\"이라고 부른다.\\n\\n노련한 스토커들 말에 따르면, 크냐제프 일행이 구역에 도착할 당시 제 7 연구소가 만들던 것은 KZS 시리즈와 금속통 시리즈의 컨테이너 몇 개 정도였다고 한다. 층은 아마도 개척자 그룹이 만든 결과물이며, 그들이 둥지를 튼 연구소에서 특정 지식을 얻어 제작한 것으로 보인다."
+          "ko": "레이더 아래 연구소에서, 개척자들의 장비 창고를 조사하던 중 발견된 독특한 컨테이너로, 스토커들은 이를 묶음이라고 부른다.\\n\\n노련한 스토커들 말에 따르면, 크냐제프 일행이 구역에 도착할 당시 제 7 연구소가 만들던 것은 KZS 시리즈와 금속통 시리즈의 컨테이너 몇 개 정도였다고 한다. 층은 아마도 개척자 그룹이 만든 결과물이며, 그들이 둥지를 튼 연구소에서 특정 지식을 얻어 제작한 것으로 보인다."
         }
       }
     }

@@ -917,6 +917,21 @@
           "type": "item",
           "name": {
             "type": "translation",
+            "key": "item.wpn.mr155_ultima.name",
+            "args": {},
+            "lines": {
+              "ru": "MP-155 Ultima",
+              "en": "MP-155 Ultima",
+              "es": "MP-155 Ultima",
+              "fr": "MP-155 Ultima",
+              "ko": "MP-155 Ultima"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
             "key": "item.wpn.saiga12.name",
             "args": {},
             "lines": {

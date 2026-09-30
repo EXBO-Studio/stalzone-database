@@ -1,0 +1,122 @@
+{
+  "id": "5ld90",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.wpn.fmg9_bureau.name",
+    "args": {},
+    "lines": {
+      "ru": "«Ближний круг»",
+      "en": "Inner Circle",
+      "es": "Círculo cercano",
+      "fr": "« Cercle restreint »",
+      "ko": "가까운 동료"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив оружия",
+              "en": "Weapon motif",
+              "es": "Motivo para arma",
+              "fr": "Motif d\u0027arme",
+              "ko": "무기 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.wpn.fmg9_bureau.description",
+        "args": {},
+        "lines": {
+          "ru": "Мотив для FMG-9, разработанный по заказу Барона для ограниченного круг лиц.\\n\\nОтделка из дорогой кожи и благородный блеск металла превращают пистолет-пулемет в предмет коллекционной ценности. Такая работа, выполненная вручную, стоит немалых денег, но, по словам Барона, правильное впечатление тоже имеет свою цену.",
+          "en": "A motif for the FMG-9, commissioned by Baron for a select few. \\n\\nPremium leather trim and the noble gleam of metal turn this submachine gun into a true collector’s piece. Handcrafted work of this caliber doesn’t come cheap, but according to Baron, making the right impression has its price too.",
+          "es": "Motivo para el FMG-9, desarrollado por encargo de Barón para un círculo limitado de personas.\\n\\nEl acabado en cuero de alta calidad caro y el noble brillo del metal convierten la pistola ametralladora en una pieza de valor coleccionable. Un trabajo así, hecho a mano, cuesta mucho dinero, pero, según Barón, causar la impresión adecuada también tiene su precio.",
+          "fr": "Un motif pour le FMG-9, conçu sur commande du Baron pour un cercle restreint. \\n\\nDes finitions en cuir coûteux et l\u0027éclat raffiné du métal transforment le pistolet-mitrailleur en véritable pièce de collection. Ce genre de travail, réalisé à la main, coûte une petite fortune, mais, selon le Baron, « une bonne impression a aussi son prix ».",
+          "ko": "바론이 극소수의 측근을 위해 의뢰한 FMG-9 모티브입니다. \\n\\n고급 가죽 마감과 금속의 고귀한 광택이 이 기관단총을 진정한 수집품으로 탈바꿈시켰습니다. 이 정도 수준의 수제품은 결코 저렴하지 않지만, 바론의 말에 따르면 제대로 된 인상을 남기는 데에 그만한 대가가 따르는 법입니다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}
