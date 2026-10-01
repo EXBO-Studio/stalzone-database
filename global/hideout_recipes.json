@@ -12424,6 +12424,58 @@
       },
       "result": [
         {
+          "item": "y7dz",
+          "amount": 12
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "4koro",
+          "amount": 14
+        },
+        {
+          "item": "5logg",
+          "amount": 1
+        }
+      ],
+      "energy": 100.0,
+      "requirements": {
+        "perks": {
+          "materials": 1
+        },
+        "features": [
+          "centrifuge"
+        ]
+      }
+    },
+    {
+      "bench": "laboratory_table",
+      "category": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.name",
+        "args": {},
+        "lines": {
+          "ru": "Материалы",
+          "en": "Materials",
+          "es": "Materiales",
+          "fr": "Matériaux",
+          "ko": "재료"
+        }
+      },
+      "subcategory": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.mixtures.name",
+        "args": {},
+        "lines": {
+          "ru": "Смеси",
+          "en": "Compounds",
+          "es": "Compuesto",
+          "fr": "Composés",
+          "ko": "화합물"
+        }
+      },
+      "result": [
+        {
           "item": "wodp",
           "amount": 12
         }
@@ -12528,6 +12580,58 @@
       },
       "result": [
         {
+          "item": "wodp",
+          "amount": 12
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "4koro",
+          "amount": 14
+        },
+        {
+          "item": "5logg",
+          "amount": 1
+        }
+      ],
+      "energy": 100.0,
+      "requirements": {
+        "perks": {
+          "materials": 1
+        },
+        "features": [
+          "centrifuge"
+        ]
+      }
+    },
+    {
+      "bench": "laboratory_table",
+      "category": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.name",
+        "args": {},
+        "lines": {
+          "ru": "Материалы",
+          "en": "Materials",
+          "es": "Materiales",
+          "fr": "Matériaux",
+          "ko": "재료"
+        }
+      },
+      "subcategory": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.mixtures.name",
+        "args": {},
+        "lines": {
+          "ru": "Смеси",
+          "en": "Compounds",
+          "es": "Compuesto",
+          "fr": "Composés",
+          "ko": "화합물"
+        }
+      },
+      "result": [
+        {
           "item": "404p",
           "amount": 12
         }
@@ -12601,6 +12705,58 @@
         },
         "features": [
           "laboratory_table"
+        ]
+      }
+    },
+    {
+      "bench": "laboratory_table",
+      "category": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.name",
+        "args": {},
+        "lines": {
+          "ru": "Материалы",
+          "en": "Materials",
+          "es": "Materiales",
+          "fr": "Matériaux",
+          "ko": "재료"
+        }
+      },
+      "subcategory": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.mixtures.name",
+        "args": {},
+        "lines": {
+          "ru": "Смеси",
+          "en": "Compounds",
+          "es": "Compuesto",
+          "fr": "Composés",
+          "ko": "화합물"
+        }
+      },
+      "result": [
+        {
+          "item": "404p",
+          "amount": 12
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "4koro",
+          "amount": 14
+        },
+        {
+          "item": "5logg",
+          "amount": 1
+        }
+      ],
+      "energy": 100.0,
+      "requirements": {
+        "perks": {
+          "materials": 1
+        },
+        "features": [
+          "centrifuge"
         ]
       }
     },
@@ -12966,6 +13122,59 @@
       },
       "result": [
         {
+          "item": "dqn9",
+          "amount": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "4koro",
+          "amount": 25
+        },
+        {
+          "item": "wodp",
+          "amount": 5
+        }
+      ],
+      "energy": 300.0,
+      "requirements": {
+        "perks": {
+          "materials": 1
+        },
+        "features": [
+          "centrifuge",
+          "rotary_evaporator"
+        ]
+      }
+    },
+    {
+      "bench": "laboratory_table",
+      "category": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.name",
+        "args": {},
+        "lines": {
+          "ru": "Материалы",
+          "en": "Materials",
+          "es": "Materiales",
+          "fr": "Matériaux",
+          "ko": "재료"
+        }
+      },
+      "subcategory": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.mixtures.name",
+        "args": {},
+        "lines": {
+          "ru": "Смеси",
+          "en": "Compounds",
+          "es": "Compuesto",
+          "fr": "Composés",
+          "ko": "화합물"
+        }
+      },
+      "result": [
+        {
           "item": "7l127",
           "amount": 5
         }
@@ -12974,6 +13183,63 @@
         {
           "item": "w39k3",
           "amount": 3
+        },
+        {
+          "item": "5logg",
+          "amount": 3
+        },
+        {
+          "item": "wodp",
+          "amount": 2
+        }
+      ],
+      "energy": 300.0,
+      "requirements": {
+        "perks": {
+          "materials": 2
+        },
+        "features": [
+          "chemical_reactor",
+          "laminar_box"
+        ]
+      }
+    },
+    {
+      "bench": "laboratory_table",
+      "category": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.name",
+        "args": {},
+        "lines": {
+          "ru": "Материалы",
+          "en": "Materials",
+          "es": "Materiales",
+          "fr": "Matériaux",
+          "ko": "재료"
+        }
+      },
+      "subcategory": {
+        "type": "translation",
+        "key": "hideout.benches.categories.materials.mixtures.name",
+        "args": {},
+        "lines": {
+          "ru": "Смеси",
+          "en": "Compounds",
+          "es": "Compuesto",
+          "fr": "Composés",
+          "ko": "화합물"
+        }
+      },
+      "result": [
+        {
+          "item": "7l127",
+          "amount": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "item": "4koro",
+          "amount": 43
         },
         {
           "item": "5logg",
