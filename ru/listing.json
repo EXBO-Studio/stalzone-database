@@ -42938,6 +42938,26 @@
     }
   },
   {
+    "data": "/items/misc/4koro.json",
+    "icon": "/icons/misc/4koro.png",
+    "name": {
+      "type": "translation",
+      "key": "item.filler.node_5.name",
+      "args": {},
+      "lines": {
+        "ru": "Образцы",
+        "en": "Samples",
+        "es": "Muestras",
+        "fr": "Échantillons",
+        "ko": "샘플"
+      }
+    },
+    "color": "DEFAULT",
+    "status": {
+      "state": "NONE"
+    }
+  },
+  {
     "data": "/items/misc/dryl2.json",
     "icon": "/icons/misc/dryl2.png",
     "name": {
