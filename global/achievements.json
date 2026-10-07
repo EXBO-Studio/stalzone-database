@@ -15258,5 +15258,145 @@
       }
     },
     "points": 10
+  },
+  {
+    "id": "guide_contest",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.guide_contest.title",
+      "args": {},
+      "lines": {
+        "ru": "Кодекс Выжившего",
+        "en": "Survivor\u0027s Codex",
+        "es": "Código del Superviviente",
+        "fr": "Codex du Survivant",
+        "ko": "생존자의 규율"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.guide_contest.desc",
+      "args": {},
+      "lines": {
+        "ru": "Занять призовое место в конкурсе гайдов.",
+        "en": "Win a prize in the guide contest.",
+        "es": "Quedar entre los ganadores del concurso de guías.",
+        "fr": "Remporter une place au concours de guides.",
+        "ko": "공략 대회에서 입상했다."
+      }
+    },
+    "points": 0
+  },
+  {
+    "id": "decay_chain_follower",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_follower.title",
+      "args": {},
+      "lines": {
+        "ru": "Последователь Распада",
+        "en": "Follower of the Decay",
+        "es": "Seguidor del Colapso",
+        "fr": "Disciple de la Décomposition",
+        "ko": "붕괴의 추종자"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_follower.desc",
+      "args": {},
+      "lines": {
+        "ru": "За участие в разгадке Цепи Распада.",
+        "en": "For taking part in unraveling the Chain of Decay.",
+        "es": "Por participar en la resolución de la Cadena del Colapso.",
+        "fr": "Pour avoir participé à la résolution de la Chaîne de Décomposition",
+        "ko": "붕괴의 사슬 해독에 참여한 공로로."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "decay_chain_witness",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_witness.title",
+      "args": {},
+      "lines": {
+        "ru": "Свидетель Распада",
+        "en": "Witness of the Decay",
+        "es": "Testigo del Colapso",
+        "fr": "Témoin de la Décomposition",
+        "ko": "붕괴의 목격자"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_witness.desc",
+      "args": {},
+      "lines": {
+        "ru": "За активное участие в решении загадок Цепи Распада.",
+        "en": "For active participation in solving the riddles of the Chain of Decay.",
+        "es": "Por participar activamente en la resolución de los enigmas de la Cadena del Colapso.",
+        "fr": "Pour avoir activement participé à la résolution des énigmes de la Chaîne de Décomposition",
+        "ko": "붕괴의 사슬 수수께끼 해결에 적극적으로 참여한 공로로."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "decay_chain_guide",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_guide.title",
+      "args": {},
+      "lines": {
+        "ru": "Проводник Распада",
+        "en": "Guide of the Decay",
+        "es": "Guía del Colapso",
+        "fr": "Guide de la Décomposition",
+        "ko": "붕괴의 길잡이"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_guide.desc",
+      "args": {},
+      "lines": {
+        "ru": "За активнейшее участие в прохождении Цепи Распада.",
+        "en": "For exceptionally active participation in completing the Chain of Decay.",
+        "es": "Por participar de forma especialmente activa en la superación de la Cadena del Colapso.",
+        "fr": "Pour avoir participé très activement à la progression de la Chaîne de Décomposition",
+        "ko": "붕괴의 사슬 공략에 가장 적극적으로 참여한 공로로."
+      }
+    },
+    "points": 15
+  },
+  {
+    "id": "decay_chain_solver",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_solver.title",
+      "args": {},
+      "lines": {
+        "ru": "Познавший Распад",
+        "en": "One Who Knows Decay",
+        "es": "Conocedor del Colapso",
+        "fr": "Celui qui a percé la Décomposition",
+        "ko": "붕괴를 깨달은 자"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.decay_chain_solver.desc",
+      "args": {},
+      "lines": {
+        "ru": "Первый, кто преодолел все загадки и решил тайну Цепи Распада.",
+        "en": "The first to overcome every riddle and uncover the mystery of the Chain of Decay.",
+        "es": "El primero en superar todos los enigmas y desvelar el misterio de la Cadena del Colapso.",
+        "fr": "Le premier à avoir résolu toutes les énigmes et percé le mystère de la Chaîne de Décomposition",
+        "ko": "모든 수수께끼를 풀고 붕괴의 사슬의 비밀을 밝혀낸 최초의 자."
+      }
+    },
+    "points": 20
   }
 ]

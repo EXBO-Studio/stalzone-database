@@ -352,9 +352,9 @@
             "args": {},
             "lines": {
               "ru": "Восстановление выносливости",
-              "en": "Stamina regeneration",
-              "es": "Regeneración de aguante",
-              "fr": "Régénération de l\u0027endurance",
+              "en": "Stamina recovery",
+              "es": "Recuperación de aguante",
+              "fr": "Récupération d\u0027endurance",
               "ko": "스태미나 재생"
             }
           },

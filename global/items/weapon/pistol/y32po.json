@@ -1726,7 +1726,7 @@
                 "args": {},
                 "lines": {
                   "ru": "Скорость в прицеливании",
-                  "en": "Speed during aiming",
+                  "en": "Aiming Movement Speed",
                   "es": "Velocidad de apuntado",
                   "fr": "Vitesse de visée",
                   "ko": "조준 속도"

@@ -36600,6 +36600,46 @@
     }
   },
   {
+    "data": "/items/attachment/forend/96pnz.json",
+    "icon": "/icons/attachment/forend/96pnz.png",
+    "name": {
+      "type": "translation",
+      "key": "item.att.mount_fmg9_ris.name",
+      "args": {},
+      "lines": {
+        "ru": "Крепление на рукоятке переноски",
+        "en": "Carry Handle Mount",
+        "es": "Montaje en el asa de transporte",
+        "fr": "Montage sur poignée de transport",
+        "ko": "운반용 손잡이 장착부"
+      }
+    },
+    "color": "DEFAULT",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/attachment/forend/1r3k1.json",
+    "icon": "/icons/attachment/forend/1r3k1.png",
+    "name": {
+      "type": "translation",
+      "key": "item.att.mount_ash12_ris.name",
+      "args": {},
+      "lines": {
+        "ru": "Крепление на рукоятке переноски",
+        "en": "Carry Handle Mount",
+        "es": "Montaje en el asa de transporte",
+        "fr": "Montage sur poignée de transport",
+        "ko": "운반용 손잡이 장착부"
+      }
+    },
+    "color": "DEFAULT",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/attachment/pistol_handle/96ldw.json",
     "icon": "/icons/attachment/pistol_handle/96ldw.png",
     "name": {
