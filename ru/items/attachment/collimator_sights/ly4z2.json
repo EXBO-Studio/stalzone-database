@@ -2573,6 +2573,21 @@
               "ko": "SVT용 피카티니 레일"
             }
           }
+        },
+        {
+          "type": "item",
+          "name": {
+            "type": "translation",
+            "key": "item.att.mount_ash12_ris.name",
+            "args": {},
+            "lines": {
+              "ru": "Крепление на рукоятке переноски",
+              "en": "Carry Handle Mount",
+              "es": "Montaje en el asa de transporte",
+              "fr": "Montage sur poignée de transport",
+              "ko": "운반용 손잡이 장착부"
+            }
+          }
         }
       ]
     }
