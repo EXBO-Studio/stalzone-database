@@ -1,0 +1,121 @@
+{
+  "id": "5ldl1",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.marten_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Алый саван»",
+      "en": "Scarlet Shroud",
+      "es": "Sudario escarlata",
+      "fr": "« Linceul écarlate »",
+      "ko": "진홍빛 수의"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.marten_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Говорят, эту броню сняли с «заветовца», который получил ее лично от Митрополита за верность Господу.\\n\\nКто же знал, что следующим его заданием станет доказательство искренности веры.",
+          "en": "They say this armor was taken from a Covenant member who had received it personally from the Metropolite for his loyalty to the Lord.\\n\\nWho could have known that his next assignment would be to prove the sincerity of his faith?",
+          "es": "Dicen que esta armadura fue retirada del cadáver de un miembro del Pacto, quien la había recibido personalmente de Metropolita como recompensa por su fidelidad al Señor.\\n\\nQuién iba a imaginar que su siguiente misión sería demostrar la sinceridad de su fe.",
+          "fr": "On dit que cette armure appartenait à un « homme de l\u0027Alliance », qui l\u0027avait reçue en personne du Métropolite pour sa fidélité au Seigneur.\\n\\nQui aurait pu imaginer que sa prochaine mission serait de prouver la sincérité de sa foi.",
+          "ko": "이 방어구는 주님에 대한 충성을 인정받아 대주교에게 직접 하사받은 커버넌트 구성원에게서 벗겨냈다고 한다.\\n\\n다음 임무가 자신의 신앙이 진실함을 증명하는 일이 될 줄 누가 알았겠는가."
+        }
+      }
+    },
+    {}
+  ]
+}

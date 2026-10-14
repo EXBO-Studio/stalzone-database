@@ -1,0 +1,122 @@
+{
+  "id": "96m6l",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.zveroboi_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Квакист»",
+      "en": "Croakerator",
+      "es": "Ranarista",
+      "fr": "« Crapaudiste »",
+      "ko": "콰전병"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.zveroboi_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Кастомизированный комплект охотничьей брони, переработанной для работы радистов «Рубежа». Судя по объяснениям мастера, выставившего лот на аукцион, броня попала к нему в довольно убитом состоянии. Чтобы скрыть косметические повреждения, механик покрасил броню в довольно простенький камуфляж «Жаба», но в моменте не смог сдержать свой творческий порыв…",
+          "en": "A customized set of hunting armor, reworked for use by Frontier radio operators. Judging by the explanation from the craftsman who put the lot up for auction, the armor came into his possession in pretty rough shape. To hide the cosmetic damage, the mechanic painted it in a fairly basic Toad camouflage pattern—but he couldn’t resist a creative impulse...",
+          "es": "Un conjunto personalizado de armadura de caza, adaptado para el trabajo de los operadores de radio de Frontera. Según explicó el maestro que puso el lote a subasta, la armadura llegó a sus manos en un estado bastante lamentable. Para ocultar los desperfectos estéticos, el mecánico la pintó con un camuflaje bastante sencillo llamado Sapo, pero en algún momento no pudo contener su vena creativa...",
+          "fr": "Un ensemble d\u0027armure de chasse customisé, retravaillé pour les opérateurs radio de la « Frontière ». D\u0027après les explications du maître qui a mis le lot aux enchères, l\u0027armure lui est parvenue dans un état assez délabré. Pour cacher les dommages cosmétiques, le mécanicien a peint l\u0027armure avec un camouflage assez simple appelé « Crapaud », mais sur le moment, il n\u0027a pas pu retenir son élan créatif…",
+          "ko": "프론티어의 무전병들이 사용할 수 있도록 개조한 커스텀 사냥꾼용 방어구 세트. 경매에 이 물건을 출품한 장인의 설명에 따르면, 이 방어구는 상당히 낡고 망가진 상태로 그의 손에 들어왔다고 한다. 외관상의 손상을 감추기 위해 정비공은 방어구에 꽤 단순한 두꺼비 위장 도색을 입혔지만, 그 순간 자신의 창작 욕구를 억누르지 못하고 말았다…"
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

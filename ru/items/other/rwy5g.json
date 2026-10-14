@@ -1,0 +1,121 @@
+{
+  "id": "rwy5g",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.cont.pathfinder_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Арбуз»",
+      "en": "Watermelon",
+      "es": "Sandía",
+      "fr": "« Pastèque »",
+      "ko": "수박"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpack_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив рюкзака",
+              "en": "Backpack Motif",
+              "es": "Motivo de la mochila",
+              "fr": "Motif du sac à dos",
+              "ko": "배낭 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.cont.pathfinder_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Просто «Вязанка». Просто перекрашенная в цвета арбуза.",
+          "en": "Just a Sheaf. Just repainted in watermelon colors.",
+          "es": "Haz sin más. Simplemente repintada con los colores de una sandía.",
+          "fr": "Un « Fagot » tout ce qu\u0027il y a de plus ordinaire. Juste repeinte aux couleurs d\u0027une pastèque.",
+          "ko": "그저 묶음. 그저 수박색으로 다시 칠했을 뿐이다."
+        }
+      }
+    },
+    {}
+  ]
+}

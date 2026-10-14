@@ -1,0 +1,121 @@
+{
+  "id": "m09oj",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.cont.bear6_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Казанова»",
+      "en": "Casanova",
+      "es": "Casanova",
+      "fr": "« Casanova »",
+      "ko": "카사노바"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpack_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив рюкзака",
+              "en": "Backpack Motif",
+              "es": "Motivo de la mochila",
+              "fr": "Motif du sac à dos",
+              "ko": "배낭 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.cont.bear6_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Уникальная и довольно экстравагантная кастомизация «Берлоги», выставленная на аукцион одним ростовщиком, известным тем, что готов снять с должника последние трусы, лишь бы забрать причитающиеся деньги.\\n\\nПо слухам, принадлежала одному бандиту, прославившемуся романтическими похождениями за Периметром.",
+          "en": "A unique and rather extravagant customization of Berloga, put up for auction by a loan shark known for being willing to strip debtors down to their underwear just to collect what he’s owed.\\n\\nRumor has it that it once belonged to a bandit famed for his romantic escapades beyond the Perimeter.",
+          "es": "Una personalización única y bastante extravagante de Berloga, puesta a subasta por un prestamista conocido por ser capaz de quitarle hasta los calzoncillos a un deudor con tal de recuperar hasta el último céntimo.\\n\\nSegún los rumores, perteneció a un bandido que se hizo famoso por sus aventuras amorosas más allá del Perímetro.",
+          "fr": "Une version unique, et franchement extravagante, de la « Tanière », mise aux enchères par un usurier réputé pour laisser ses débiteurs en caleçon s\u0027il le faut pour récupérer son argent.\\n\\nLa rumeur raconte qu\u0027elle appartenait autrefois à un bandit dont les aventures galantes au-delà du Périmètre lui avaient valu une certaine réputation.",
+          "ko": "경매에 올라온 독특하고 꽤나 괴짜스러운 소굴 커스터마이징. 빚쟁이에게서 마지막 속옷까지 벗겨서라도 받아낼 돈은 반드시 받아내기로 악명 높은 한 고리대금업자가 내놓은 물건이다.\\n\\n소문에 따르면, 경계선 너머에서 벌인 낭만적인 연애 행각으로 이름을 날린 어느 무법자의 소유였다고 한다."
+        }
+      }
+    },
+    {}
+  ]
+}

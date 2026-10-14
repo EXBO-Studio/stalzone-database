@@ -18900,6 +18900,66 @@
     }
   },
   {
+    "data": "/items/other/rwy5g.json",
+    "icon": "/icons/other/rwy5g.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.cont.pathfinder_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Арбуз»",
+        "en": "Watermelon",
+        "es": "Sandía",
+        "fr": "« Pastèque »",
+        "ko": "수박"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/0rmgd.json",
+    "icon": "/icons/other/0rmgd.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.cont.hive_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Пятница»",
+        "en": "Friday",
+        "es": "Viernes",
+        "fr": "« Vendredi »",
+        "ko": "금요일"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/m09oj.json",
+    "icon": "/icons/other/m09oj.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.cont.bear6_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Казанова»",
+        "en": "Casanova",
+        "es": "Casanova",
+        "fr": "« Casanova »",
+        "ko": "카사노바"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
     "data": "/items/other/9607l.json",
     "icon": "/icons/other/9607l.png",
     "name": {
@@ -23215,6 +23275,146 @@
       }
     },
     "color": "RANK_LEGEND",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/7lrl6.json",
+    "icon": "/icons/other/7lrl6.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.saturn_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Наследник Оазиса»",
+        "en": "Heir of the Oasis",
+        "es": "Heredero del Oasis",
+        "fr": "« Héritier de l\u0027Oasis »",
+        "ko": "오아시스의 계승자"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/6wrwp.json",
+    "icon": "/icons/other/6wrwp.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.skat10_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Скорая»",
+        "en": "Ambulance",
+        "es": "Ambulancia",
+        "fr": "« Ambulance »",
+        "ko": "구급차"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/96m6l.json",
+    "icon": "/icons/other/96m6l.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.zveroboi_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Квакист»",
+        "en": "Croakerator",
+        "es": "Ranarista",
+        "fr": "« Crapaudiste »",
+        "ko": "콰전병"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/1rdrg.json",
+    "icon": "/icons/other/1rdrg.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.ganymede_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«К звездам!»",
+        "en": "To the stars!",
+        "es": "¡Hacia las estrellas!",
+        "fr": "« Vers les étoiles ! »",
+        "ko": "별을 향해!"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/g4046.json",
+    "icon": "/icons/other/g4046.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.ao6_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Галахад»",
+        "en": "Galahad",
+        "es": "Galahad",
+        "fr": "« Galaad »",
+        "ko": "갈라하드"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/zz7zy.json",
+    "icon": "/icons/other/zz7zy.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.zivcas_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Бусидо»",
+        "en": "Bushido",
+        "es": "Bushido",
+        "fr": "« Bushido »",
+        "ko": "부시도"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/other/5ldl1.json",
+    "icon": "/icons/other/5ldl1.png",
+    "name": {
+      "type": "translation",
+      "key": "item.motif.arm.marten_autumn26.name",
+      "args": {},
+      "lines": {
+        "ru": "«Алый саван»",
+        "en": "Scarlet Shroud",
+        "es": "Sudario escarlata",
+        "fr": "« Linceul écarlate »",
+        "ko": "진홍빛 수의"
+      }
+    },
+    "color": "RANK_MASTER",
     "status": {
       "state": "PERSONAL_ON_USE"
     }

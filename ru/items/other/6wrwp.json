@@ -1,0 +1,121 @@
+{
+  "id": "6wrwp",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.skat10_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Скорая»",
+      "en": "Ambulance",
+      "es": "Ambulancia",
+      "fr": "« Ambulance »",
+      "ko": "구급차"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.skat10_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Поговаривают, что известный в Баре механик делал эту модификацию «Скифа» в подарок для медика, обитающего в «Жилке». Но, судя по всему, подарок ему не особо понравился…",
+          "en": "Rumor has it that a well-known mechanic at the Bar made this Scythian modification as a gift for a medic living in the Dorms. But it looks like he didn\u0027t really liked the gift...",
+          "es": "Se rumorea que un conocido mecánico del Bar hizo esta modificación de Escita como regalo para el médico que vive en las     Residencias. Pero, por lo visto, el regalo no fue precisamente de su agrado...",
+          "fr": "À ce qu\u0027on raconte, un mécano bien connu du Bar aurait bricolé cette modification du « Scythian » en cadeau pour un médecin installé à la « Niche ». Mais, apparemment, le cadeau ne lui a pas vraiment plu…",
+          "ko": "술집에서 유명한 정비공이 기숙사에 사는 의무병에게 선물하려고 스키티안을 개조했다는 소문이 있다. 하지만 아무래도 그 선물이 썩 마음에 들지는 않았던 모양이다…"
+        }
+      }
+    },
+    {}
+  ]
+}

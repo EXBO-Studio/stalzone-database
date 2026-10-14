@@ -1,0 +1,121 @@
+{
+  "id": "1rdrg",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.ganymede_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«К звездам!»",
+      "en": "To the stars!",
+      "es": "¡Hacia las estrellas!",
+      "fr": "« Vers les étoiles ! »",
+      "ko": "별을 향해!"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.ganymede_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Хотя под ногами сталкеров находится таинственная и непознанная Зона, некоторые из них все же стремятся ввысь, желая покорить не только ЧЗО, но и космические просторы.",
+          "en": "Although the mysterious and uncharted Zone lies beneath stalkers’ feet, some of them still look skyward, eager to conquer not only the Chernobyl Exclusion Zone, but the vast reaches of space as well.",
+          "es": "Aunque bajo los pies de los acechadores se extiende la misteriosa e inexplorada Zona, algunos siguen mirando hacia las alturas, deseosos de conquistar no solo la ZEC, sino también la inmensidad del espacio.",
+          "fr": "Bien que la Zone mystérieuse et inconnue se trouve sous les pieds des stalkers, certains d\u0027entre eux aspirent néanmoins à s\u0027élever, désirant conquérir non seulement la ZET, mais aussi les vastes étendues de l\u0027espace.",
+          "ko": "스토커들의 발밑에는 여전히 신비롭고 미지의 구역이 펼쳐져 있지만, 그중에는 더 높은 곳을 향하는 이들도 있다. 체르노빌 금지 구역뿐만 아니라 광활한 우주까지 정복하고 싶어 하는 것이다."
+        }
+      }
+    },
+    {}
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "g4046",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.ao6_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Галахад»",
+      "en": "Galahad",
+      "es": "Galahad",
+      "fr": "« Galaad »",
+      "ko": "갈라하드"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.ao6_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Персональная кастомизация, заказанная в пару к прочим костюмам отряда, явно подражавшего рыцарям Круглого стола.\\n\\nИ хотя никто уже давно не слышал об этих сталкерах, некоторые любители фольклора Зоны периодически способствуют заказам всевозможных реплик.",
+          "en": "A personal customization commissioned to match the rest of the squad’s suits—a squad that was clearly trying to emulate the knights of the Round Table.\\n\\nAnd while no one has heard from those stalkers in a long time, certain enthusiasts of Zone folklore still occasionally place orders for all kinds of replicas.",
+          "es": "Una personalización encargada para combinar con los demás trajes de un destacamento que, a todas luces, imitaba a los caballeros de la Mesa Redonda.\\n\\nY aunque hace mucho que nadie sabe nada de aquellos acechadores, algunos aficionados al folclore de la Zona siguen encargando de vez en cuando todo tipo de réplicas.",
+          "fr": "Une customisation réalisée sur commande avec deux autres tenues pour une équipe qui avait visiblement un faible pour les chevaliers de la Table ronde.\\n\\nOn n\u0027a plus entendu parler de ces stalkers depuis longtemps, mais leur histoire, elle, continue de circuler : certains passionnés du folklore de la Zone commandent encore des répliques de leurs tenues.",
+          "ko": "원탁의 기사들을 대놓고 흉내 낸 분대의 다른 복장들과 맞추기 위해 주문 제작한 개인 맞춤형 장비.\\n\\n이 스토커들에 대한 소식은 이미 오래전부터 끊겼지만, 구역의 민속을 좋아하는 일부 사람들은 가끔씩 온갖 복제품을 주문하는 데 힘을 보태고 있다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}
