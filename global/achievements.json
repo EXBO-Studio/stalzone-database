@@ -15398,5 +15398,33 @@
       }
     },
     "points": 20
+  },
+  {
+    "id": "autumn26_tainiki",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.autumn26_tainiki.title",
+      "args": {},
+      "lines": {
+        "ru": "Поехавший за схроном",
+        "en": "Stash-Crazed",
+        "es": "Loco por los alijos",
+        "fr": "Parti en vrille pour une cache",
+        "ko": "은닉품을 찾아 떠난 자"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.autumn26_tainiki.desc",
+      "args": {},
+      "lines": {
+        "ru": "Ты что реально их все нашел? Ты что реально веришь слухам? Ха-ха, ну и бредятина!",
+        "en": "Did you seriously find them all? Do you seriously believe the rumors? Ha-ha, what a load of crap!",
+        "es": "¿En serio los encontraste todos? ¿De verdad te crees esos rumores? Ja, ja, ¡menuda sarta de tonterías!",
+        "fr": "Tu les as vraiment tous trouvés ? Tu crois vraiment aux rumeurs ? Ha ha, quelle absurdité !",
+        "ko": "진짜 전부 찾은 거야? 너 진짜 소문을 믿는 거야? 하하, 무슨 헛소리야!"
+      }
+    },
+    "points": 0
   }
 ]
