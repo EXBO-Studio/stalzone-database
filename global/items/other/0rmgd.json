@@ -1,0 +1,121 @@
+{
+  "id": "0rmgd",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.cont.hive_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Пятница»",
+      "en": "Friday",
+      "es": "Viernes",
+      "fr": "« Vendredi »",
+      "ko": "금요일"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.backpack_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив рюкзака",
+              "en": "Backpack Motif",
+              "es": "Motivo de la mochila",
+              "fr": "Motif du sac à dos",
+              "ko": "배낭 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.cont.hive_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Жизнь сталкера как контейнер с артефактами — чем дороже сборка, тем легче идти!",
+          "en": "A stalker’s life is like an artifact container: the pricier the build, the easier the journey!",
+          "es": "La vida de un acechador es como un contenedor de artefactos: cuanto más cara sea la configuración, ¡más ligero se hace el camino!",
+          "fr": "La vie d\u0027un stalker, c\u0027est comme un conteneur à artefacts : plus le matos coûte cher, plus on voyage léger !",
+          "ko": "스토커의 삶은 아티팩트 컨테이너와 같다 — 세팅에 돈을 많이 들일수록 발걸음은 가벼워진다!"
+        }
+      }
+    },
+    {}
+  ]
+}

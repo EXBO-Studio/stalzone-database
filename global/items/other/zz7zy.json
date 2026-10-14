@@ -1,0 +1,121 @@
+{
+  "id": "zz7zy",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.zivcas_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Бусидо»",
+      "en": "Bushido",
+      "es": "Bushido",
+      "fr": "« Bushido »",
+      "ko": "부시도"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.zivcas_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Старожилы из Бара рассказывают, что еще до появления в ЧЗО «Тайфуна», по эту сторону Периметра уже появлялись гости с востока.\\n\\nВсе они или растворились среди прочих обитателей Зоны, или пропали в ней, оставив после себя лишь парочку баек и некоторые образцы кастомизированного снаряжения.\\n\\nИ хотя даже аукционист не осмелился назвать эту модификацию классической «Зивки» такой «реликвией», мастер, постаравшийся над костюмом, явно вдохновлялся сохранившимися историями о тех сталкеров.",
+          "en": "Old-timers at the Bar say that even before Typhoon appeared in the Chernobyl Exclusion Zone, visitors from the East had already shown up on this side of the Perimeter.\\n\\nAll of them either blended in with the Zone’s other inhabitants or vanished into it, leaving behind only a few tall tales and some examples of customized gear.\\n\\nAnd while even the auctioneer didn’t dare call this modification of the classic ZIVCAS one of those “relics,” the craftsman behind the suit was clearly inspired by the surviving stories about those stalkers.",
+          "es": "Los veteranos del Bar cuentan que, mucho antes de que Tifón apareciera en la ZEC, ya habían llegado visitantes del este a este lado del Perímetro.\\n\\nTodos ellos acabaron mezclándose con los demás habitantes de la Zona o desaparecieron en ella, dejando tras de sí apenas un par de historias y algunas muestras de equipamiento personalizado.\\n\\nY aunque ni siquiera el subastador se atrevió a llamar reliquia a esta modificación de la clásica de ZIVCAS, está claro que el maestro que trabajó en el traje se inspiró en las historias que aún se conservan sobre aquellos acechadores.",
+          "fr": "Les anciens du Bar racontent que, bien avant l\u0027arrivée du « Typhon » dans la ZET, d\u0027étranges visiteurs venus de l\u0027est avaient déjà franchi le Périmètre.\\n\\nIls ont fini par disparaître dans la foule des habitants de la Zone… ou par mourir peu après, ne laissant derrière eux que quelques récits et certains exemplaires d\u0027équipement personnalisé.\\n\\nEt bien que même l\u0027enchérisseur n\u0027ait pas osé qualifier cette modification classique du « ZIVCAS » de véritable « relique », le maître qui a travaillé sur ce costume s\u0027est clairement inspiré des histoires qui subsistent sur ces stalkers.",
+          "ko": "술집의 오래된 스토커들은 타이푼이 체르노빌 금지 구역에 나타나기 훨씬 전부터 경계선 이쪽에 동쪽에서 온 손님들이 모습을 드러냈다고 이야기한다.\\n\\n그들은 모두 다른 구역의 주민들 사이로 녹아들었거나 구역에서 자취를 감췄고, 몇 가지 소문과 몇 벌의 커스텀 장비만을 남겼다.\\n\\n그리고 경매상조차 이 개조된 지브카를 고전적인 유물이라 부르지는 못했지만, 이 복장을 공들여 만든 장인은 분명 그 스토커들에 대해 남아 있는 이야기에서 영감을 받은 듯하다."
+        }
+      }
+    },
+    {}
+  ]
+}

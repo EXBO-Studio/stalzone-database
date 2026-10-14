@@ -1,0 +1,122 @@
+{
+  "id": "7lrl6",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.motif.arm.saturn_autumn26.name",
+    "args": {},
+    "lines": {
+      "ru": "«Наследник Оазиса»",
+      "en": "Heir of the Oasis",
+      "es": "Heredero del Oasis",
+      "fr": "« Héritier de l\u0027Oasis »",
+      "ko": "오아시스의 계승자"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.motif.arm.saturn_autumn26.description",
+        "args": {},
+        "lines": {
+          "ru": "Несмотря на реалии Зоны, многие сталкеры до сих пор верят в существование мифических клондайков, безопасных для людей и полных артефактов. Суровая статистика говорит, что большая часть таких романтиков или гибнет в поисках, или бросает надежду обрести заветный клондайк. Но, как говорят старожилы «Пьяного Гейгера», самого известного искателя клондайков, Следопыта, никто так и не нашел мертвым.",
+          "en": "Despite the harsh realities of the Zone, many stalkers still believe in mythical Klondikes: safe havens for humans, brimming with artifacts. Grim statistics show that most of these romantics either die searching for them or eventually give up hope of finding their coveted Klondike. But as the old-timers at the Drunken Geiger say, no one ever found Pathfinder—the most famous Klondike seeker of them all—dead.",
+          "es": "A pesar de la dura realidad de la Zona, muchos acechadores siguen creyendo en la existencia de míticos tesoros, lugares seguros para el ser humano y repletos de artefactos. Las crudas estadísticas dicen que la mayoría de estos románticos mueren durante la búsqueda o terminan perdiendo toda esperanza de encontrar el ansiado tesoro. Sin embargo, según cuentan los veteranos del Geiger Borracho, nadie ha encontrado jamás muerto a Rastreador, el más célebre buscador de tesoros.",
+          "fr": "Malgré les réalités de la Zone, de nombreux stalkers croient encore à l\u0027existence de mythiques Klondikes, sûrs pour les humains et remplis d\u0027artefacts. Les statistiques sévères montrent que la plupart de ces rêveurs meurent en cherchant ou abandonnent l\u0027espoir de trouver le précieux Klondike. Mais, comme le disent les anciens du « Geiger ivre », personne n\u0027a jamais retrouvé mort le Pisteur, le chasseur de Klondikes le plus célèbre.",
+          "ko": "구역의 냉혹한 현실에도 불구하고, 아직도 많은 스토커들이 사람에게 안전하고 아티팩트가 가득한 신화 속 클론다이크가 존재한다고 믿는다. 냉혹한 통계가 말해주듯, 이런 낭만주의자들 대부분은 클론다이크를 찾아 나섰다가 목숨을 잃거나, 마침내 그토록 바라던 클론다이크를 찾겠다는 희망을 버리고 만다. 하지만 술 취한 가이거의 단골들이 말하길, 가장 유명한 클론다이크 사냥꾼인 탐색자는 아직까지 누구도 그의 시신을 발견하지 못했다고 한다."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}
