@@ -4880,6 +4880,26 @@
     }
   },
   {
+    "data": "/items/bullet/ojmm.json",
+    "icon": "/icons/bullet/ojmm.png",
+    "name": {
+      "type": "translation",
+      "key": "item.amm.ptrd_the_shock_wave.name",
+      "args": {},
+      "lines": {
+        "ru": "Патрон со снотворным для ПТРД-М",
+        "en": "Tranquilizer round for the PTRD-M",
+        "es": "Cartucho somnífero para PTRD-M",
+        "fr": "Cartouche somnifère pour PTRD-M",
+        "ko": "PTRD-M용 수면제 탄약"
+      }
+    },
+    "color": "DEFAULT",
+    "status": {
+      "state": "NONE"
+    }
+  },
+  {
     "data": "/items/weapon/device/z4v9.json",
     "icon": "/icons/weapon/device/z4v9.png",
     "name": {
@@ -31712,6 +31732,26 @@
         "es": "Pétalo",
         "fr": "Pétale",
         "ko": "꽃잎"
+      }
+    },
+    "color": "RANK_MASTER",
+    "status": {
+      "state": "PERSONAL_ON_USE"
+    }
+  },
+  {
+    "data": "/items/weapon/melee/g4v2p.json",
+    "icon": "/icons/weapon/melee/g4v2p.png",
+    "name": {
+      "type": "translation",
+      "key": "item.melee.atam.name",
+      "args": {},
+      "lines": {
+        "ru": "Атам",
+        "en": "Athame",
+        "es": "Athame",
+        "fr": "Athamé",
+        "ko": "아타메"
       }
     },
     "color": "RANK_MASTER",

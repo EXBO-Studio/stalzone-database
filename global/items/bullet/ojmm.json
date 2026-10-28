@@ -1,0 +1,249 @@
+{
+  "id": "ojmm",
+  "category": "bullet",
+  "name": {
+    "type": "translation",
+    "key": "item.amm.ptrd_the_shock_wave.name",
+    "args": {},
+    "lines": {
+      "ru": "Патрон со снотворным для ПТРД-М",
+      "en": "Tranquilizer round for the PTRD-M",
+      "es": "Cartucho somnífero para PTRD-M",
+      "fr": "Cartouche somnifère pour PTRD-M",
+      "ko": "PTRD-M용 수면제 탄약"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NONE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.bullet",
+            "args": {},
+            "lines": {
+              "ru": "Патроны",
+              "en": "Rounds",
+              "es": "Munición",
+              "fr": "Munitions",
+              "ko": "탄약"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.08,
+          "formatted": {
+            "value": {
+              "ru": "0,08 кг",
+              "en": "0.08 kg",
+              "es": "0,08 kg",
+              "fr": "0,08 kg",
+              "ko": "0.08 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "text",
+          "text": {
+            "type": "translation",
+            "key": "weapon.tooltip.bullet.bullet_type.piercing",
+            "args": {},
+            "lines": {
+              "ru": "Бронебойный патрон",
+              "en": "Armor-Piercing Round",
+              "es": "Munición perforante",
+              "fr": "Cartouche perforante",
+              "ko": "철갑탄"
+            }
+          }
+        },
+        {
+          "type": "text",
+          "text": {
+            "type": "translation",
+            "key": "weapon.tooltip.bullet.high_penetration",
+            "args": {},
+            "lines": {
+              "ru": "Высокая пробиваемость",
+              "en": "High penetration",
+              "es": "Penetración alta",
+              "fr": "Forte pénétration",
+              "ko": "높은 관통력"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.bullet.stat_name.bleeding",
+            "args": {},
+            "lines": {
+              "ru": "Кровотечение",
+              "en": "Bleeding",
+              "es": "Hemorragia",
+              "fr": "Saignement",
+              "ko": "출혈"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "+100%",
+              "en": "+100%",
+              "es": "+100 %",
+              "fr": "+100%",
+              "ko": "+100%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.bullet.stat_name.combustion",
+            "args": {},
+            "lines": {
+              "ru": "Горение",
+              "en": "Burning",
+              "es": "Quemadura",
+              "fr": "Combustion",
+              "ko": "발화"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "+100%",
+              "en": "+100%",
+              "es": "+100 %",
+              "fr": "+100%",
+              "ko": "+100%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.tooltip.bullet.stat_name.stopping_power",
+            "args": {},
+            "lines": {
+              "ru": "Останавливающее действие",
+              "en": "Stopping power",
+              "es": "Poder de parada",
+              "fr": "Pouvoir d\u0027arrêt",
+              "ko": "저지력"
+            }
+          },
+          "value": 500.0,
+          "formatted": {
+            "value": {
+              "ru": "+500",
+              "en": "+500",
+              "es": "+500",
+              "fr": "+500",
+              "ko": "+500"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.amm.ptrd_the_shock_wave.description",
+        "args": {},
+        "lines": {
+          "ru": "Специальный патрон с дротиком-снотворным для ПТРД-М.",
+          "en": "Special dart round loaded with a tranquilizer for the PTRD-M.",
+          "es": "Cartucho especial con dardo somnífero para PTRD-M.",
+          "fr": "Cartouche spéciale à fléchette tranquillisante pour PTRD-M.",
+          "ko": "PTRD-M용 특수 수면제 다트탄"
+        }
+      }
+    }
+  ]
+}

@@ -267,14 +267,14 @@
                   "ko": "피해량"
                 }
               },
-              "value": 36.656708,
+              "value": 36.446033,
               "formatted": {
                 "value": {
-                  "ru": "36,66 ед",
-                  "en": "36.66 unit(s)",
-                  "es": "36,66 unidad(es)",
-                  "fr": "36,66 unité(s)",
-                  "ko": "36.66 유닛"
+                  "ru": "36,45 ед",
+                  "en": "36.45 unit(s)",
+                  "es": "36,45 unidad(es)",
+                  "fr": "36,45 unité(s)",
+                  "ko": "36.45 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -665,14 +665,14 @@
                   "ko": "피해량"
                 }
               },
-              "value": 36.656708,
+              "value": 36.446033,
               "formatted": {
                 "value": {
-                  "ru": "36,66 ед",
-                  "en": "36.66 unit(s)",
-                  "es": "36,66 unidad(es)",
-                  "fr": "36,66 unité(s)",
-                  "ko": "36.66 유닛"
+                  "ru": "36,45 ед",
+                  "en": "36.45 unit(s)",
+                  "es": "36,45 unidad(es)",
+                  "fr": "36,45 unité(s)",
+                  "ko": "36.45 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -692,14 +692,14 @@
                   "ko": "최소 피해"
                 }
               },
-              "value": 20.329725,
+              "value": 20.119055,
               "formatted": {
                 "value": {
-                  "ru": "20,33 ед",
-                  "en": "20.33 unit(s)",
-                  "es": "20,33 unidad(es)",
-                  "fr": "20,33 unité(s)",
-                  "ko": "20.33 유닛"
+                  "ru": "20,12 ед",
+                  "en": "20.12 unit(s)",
+                  "es": "20,12 unidad(es)",
+                  "fr": "20,12 unité(s)",
+                  "ko": "20.12 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -2257,9 +2257,9 @@
     },
     {
       "type": "damage",
-      "startDamage": 36.656708,
+      "startDamage": 36.446033,
       "damageDecreaseStart": 12.0,
-      "endDamage": 20.329725,
+      "endDamage": 20.119055,
       "damageDecreaseEnd": 43.0,
       "maxDistance": 130.0
     },

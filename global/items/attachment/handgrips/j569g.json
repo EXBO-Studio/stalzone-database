@@ -135,33 +135,6 @@
           "type": "numeric",
           "name": {
             "type": "translation",
-            "key": "weapon.stat_factor.recoil",
-            "args": {},
-            "lines": {
-              "ru": "Верт. отдача",
-              "en": "Vertical recoil",
-              "es": "Retroceso vertical",
-              "fr": "Recul vertical",
-              "ko": "수직 반동"
-            }
-          },
-          "value": -1.2000024,
-          "formatted": {
-            "value": {
-              "ru": "-1,2%",
-              "en": "-1.2%",
-              "es": "-1,2 %",
-              "fr": "-1,2%",
-              "ko": "-1.2%"
-            },
-            "nameColor": "53C353",
-            "valueColor": "53C353"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
             "key": "weapon.stat_factor.horizontal_recoil",
             "args": {},
             "lines": {
@@ -172,14 +145,14 @@
               "ko": "수평 반동"
             }
           },
-          "value": -1.2000024,
+          "value": -2.9999971,
           "formatted": {
             "value": {
-              "ru": "-1,2%",
-              "en": "-1.2%",
-              "es": "-1,2 %",
-              "fr": "-1,2%",
-              "ko": "-1.2%"
+              "ru": "-3%",
+              "en": "-3%",
+              "es": "-3 %",
+              "fr": "-3%",
+              "ko": "-3%"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"
@@ -199,41 +172,14 @@
               "ko": "반동 누적"
             }
           },
-          "value": -2.399999,
+          "value": -3.2000005,
           "formatted": {
             "value": {
-              "ru": "-2,4%",
-              "en": "-2.4%",
-              "es": "-2,4 %",
-              "fr": "-2,4%",
-              "ko": "-2.4%"
-            },
-            "nameColor": "53C353",
-            "valueColor": "53C353"
-          }
-        },
-        {
-          "type": "numeric",
-          "name": {
-            "type": "translation",
-            "key": "weapon.stat_factor.aim_switch_time",
-            "args": {},
-            "lines": {
-              "ru": "Скорость прицеливания",
-              "en": "Aim speed",
-              "es": "Velocidad de apuntado",
-              "fr": "Vitesse de visée",
-              "ko": "조준 속도"
-            }
-          },
-          "value": -5.000001,
-          "formatted": {
-            "value": {
-              "ru": "+5%",
-              "en": "+5%",
-              "es": "+5 %",
-              "fr": "+5%",
-              "ko": "+5%"
+              "ru": "-3,2%",
+              "en": "-3.2%",
+              "es": "-3,2 %",
+              "fr": "-3,2%",
+              "ko": "-3.2%"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"
@@ -253,14 +199,41 @@
               "ko": "무기 꺼내기 속도"
             }
           },
-          "value": -4.000002,
+          "value": 20.000004,
           "formatted": {
             "value": {
-              "ru": "+4%",
-              "en": "+4%",
-              "es": "+4 %",
-              "fr": "+4%",
-              "ko": "+4%"
+              "ru": "-20%",
+              "en": "-20%",
+              "es": "-20 %",
+              "fr": "-20%",
+              "ko": "-20%"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.wiggle",
+            "args": {},
+            "lines": {
+              "ru": "Покачивание",
+              "en": "Sway",
+              "es": "Oscilación",
+              "fr": "Balancement",
+              "ko": "흔들림"
+            }
+          },
+          "value": -7.999998,
+          "formatted": {
+            "value": {
+              "ru": "-8%",
+              "en": "-8%",
+              "es": "-8 %",
+              "fr": "-8%",
+              "ko": "-8%"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"
@@ -280,14 +253,14 @@
               "ko": "안정성"
             }
           },
-          "value": 3.1995773,
+          "value": 3.9994717,
           "formatted": {
             "value": {
-              "ru": "+3,2%",
-              "en": "+3.2%",
-              "es": "+3,2 %",
-              "fr": "+3,2%",
-              "ko": "+3.2%"
+              "ru": "+4%",
+              "en": "+4%",
+              "es": "+4 %",
+              "fr": "+4%",
+              "ko": "+4%"
             },
             "nameColor": "53C353",
             "valueColor": "53C353"

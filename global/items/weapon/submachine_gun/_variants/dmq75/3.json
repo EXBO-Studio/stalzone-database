@@ -348,14 +348,14 @@
                   "ko": "연사 속도"
                 }
               },
-              "value": 750.0,
+              "value": 760.0,
               "formatted": {
                 "value": {
-                  "ru": "750 выстр/мин",
-                  "en": "750 shots/min",
-                  "es": "750 disparos/min",
-                  "fr": "750tirs/min",
-                  "ko": "분당 750 발"
+                  "ru": "760 выстр/мин",
+                  "en": "760 shots/min",
+                  "es": "760 disparos/min",
+                  "fr": "760tirs/min",
+                  "ko": "분당 760 발"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -854,14 +854,14 @@
                   "ko": "연사 속도"
                 }
               },
-              "value": 750.0,
+              "value": 760.0,
               "formatted": {
                 "value": {
-                  "ru": "750 выстр/мин",
-                  "en": "750 shots/min",
-                  "es": "750 disparos/min",
-                  "fr": "750tirs/min",
-                  "ko": "분당 750 발"
+                  "ru": "760 выстр/мин",
+                  "en": "760 shots/min",
+                  "es": "760 disparos/min",
+                  "fr": "760tirs/min",
+                  "ko": "분당 760 발"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -1043,14 +1043,14 @@
                   "ko": "점사 발사 속도"
                 }
               },
-              "value": 750.0,
+              "value": 760.0,
               "formatted": {
                 "value": {
-                  "ru": "750 выстр/мин",
-                  "en": "750 shots/min",
-                  "es": "750 disparos/min",
-                  "fr": "750tirs/min",
-                  "ko": "분당 750 발"
+                  "ru": "760 выстр/мин",
+                  "en": "760 shots/min",
+                  "es": "760 disparos/min",
+                  "fr": "760tirs/min",
+                  "ko": "분당 760 발"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"

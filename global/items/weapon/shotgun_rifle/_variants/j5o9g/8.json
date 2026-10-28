@@ -692,14 +692,14 @@
                   "ko": "최소 피해"
                 }
               },
-              "value": 36.0,
+              "value": 39.155487,
               "formatted": {
                 "value": {
-                  "ru": "36 ед",
-                  "en": "36 unit(s)",
-                  "es": "36 unidad(es)",
-                  "fr": "36 unité(s)",
-                  "ko": "36 유닛"
+                  "ru": "39,16 ед",
+                  "en": "39.16 unit(s)",
+                  "es": "39,16 unidad(es)",
+                  "fr": "39,16 unité(s)",
+                  "ko": "39.16 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -2092,6 +2092,33 @@
             "nameColor": "F1AA21",
             "valueColor": "F1AA21"
           }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.damage_distant",
+            "args": {},
+            "lines": {
+              "ru": "Урон вдали",
+              "en": "Damage at range",
+              "es": "Daño a distancia",
+              "fr": "Dégât à distance",
+              "ko": "장거리 피해량"
+            }
+          },
+          "value": 8.765243,
+          "formatted": {
+            "value": {
+              "ru": "+8,77%",
+              "en": "+8.77%",
+              "es": "+8,77 %",
+              "fr": "+8,77%",
+              "ko": "+8.77%"
+            },
+            "nameColor": "F1AA21",
+            "valueColor": "F1AA21"
+          }
         }
       ]
     },
@@ -2159,7 +2186,7 @@
       "type": "damage",
       "startDamage": 130.5183,
       "damageDecreaseStart": 5.0,
-      "endDamage": 36.0,
+      "endDamage": 39.155487,
       "damageDecreaseEnd": 28.0,
       "maxDistance": 75.0
     },
