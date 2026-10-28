@@ -267,14 +267,14 @@
                   "ko": "피해량"
                 }
               },
-              "value": 30.547256,
+              "value": 30.441921,
               "formatted": {
                 "value": {
-                  "ru": "30,55 ед",
-                  "en": "30.55 unit(s)",
-                  "es": "30,55 unidad(es)",
-                  "fr": "30,55 unité(s)",
-                  "ko": "30.55 유닛"
+                  "ru": "30,44 ед",
+                  "en": "30.44 unit(s)",
+                  "es": "30,44 unidad(es)",
+                  "fr": "30,44 unité(s)",
+                  "ko": "30.44 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -510,14 +510,14 @@
                   "ko": "수직 반동"
                 }
               },
-              "value": 0.45,
+              "value": 0.56,
               "formatted": {
                 "value": {
-                  "ru": "0,45°",
-                  "en": "0.45°",
-                  "es": "0,45°",
-                  "fr": "0,45°",
-                  "ko": "0.45°"
+                  "ru": "0,56°",
+                  "en": "0.56°",
+                  "es": "0,56°",
+                  "fr": "0,56°",
+                  "ko": "0.56°"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -665,14 +665,14 @@
                   "ko": "피해량"
                 }
               },
-              "value": 30.547256,
+              "value": 30.441921,
               "formatted": {
                 "value": {
-                  "ru": "30,55 ед",
-                  "en": "30.55 unit(s)",
-                  "es": "30,55 unidad(es)",
-                  "fr": "30,55 unité(s)",
-                  "ko": "30.55 유닛"
+                  "ru": "30,44 ед",
+                  "en": "30.44 unit(s)",
+                  "es": "30,44 unidad(es)",
+                  "fr": "30,44 unité(s)",
+                  "ko": "30.44 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -746,14 +746,14 @@
                   "ko": "피해량 감소 시작거리"
                 }
               },
-              "value": 16.0,
+              "value": 15.0,
               "formatted": {
                 "value": {
-                  "ru": "16 м",
-                  "en": "16 m",
-                  "es": "16 m",
-                  "fr": "16 m",
-                  "ko": "16 미터"
+                  "ru": "15 м",
+                  "en": "15 m",
+                  "es": "15 m",
+                  "fr": "15 m",
+                  "ko": "15 미터"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -1363,14 +1363,14 @@
                   "ko": "수직 반동"
                 }
               },
-              "value": 0.45,
+              "value": 0.56,
               "formatted": {
                 "value": {
-                  "ru": "0,45°",
-                  "en": "0.45°",
-                  "es": "0,45°",
-                  "fr": "0,45°",
-                  "ko": "0.45°"
+                  "ru": "0,56°",
+                  "en": "0.56°",
+                  "es": "0,56°",
+                  "fr": "0,56°",
+                  "ko": "0.56°"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -2247,8 +2247,8 @@
     },
     {
       "type": "damage",
-      "startDamage": 30.547256,
-      "damageDecreaseStart": 16.0,
+      "startDamage": 30.441921,
+      "damageDecreaseStart": 15.0,
       "endDamage": 18.960365,
       "damageDecreaseEnd": 50.0,
       "maxDistance": 140.0

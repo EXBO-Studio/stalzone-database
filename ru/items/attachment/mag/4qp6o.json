@@ -93,14 +93,14 @@
               "ko": "무게"
             }
           },
-          "value": 0.35,
+          "value": 0.5,
           "formatted": {
             "value": {
-              "ru": "0,35 кг",
-              "en": "0.35 kg",
-              "es": "0,35 kg",
-              "fr": "0,35 kg",
-              "ko": "0.35 kg"
+              "ru": "0,5 кг",
+              "en": "0.5 kg",
+              "es": "0,5 kg",
+              "fr": "0,5 kg",
+              "ko": "0.5 kg"
             },
             "nameColor": "838383",
             "valueColor": "838383"
@@ -172,14 +172,14 @@
               "ko": "재장전"
             }
           },
-          "value": 3.0,
+          "value": 3.25,
           "formatted": {
             "value": {
-              "ru": "3 с",
-              "en": "3 sec",
-              "es": "3 s",
-              "fr": "3 s",
-              "ko": "3초"
+              "ru": "3,25 с",
+              "en": "3.25 sec",
+              "es": "3,25 s",
+              "fr": "3,25 s",
+              "ko": "3.25초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -199,14 +199,14 @@
               "ko": "전술 재장전"
             }
           },
-          "value": 2.4,
+          "value": 2.6,
           "formatted": {
             "value": {
-              "ru": "2,4 с",
-              "en": "2.4 sec",
-              "es": "2,4 s",
-              "fr": "2,4 s",
-              "ko": "2.4초"
+              "ru": "2,6 с",
+              "en": "2.6 sec",
+              "es": "2,6 s",
+              "fr": "2,6 s",
+              "ko": "2.6초"
             },
             "nameColor": "838383",
             "valueColor": "EEEEEE"
@@ -220,7 +220,89 @@
         "type": "text",
         "text": ""
       },
-      "elements": []
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.recoil",
+            "args": {},
+            "lines": {
+              "ru": "Верт. отдача",
+              "en": "Vertical recoil",
+              "es": "Retroceso vertical",
+              "fr": "Recul vertical",
+              "ko": "수직 반동"
+            }
+          },
+          "value": -5.000001,
+          "formatted": {
+            "value": {
+              "ru": "-5%",
+              "en": "-5%",
+              "es": "-5 %",
+              "fr": "-5%",
+              "ko": "-5%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.horizontal_recoil",
+            "args": {},
+            "lines": {
+              "ru": "Гориз. отдача",
+              "en": "Horizontal recoil",
+              "es": "Retroceso horizontal",
+              "fr": "Recul horizontal",
+              "ko": "수평 반동"
+            }
+          },
+          "value": -5.000001,
+          "formatted": {
+            "value": {
+              "ru": "-5%",
+              "en": "-5%",
+              "es": "-5 %",
+              "fr": "-5%",
+              "ko": "-5%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "weapon.stat_factor.recoil_gain",
+            "args": {},
+            "lines": {
+              "ru": "Нарастание отдачи",
+              "en": "Recoil buildup",
+              "es": "Acumulación de retroceso",
+              "fr": "Accumulation du recul",
+              "ko": "반동 누적"
+            }
+          },
+          "value": -10.000002,
+          "formatted": {
+            "value": {
+              "ru": "-10%",
+              "en": "-10%",
+              "es": "-10 %",
+              "fr": "-10%",
+              "ko": "-10%"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
     },
     {
       "type": "list",

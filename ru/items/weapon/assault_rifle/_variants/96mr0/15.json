@@ -295,14 +295,14 @@
                   "ko": "피해량"
                 }
               },
-              "value": 42.5,
+              "value": 42.875,
               "formatted": {
                 "value": {
-                  "ru": "42,5 ед",
-                  "en": "42.5 unit(s)",
-                  "es": "42,5 unidad(es)",
-                  "fr": "42,5 unité(s)",
-                  "ko": "42.5 유닛"
+                  "ru": "42,88 ед",
+                  "en": "42.88 unit(s)",
+                  "es": "42,88 unidad(es)",
+                  "fr": "42,88 unité(s)",
+                  "ko": "42.88 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -693,14 +693,14 @@
                   "ko": "피해량"
                 }
               },
-              "value": 42.5,
+              "value": 42.875,
               "formatted": {
                 "value": {
-                  "ru": "42,5 ед",
-                  "en": "42.5 unit(s)",
-                  "es": "42,5 unidad(es)",
-                  "fr": "42,5 unité(s)",
-                  "ko": "42.5 유닛"
+                  "ru": "42,88 ед",
+                  "en": "42.88 unit(s)",
+                  "es": "42,88 unidad(es)",
+                  "fr": "42,88 unité(s)",
+                  "ko": "42.88 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -2285,7 +2285,7 @@
     },
     {
       "type": "damage",
-      "startDamage": 42.5,
+      "startDamage": 42.875,
       "damageDecreaseStart": 20.0,
       "endDamage": 31.75,
       "damageDecreaseEnd": 72.0,

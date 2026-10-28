@@ -95,14 +95,14 @@
           },
           "value": {
             "type": "translation",
-            "key": "stalker.tooltip.armor_artefact.hitbox_size.small",
+            "key": "stalker.tooltip.armor_artefact.hitbox_size.medium",
             "args": {},
             "lines": {
-              "ru": "Маленькие",
-              "en": "Small",
-              "es": "Pequeño",
-              "fr": "Petit",
-              "ko": "소형"
+              "ru": "Средние",
+              "en": "Medium",
+              "es": "Medianos",
+              "fr": "Moyen",
+              "ko": "중형"
             }
           }
         },

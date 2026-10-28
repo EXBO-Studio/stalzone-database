@@ -1017,14 +1017,14 @@
                   "ko": "헤드샷 피해 배율"
                 }
               },
-              "value": 1.5,
+              "value": 1.54,
               "formatted": {
                 "value": {
-                  "ru": "x1,5",
-                  "en": "x1.5",
-                  "es": "x1,5",
-                  "fr": "x1,5",
-                  "ko": "x1.5"
+                  "ru": "x1,54",
+                  "en": "x1.54",
+                  "es": "x1,54",
+                  "fr": "x1,54",
+                  "ko": "x1.54"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -2142,14 +2142,14 @@
             "type": "translation",
             "key": "weapon.tooltip.weapon.head_damage_modifier",
             "args": {
-              "modifier": "1.5"
+              "modifier": "1.54"
             },
             "lines": {
-              "ru": "Урон в голову: х1,5",
-              "en": "Headshot damage: x1.5",
-              "es": "Daño por disparo a la cabeza: x1,5",
-              "fr": "Dégât de tir à la tête : x1,5",
-              "ko": "헤드샷 피해: x1.5"
+              "ru": "Урон в голову: х1,54",
+              "en": "Headshot damage: x1.54",
+              "es": "Daño por disparo a la cabeza: x1,54",
+              "fr": "Dégât de tir à la tête : x1,54",
+              "ko": "헤드샷 피해: x1.54"
             }
           }
         },

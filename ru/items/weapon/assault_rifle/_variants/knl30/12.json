@@ -720,14 +720,14 @@
                   "ko": "최소 피해"
                 }
               },
-              "value": 37.20046,
+              "value": 37.66692,
               "formatted": {
                 "value": {
-                  "ru": "37,2 ед",
-                  "en": "37.2 unit(s)",
-                  "es": "37,2 unidad(es)",
-                  "fr": "37,2 unité(s)",
-                  "ko": "37.2 유닛"
+                  "ru": "37,67 ед",
+                  "en": "37.67 unit(s)",
+                  "es": "37,67 unidad(es)",
+                  "fr": "37,67 unité(s)",
+                  "ko": "37.67 유닛"
                 },
                 "nameColor": "838383",
                 "valueColor": "EEEEEE"
@@ -2233,7 +2233,7 @@
       "type": "damage",
       "startDamage": 41.165398,
       "damageDecreaseStart": 28.0,
-      "endDamage": 37.20046,
+      "endDamage": 37.66692,
       "damageDecreaseEnd": 80.0,
       "maxDistance": 175.0
     },
