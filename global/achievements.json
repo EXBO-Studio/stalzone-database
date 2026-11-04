@@ -15449,7 +15449,7 @@
         "ru": "Даже с нейронкой у тебя не получилось. Ну бывает.",
         "en": "Even with a neural net, you couldn’t pull it off. Well, it happens.",
         "es": "Ni siquiera con una IA lo conseguiste. Bueno, son cosas que pasan.",
-        "fr": "Même avec un réseau neuronal, tu n’y es pas arrivé. Bon, ça arrive.",
+        "fr": "Même avec un réseau neuronal, tu n\u0027y es pas arrivé. Bon, ça arrive.",
         "ko": "AI를 써도 번역이 잘 안 되네. 뭐, 그럴 수도 있지."
       }
     },
@@ -15465,7 +15465,7 @@
         "ru": "Камуфляж не помог",
         "en": "The camouflage didn’t help",
         "es": "El camuflaje no sirvió de nada.",
-        "fr": "Le camouflage n’a pas aidé.",
+        "fr": "Le camouflage n\u0027a pas aidé.",
         "ko": "위장은 소용없었다"
       }
     },
@@ -15477,8 +15477,36 @@
         "ru": "Я точно где-то это видел. Кто знает, может быть посыльный на самом деле злодей.",
         "en": "I’ve definitely seen this somewhere before. Who knows—maybe the courier is actually the bad guy.",
         "es": "Estoy seguro de haber visto esto en alguna parte. Quién sabe, puede que el mensajero sea en realidad el villano.",
-        "fr": "Je suis certain d’avoir déjà vu ça quelque part. Qui sait, peut-être que le messager est en réalité le méchant.",
+        "fr": "Je suis certain d\u0027avoir déjà vu ça quelque part. Qui sait, peut-être que le messager est en réalité le méchant.",
         "ko": "이거 분명 어디선가 본 적 있어. 누가 알아? 어쩌면 전령이 사실 악당일지도 몰라."
+      }
+    },
+    "points": 10
+  },
+  {
+    "id": "not_mammoth",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.not_mammoth.title",
+      "args": {},
+      "lines": {
+        "ru": "Не мамонт",
+        "en": "Not a Dinosaur",
+        "es": "No es un mamut",
+        "fr": "Pas un mammouth",
+        "ko": "매머드가 아니다"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.not_mammoth.desc",
+      "args": {},
+      "lines": {
+        "ru": "Лив благодарит вас за вложение денег в его дело и отпуск на Мальдивах с отличным видом на океан",
+        "en": "Liv thanks you for investing in his business and for the Maldives vacation with an amazing ocean view.",
+        "es": "Liv le agradece su inversión en su negocio y sus vacaciones en las Maldivas con unas excelentes vistas al océano",
+        "fr": "Liv vous remercie d\u0027avoir financé son affaire et ses vacances aux Maldives, avec une vue imprenable sur l\u0027océan.",
+        "ko": "리브는 자신의 사업에 투자해 준 것과 탁 트인 바다 전망을 자랑하는 몰디브에서의 휴가에 감사하고 있습니다"
       }
     },
     "points": 10
