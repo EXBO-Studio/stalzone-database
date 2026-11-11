@@ -3631,7 +3631,7 @@
       "args": {},
       "lines": {
         "ru": "Эвакуироваться единственным в сессии",
-        "en": "Evacuate the only one in the session",
+        "en": "Be the only one to evacuate in the session",
         "es": "Ser el único que evacuó en la sesión",
         "fr": "Être le seul survivant évacué de la session",
         "ko": "세션에서 유일하게 탈출에 성공하십시오."
@@ -15510,5 +15510,33 @@
       }
     },
     "points": 10
+  },
+  {
+    "id": "cinematic_contest",
+    "title": {
+      "type": "translation",
+      "key": "general.achievement.id.cinematic_contest.title",
+      "args": {},
+      "lines": {
+        "ru": "Камера, звук, мотор!",
+        "en": "Lights, camera, action!",
+        "es": "¡Cámara, sonido, acción!",
+        "fr": "Caméra, son, moteur !",
+        "ko": "카메라, 사운드, 액션!"
+      }
+    },
+    "description": {
+      "type": "translation",
+      "key": "general.achievement.id.cinematic_contest.desc",
+      "args": {},
+      "lines": {
+        "ru": "Занять призовое место в конкурсе синематиков.",
+        "en": "Win a prize in the cinematics contest.",
+        "es": "Quedar entre los ganadores del concurso de cinemáticas.",
+        "fr": "Remporter une place au concours de cinématiques.",
+        "ko": "시네마틱 공모전에서 입상했다!"
+      }
+    },
+    "points": 0
   }
 ]
